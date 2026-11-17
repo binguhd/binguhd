@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-11-16 04:48:13 UTC
+> 最后更新: 2026-11-17 15:39:52 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-17 | 走进广阔的大自然 | 雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images) | [![走进广阔的大自然](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg) |
 | 2026-11-16 | 历经岁月，屹立不倒 | 美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images) | [![历经岁月，屹立不倒](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg) |
 | 2026-11-15 | 霜染枝叶 | 覆霜的红叶杜鹃 (© avoferten/Shutterstock) | [![霜染枝叶](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_320x240.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg) |
 | 2026-11-14 | 唯有向上发展 | 中国香港维多利亚港 (© Juan Romero/Cavan Images) | [![唯有向上发展](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg) |
