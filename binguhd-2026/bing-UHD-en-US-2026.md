@@ -1,9 +1,11 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-16 04:46:18 UTC
+> Last updated: 2026-11-17 15:37:43 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-18 | Step into the great outdoors | Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images) | [![Step into the great outdoors](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg) |
+| 2026-11-17 | Built to last | Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images) | [![Built to last](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg) |
 | 2026-11-16 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_320x240.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg) |
 | 2026-11-15 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg) |
 | 2026-11-14 | Hidden depths | Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images) | [![Hidden depths](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg) |
