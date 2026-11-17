@@ -1,10 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2024
 
-> 最終更新：2026-11-17 09:20:13 UTC
+> 最終更新：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
-## 🦅 [ドイツ語（ドイツ）](binguhd-de-DE-2024.md)
+## 🦅 [ドイツ語（ドイツ）](bing-UHD-de-DE-2024.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2024-02-12 | Sanfte Riesen | Riesenschildkröten am Vulkan Alcedo, Insel Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures) | [![Sanfte Riesen](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_UHD.jpg) |
 | 2024-12-16 | Musik liegt in der Luft | Salzburg, Österreich (© bluejayphoto/Getty Images) | [![Musik liegt in der Luft](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg) |
 
-## 🍁 [英語（カナダ）](binguhd-en-CA-2024.md)
+## 🍁 [英語（カナダ）](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2024-01-06 | Chisels and chills | International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg) |
 | 2024-09-14 | A haven for nature and humans | Point Reyes National Seashore Lighthouse, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images) | [![A haven for nature and humans](https://www.bing.com/th?id=OHR.PointReyes_EN-CA0207843307_320x240.jpg)](https://www.bing.com/th?id=OHR.PointReyes_EN-CA0207843307_UHD.jpg) |
 
-## 🌹 [英語（イギリス）](binguhd-en-GB-2024.md)
+## 🌹 [英語（イギリス）](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2024-05-12 | Quiet reflection | Skiddaw, Lake District National Park, England (© James Whitesmith/Alamy Stock Photo) | [![Quiet reflection](https://www.bing.com/th?id=OHR.SkiddawMassifUK_EN-GB5449719093_320x240.jpg)](https://www.bing.com/th?id=OHR.SkiddawMassifUK_EN-GB5449719093_UHD.jpg) |
 | 2024-07-25 | Into the thick of it | Forest path in Great Smoky Mountains National Park, Tennessee, USA (© putmanphoto/Getty Images) | [![Into the thick of it](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_320x240.jpg)](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_UHD.jpg) |
 
-## 🦁 [英語（インド）](binguhd-en-IN-2024.md)
+## 🦁 [英語（インド）](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2024-10-09 | Colorado in full colour | Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion) | [![Colorado in full colour](https://www.bing.com/th?id=OHR.AspensColorado_EN-IN9587734366_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_EN-IN9587734366_UHD.jpg) |
 | 2024-04-14 | Rock 'n' bowl | Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images) | [![Rock 'n' bowl](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-IN9555671935_320x240.jpg)](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-IN9555671935_UHD.jpg) |
 
-## 🗽 [英語（アメリカ合衆国）](binguhd-en-US-2024.md)
+## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2024-04-19 | Wall of fame | Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images) | [![Wall of fame](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_320x240.jpg)](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg) |
 | 2024-05-24 | Looking for a shell-ter | Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures) | [![Looking for a shell-ter](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_320x240.jpg)](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg) |
 
-## 🐓 [フランス語（フランス）](binguhd-fr-FR-2024.md)
+## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2024-09-04 | Les seigneurs de la nuit | Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images) | [![Les seigneurs de la nuit](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_UHD.jpg) |
 | 2024-04-02 | Petit rayon de soleil printanier | Hêtres et anémones sauvages, Jutland, Danemark (© Nick Brundle Photography/Getty Images) | [![Petit rayon de soleil printanier](https://www.bing.com/th?id=OHR.JutlandSpring_FR-FR9511410007_320x240.jpg)](https://www.bing.com/th?id=OHR.JutlandSpring_FR-FR9511410007_UHD.jpg) |
 
-## ⭐ [イタリア語（イタリア）](binguhd-it-IT-2024.md)
+## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2024-05-17 | Che vista e che magnifica torre! | Vista di Bergamo Alta durante il tramonto, Lombardia, Italia (© Deimagine/Getty Images) | [![Che vista e che magnifica torre!](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_320x240.jpg)](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_UHD.jpg) |
 | 2024-11-02 | Da quasi estinzione a icona nazionale | Bisonte americano nel Parco Nazionale di Yellowstone, Wyoming, Stati Uniti (© Ian Shive/TANDEM Stills + Motion) | [![Da quasi estinzione a icona nazionale](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_UHD.jpg) |
 
-## 🌸 [日本語（日本）](binguhd-ja-JP-2024.md)
+## 🌸 [日本語（日本）](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2024-03-24 | 湿原を横切るリーチュエの群れ | オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images) | [![湿原を横切るリーチュエの群れ](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_320x240.jpg)](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg) |
 | 2024-12-11 | 今日は国際山岳デー | トレ・チーメ・ディ・ラヴァレード, イタリア (© Daniel Maran/Getty Images) | [![今日は国際山岳デー](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg) |
 
-## 🐉 [簡体字中国語（中国）](binguhd-zh-CN-2024.md)
+## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

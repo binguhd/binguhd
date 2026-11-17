@@ -1,10 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2023
 
-> Last updated：2026-11-17 09:20:13 UTC
+> Last updated：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
-## 🦅 [German (Germany)](binguhd-de-DE-2023.md)
+## 🦅 [German (Germany)](bing-UHD-de-DE-2023.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2023-07-30 | Lebenskraft durch Freundschaft und Leidenschaft | Zwei Jungfüchse spielen auf einer Wiese, Deutschland (© Reibertb/Getty Images) | [![Lebenskraft durch Freundschaft und Leidenschaft](https://www.bing.com/th?id=OHR.FoxCubs_DE-DE0132480419_320x240.jpg)](https://www.bing.com/th?id=OHR.FoxCubs_DE-DE0132480419_UHD.jpg) |
 | 2023-02-16 | Ein Fest für den Film | Industriekletterer besteigen den Berlinale-Bären im Kino Zoo-Palast, Berlin (© Britta Pedersen/dpa/Alamy Live News) | [![Ein Fest für den Film](https://www.bing.com/th?id=OHR.BerlinaleEroeffnung_DE-DE6394050974_320x240.jpg)](https://www.bing.com/th?id=OHR.BerlinaleEroeffnung_DE-DE6394050974_UHD.jpg) |
 
-## 🍁 [English (Canada)](binguhd-en-CA-2023.md)
+## 🍁 [English (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2023-11-26 | Kluane's untamed beauty | Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© A. Michael Brown/Shutterstock) | [![Kluane's untamed beauty](https://www.bing.com/th?id=OHR.KluaneNationalPark_EN-CA2444890279_320x240.jpg)](https://www.bing.com/th?id=OHR.KluaneNationalPark_EN-CA2444890279_UHD.jpg) |
 | 2023-04-04 | Chasing rainbows | Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images) | [![Chasing rainbows](https://www.bing.com/th?id=OHR.HonaunauNP_EN-CA3475856618_320x240.jpg)](https://www.bing.com/th?id=OHR.HonaunauNP_EN-CA3475856618_UHD.jpg) |
 
-## 🌹 [English (United Kingdom)](binguhd-en-GB-2023.md)
+## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2023-09-15 | The Queen of the Glens | Sunset in Glenariff Forest Park, County Antrim, Ireland (© Peter Zelei/Getty Images) | [![The Queen of the Glens](https://www.bing.com/th?id=OHR.GlenariffForest_EN-GB9562740615_320x240.jpg)](https://www.bing.com/th?id=OHR.GlenariffForest_EN-GB9562740615_UHD.jpg) |
 | 2023-03-23 | Man-made, meandering Lake Powell | Lake Powell on the Colorado River, USA (© Peter Schaefer/Alamy) | [![Man-made, meandering Lake Powell](https://www.bing.com/th?id=OHR.LakePowellAerial_EN-GB7758078014_320x240.jpg)](https://www.bing.com/th?id=OHR.LakePowellAerial_EN-GB7758078014_UHD.jpg) |
 
-## 🦁 [English (India)](binguhd-en-IN-2023.md)
+## 🦁 [English (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2023-02-04 | What can you see from this tower? | Feldberg Tower in the Black Forest, Baden-Württemberg, Germany (© Hemis/Alamy) | [![What can you see from this tower?](https://www.bing.com/th?id=OHR.FeldbergSchnee_EN-IN9827082388_320x240.jpg)](https://www.bing.com/th?id=OHR.FeldbergSchnee_EN-IN9827082388_UHD.jpg) |
 | 2023-03-04 | The road less taken? | Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images) | [![The road less taken?](https://www.bing.com/th?id=OHR.PicoVolcano_EN-IN2622183822_320x240.jpg)](https://www.bing.com/th?id=OHR.PicoVolcano_EN-IN2622183822_UHD.jpg) |
 
-## 🗽 [English (United States)](binguhd-en-US-2023.md)
+## 🗽 [English (United States)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2023-11-24 | Happy Thanksgiving! | Flint corn (© Cynthia Liang/Shutterstock) | [![Happy Thanksgiving!](https://www.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_320x240.jpg)](https://www.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg) |
 | 2023-07-15 | A shiver of sharks on the hunt | Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images) | [![A shiver of sharks on the hunt](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_320x240.jpg)](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg) |
 
-## 🐓 [French (France)](binguhd-fr-FR-2023.md)
+## 🐓 [French (France)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2023-03-11 | Le mariage de la terre, de la mer et du vent | Marais, Gloucester, Massachusetts, États-Unis (© Thomas H. Mitchell/Getty Images) | [![Le mariage de la terre, de la mer et du vent](https://www.bing.com/th?id=OHR.LongWharf_FR-FR7507663027_320x240.jpg)](https://www.bing.com/th?id=OHR.LongWharf_FR-FR7507663027_UHD.jpg) |
 | 2023-01-08 | Du ski aux États-Unis | Breckenridge, Colorado, États-Unis (© Sean Pavone/Shutterstock) | [![Du ski aux États-Unis](https://www.bing.com/th?id=OHR.Breckenridge_FR-FR5376637294_320x240.jpg)](https://www.bing.com/th?id=OHR.Breckenridge_FR-FR5376637294_UHD.jpg) |
 
-## ⭐ [Italian (Italy)](binguhd-it-IT-2023.md)
+## ⭐ [Italian (Italy)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2023-10-16 | Davvero incantevole | Larici dorati e Prusik Peak, Washington (© Jim Patterson/Tandem Stills + Motion) | [![Davvero incantevole](https://www.bing.com/th?id=OHR.GoldenEnchantments_IT-IT9162658563_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenEnchantments_IT-IT9162658563_UHD.jpg) |
 | 2023-12-06 | Come inglobare il futuro | Il Globo della Scienza e dell'Innovazione, Meyrin, Svizzera (© Deyan Baric/Alamy) | [![Come inglobare il futuro](https://www.bing.com/th?id=OHR.CERNCenter_IT-IT7703237529_320x240.jpg)](https://www.bing.com/th?id=OHR.CERNCenter_IT-IT7703237529_UHD.jpg) |
 
-## 🌸 [Japanese (Japan)](binguhd-ja-JP-2023.md)
+## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2023-04-17 | 千の春 | キュー王立植物園のアートインスタレーション, ロンドン (© Guy Bell/Alamy Live News) | [![千の春](https://www.bing.com/th?id=OHR.OneThousandSprings_JA-JP1763626883_320x240.jpg)](https://www.bing.com/th?id=OHR.OneThousandSprings_JA-JP1763626883_UHD.jpg) |
 | 2023-06-29 | 今日は国際熱帯デー | バニャック諸島, インドネシア (© fbxx/Getty Images) | [![今日は国際熱帯デー](https://www.bing.com/th?id=OHR.BanyakIslands_JA-JP5494773758_320x240.jpg)](https://www.bing.com/th?id=OHR.BanyakIslands_JA-JP5494773758_UHD.jpg) |
 
-## 🐉 [Simplified Chinese (China)](binguhd-zh-CN-2023.md)
+## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

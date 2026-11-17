@@ -1,10 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2023
 
-> Ultimo aggiornamento：2026-11-17 09:20:13 UTC
+> Ultimo aggiornamento：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
-## 🦅 [Tedesco (Germania)](binguhd-de-DE-2023.md)
+## 🦅 [Tedesco (Germania)](bing-UHD-de-DE-2023.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2023-05-15 | Eine Insel an der sich Kulturen kreuzen | Morro Jable und Playa del Matorral, Fuerteventura, Kanarische Inseln, Spanien (© Gavin Hellier/Getty Images) | [![Eine Insel an der sich Kulturen kreuzen](https://www.bing.com/th?id=OHR.MorroJable_DE-DE3676958507_320x240.jpg)](https://www.bing.com/th?id=OHR.MorroJable_DE-DE3676958507_UHD.jpg) |
 | 2023-09-19 | Kehren, Kehren...Kehren wir zurück? | Splügenpass, Graubünden, Schweiz (© Roberto Moiola/Getty Images) | [![Kehren, Kehren...Kehren wir zurück?](https://www.bing.com/th?id=OHR.SplugenPass_DE-DE9394174285_320x240.jpg)](https://www.bing.com/th?id=OHR.SplugenPass_DE-DE9394174285_UHD.jpg) |
 
-## 🍁 [Inglese (Canada)](binguhd-en-CA-2023.md)
+## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2023-07-07 | A peck between penguins | Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images) | [![A peck between penguins](https://www.bing.com/th?id=OHR.KissingPenguins_EN-CA8280296959_320x240.jpg)](https://www.bing.com/th?id=OHR.KissingPenguins_EN-CA8280296959_UHD.jpg) |
 | 2023-05-22 | A bridge that holds up history | River Seine, Paris, France (© StockByM/Getty Images) | [![A bridge that holds up history](https://www.bing.com/th?id=OHR.PontdArcole_EN-CA1450202223_320x240.jpg)](https://www.bing.com/th?id=OHR.PontdArcole_EN-CA1450202223_UHD.jpg) |
 
-## 🌹 [Inglese (Regno Unito)](binguhd-en-GB-2023.md)
+## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2023-09-02 | A welcome spot for wallflowers | Hadrian's Wall, England (© daverhead/Getty Images) | [![A welcome spot for wallflowers](https://www.bing.com/th?id=OHR.HadriansWallUK_EN-GB6069588482_320x240.jpg)](https://www.bing.com/th?id=OHR.HadriansWallUK_EN-GB6069588482_UHD.jpg) |
 | 2023-09-26 | Waves for wheels | Venice Beach Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images) | [![Waves for wheels](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-GB1268755074_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-GB1268755074_UHD.jpg) |
 
-## 🦁 [Inglese (India)](binguhd-en-IN-2023.md)
+## 🦁 [Inglese (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2023-05-22 | Protecting earth's biodiversity for everyone | Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images) | [![Protecting earth's biodiversity for everyone](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_EN-IN8021514039_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_EN-IN8021514039_UHD.jpg) |
 | 2023-09-15 | The jewel of Rajasthan | Inside of a temple at sunrise in India Udaipur (© Ronny Werner/Alamy Stock Photo) | [![The jewel of Rajasthan](https://www.bing.com/th?id=OHR.UdaipurTemple_EN-IN8426025832_320x240.jpg)](https://www.bing.com/th?id=OHR.UdaipurTemple_EN-IN8426025832_UHD.jpg) |
 
-## 🗽 [Inglese (Stati Uniti)](binguhd-en-US-2023.md)
+## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2023-08-23 | A 'standing ovation' to Roman architecture | Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images) | [![A 'standing ovation' to Roman architecture](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_320x240.jpg)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg) |
 | 2023-03-04 | Pod predators | Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures) | [![Pod predators](https://www.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_320x240.jpg)](https://www.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg) |
 
-## 🐓 [Francese (Francia)](binguhd-fr-FR-2023.md)
+## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2023-08-17 | Un drôle de lézard ! | Petit gecko sur une feuille (© Darren Greenwood/Alamy) | [![Un drôle de lézard !](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_320x240.jpg)](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_UHD.jpg) |
 | 2023-04-24 | Le toit vert de l’Europe | Cave à vin dans la forêt de Bavière, Allemagne (© Andreas Zerndl/Getty Images) | [![Le toit vert de l’Europe](https://www.bing.com/th?id=OHR.FranconianWineCellar_FR-FR1735465864_320x240.jpg)](https://www.bing.com/th?id=OHR.FranconianWineCellar_FR-FR1735465864_UHD.jpg) |
 
-## ⭐ [Italiano (Italia)](binguhd-it-IT-2023.md)
+## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2023-01-04 | Così vicini eppure così lontani | La Terra vista dalla Stazione Spaziale Internazionale (© JSC/NASA) | [![Così vicini eppure così lontani](https://www.bing.com/th?id=OHR.Perihelion_IT-IT8012619951_320x240.jpg)](https://www.bing.com/th?id=OHR.Perihelion_IT-IT8012619951_UHD.jpg) |
 | 2023-01-24 | L'invidia delle cartoline e delle palle di neve | Colle Santa Lucia nelle Dolomiti, Italia (© mauritius images GmbH/Alamy) | [![L'invidia delle cartoline e delle palle di neve](https://www.bing.com/th?id=OHR.ColleSantaLucia_IT-IT2210632651_320x240.jpg)](https://www.bing.com/th?id=OHR.ColleSantaLucia_IT-IT2210632651_UHD.jpg) |
 
-## 🌸 [Giapponese (Giappone)](binguhd-ja-JP-2023.md)
+## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2023-05-20 | 今日は世界ミツバチの日 | セイヨウミツバチ, イギリス シェフィールド (© Deborah Vernon/Alamy) | [![今日は世界ミツバチの日](https://www.bing.com/th?id=OHR.EuropeanHoneybee_JA-JP0384795622_320x240.jpg)](https://www.bing.com/th?id=OHR.EuropeanHoneybee_JA-JP0384795622_UHD.jpg) |
 | 2023-02-28 | 世界で最も美しい海岸線の小さな村 | アトラーニ, イタリア カンパニア州 (© Amazing Aerial/Shutterstock) | [![世界で最も美しい海岸線の小さな村](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_320x240.jpg)](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg) |
 
-## 🐉 [Cinese semplificato (Cina)](binguhd-zh-CN-2023.md)
+## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

@@ -1,10 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2025
 
-> Ultimo aggiornamento：2026-11-17 09:20:13 UTC
+> Ultimo aggiornamento：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
-## 🦅 [Tedesco (Germania)](binguhd-de-DE-2025.md)
+## 🦅 [Tedesco (Germania)](bing-UHD-de-DE-2025.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2025-10-02 | Die Natur in ihrer reinsten Form | Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA (© DanitaDelimont.com/AWL Images/SuperStock) | [![Die Natur in ihrer reinsten Form](https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_320x240.jpg)](https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_UHD.jpg) |
 | 2025-06-08 | Mitteilungsfreudige Schwimmer | Stellersche Seelöwen, Vancouver Island, British Columbia, Kanada (© Steve Woods Photography/Getty Images) | [![Mitteilungsfreudige Schwimmer](https://www.bing.com/th?id=OHR.StellarSeaLions_DE-DE0269577220_320x240.jpg)](https://www.bing.com/th?id=OHR.StellarSeaLions_DE-DE0269577220_UHD.jpg) |
 
-## 🍁 [Inglese (Canada)](binguhd-en-CA-2025.md)
+## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2025-12-14 | Frozen reflections | Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images) | [![Frozen reflections](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_320x240.jpg)](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_UHD.jpg) |
 | 2025-09-22 | Otterly cool | Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images) | [![Otterly cool](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_320x240.jpg)](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_UHD.jpg) |
 
-## 🌹 [Inglese (Regno Unito)](binguhd-en-GB-2025.md)
+## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2025-12-30 | The church that outlived a city | St Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images) | [![The church that outlived a city](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_320x240.jpg)](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_UHD.jpg) |
 | 2025-02-24 | Wind of Fuji, my souvenir from Edo | Mount Fuji, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images) | [![Wind of Fuji, my souvenir from Edo](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-GB0934318884_320x240.jpg)](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-GB0934318884_UHD.jpg) |
 
-## 🦁 [Inglese (India)](binguhd-en-IN-2025.md)
+## 🦁 [Inglese (India)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2025-03-08 | Making her-story! | Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images) | [![Making her-story!](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_320x240.jpg)](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_UHD.jpg) |
 | 2025-09-06 | A pier-fect evening | Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images) | [![A pier-fect evening](https://www.bing.com/th?id=OHR.SunsetPier_EN-IN9369889790_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_EN-IN9369889790_UHD.jpg) |
 
-## 🗽 [Inglese (Stati Uniti)](binguhd-en-US-2025.md)
+## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2025-05-07 | Not your average desert trip | An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy) | [![Not your average desert trip](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_320x240.jpg)](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg) |
 | 2025-04-05 | Cherry, cherry, bloom, bloom | The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images) | [![Cherry, cherry, bloom, bloom](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_320x240.jpg)](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg) |
 
-## 🐓 [Francese (Francia)](binguhd-fr-FR-2025.md)
+## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2025-11-06 | Des vœux prêts à s’envoler | Lanterne colorées au temple de Wat Phra That Hariphunchai, Lamphun, Thaïlande (© MR. ANUJAK JAIMOOK/Getty Images) | [![Des vœux prêts à s’envoler](https://www.bing.com/th?id=OHR.LanternsThailand_FR-FR4768060525_320x240.jpg)](https://www.bing.com/th?id=OHR.LanternsThailand_FR-FR4768060525_UHD.jpg) |
 | 2025-12-21 | L’aube du renouveau | Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images) | [![L’aube du renouveau](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_320x240.jpg)](https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_UHD.jpg) |
 
-## ⭐ [Italiano (Italia)](binguhd-it-IT-2025.md)
+## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2025-02-16 | Proteggiamo i Giganti Buoni | Megattera con prole, Tonga (© Chase Dekker/Minden Pictures) | [![Proteggiamo i Giganti Buoni](https://www.bing.com/th?id=OHR.HumpbackMother_IT-IT2396976116_320x240.jpg)](https://www.bing.com/th?id=OHR.HumpbackMother_IT-IT2396976116_UHD.jpg) |
 | 2025-03-22 | Gocce di luce nel ventre della Terra | Ninfee sulla superficie del Cenote Nicte-Ha, Tulum, Messico (© Franco Banfi/NPL/Minden) | [![Gocce di luce nel ventre della Terra](https://www.bing.com/th?id=OHR.CenoteLilies_IT-IT2531353898_320x240.jpg)](https://www.bing.com/th?id=OHR.CenoteLilies_IT-IT2531353898_UHD.jpg) |
 
-## 🌸 [Giapponese (Giappone)](binguhd-ja-JP-2025.md)
+## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2025-01-15 | 今日は小正月 | カラフルな餅花, 愛知県 豊田市 (© Photo taken by Bong Grit/Getty Images) | [![今日は小正月](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_320x240.jpg)](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg) |
 | 2025-12-26 | 冬空にそびえるイギリス最高の尖塔 | ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images) | [![冬空にそびえるイギリス最高の尖塔](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_320x240.jpg)](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_UHD.jpg) |
 
-## 🐉 [Cinese semplificato (Cina)](binguhd-zh-CN-2025.md)
+## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

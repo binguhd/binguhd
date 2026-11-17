@@ -1,10 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2024
 
-> Dernière mise à jour：2026-11-17 09:20:13 UTC
+> Dernière mise à jour：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
-## 🦅 [Allemand (Allemagne)](binguhd-de-DE-2024.md)
+## 🦅 [Allemand (Allemagne)](bing-UHD-de-DE-2024.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2024-03-17 | Grün, grün, grün ist alles, was ich habe | St. Finian's Bay, Grafschaft Kerry, Irland (© Atlantide Phototravel/Getty Images) | [![Grün, grün, grün ist alles, was ich habe](https://www.bing.com/th?id=OHR.StFiniansBay_DE-DE5892582387_320x240.jpg)](https://www.bing.com/th?id=OHR.StFiniansBay_DE-DE5892582387_UHD.jpg) |
 | 2024-04-30 | Heilig und gefährdet | Gepard im Morgenregen, Ndutu-Region, Ngorongoro, Tansania (© Paul Souders/Getty Images) | [![Heilig und gefährdet](https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_320x240.jpg)](https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_UHD.jpg) |
 
-## 🍁 [Anglais (Canada)](binguhd-en-CA-2024.md)
+## 🍁 [Anglais (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2024-01-09 | Swish Swiss Swish | Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images) | [![Swish Swiss Swish](https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_320x240.jpg)](https://www.bing.com/th?id=OHR.BerninaPass_EN-CA0858357158_UHD.jpg) |
 | 2024-01-17 | A little Albertan rest and relaxation | Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock) | [![A little Albertan rest and relaxation](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeLouise_EN-CA6262650023_UHD.jpg) |
 
-## 🌹 [Anglais (Royaume-Uni)](binguhd-en-GB-2024.md)
+## 🌹 [Anglais (Royaume-Uni)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2024-01-25 | A gem of a place | Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion) | [![A gem of a place](https://www.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_UHD.jpg) |
 | 2024-12-17 | Twinkling streets and icy peaks | Salzburg, Austria (© bluejayphoto/Getty Images) | [![Twinkling streets and icy peaks](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-GB5350086810_UHD.jpg) |
 
-## 🦁 [Anglais (Inde)](binguhd-en-IN-2024.md)
+## 🦁 [Anglais (Inde)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2024-06-03 | Fort-unately majestic | Jaswant Thada and Mehrangarh Fort in Jodhpur city in Rajasthan, India (© Jackyenjoyphotography/Getty Images) | [![Fort-unately majestic](https://www.bing.com/th?id=OHR.JaswantThadaIN_EN-IN5851391718_320x240.jpg)](https://www.bing.com/th?id=OHR.JaswantThadaIN_EN-IN5851391718_UHD.jpg) |
 | 2024-01-23 | Eyes of the Indian Ocean | Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock) | [![Eyes of the Indian Ocean](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-IN3706143252_320x240.jpg)](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-IN3706143252_UHD.jpg) |
 
-## 🗽 [Anglais (États-Unis)](binguhd-en-US-2024.md)
+## 🗽 [Anglais (États-Unis)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2024-07-11 | A 'toucan' of appreciation | Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images) | [![A 'toucan' of appreciation](https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_320x240.jpg)](https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg) |
 | 2024-08-09 | Big stare for a little owl | Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images) | [![Big stare for a little owl](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_320x240.jpg)](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg) |
 
-## 🐓 [Français (France)](binguhd-fr-FR-2024.md)
+## 🐓 [Français (France)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2024-08-21 | Des découvertes à Galápa-gogo | Fou de Grant, île Wolf, îles Galápagos, Équateur (© Tui De Roy/Minden Pictures) | [![Des découvertes à Galápa-gogo](https://www.bing.com/th?id=OHR.NazcaBooby_FR-FR8760221120_320x240.jpg)](https://www.bing.com/th?id=OHR.NazcaBooby_FR-FR8760221120_UHD.jpg) |
 | 2024-08-14 | Qui s'y frotte s'y pique ! | Diable épineux, parc national de Watarrka, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![Qui s'y frotte s'y pique !](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-FR2192982199_320x240.jpg)](https://www.bing.com/th?id=OHR.WatarrkaLizard_FR-FR2192982199_UHD.jpg) |
 
-## ⭐ [Italien (Italie)](binguhd-it-IT-2024.md)
+## ⭐ [Italien (Italie)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2024-02-13 | Passami i crostoli! | Sfilata dei carri di Carnevale di Viareggio, Toscana, Italia (© Laura Lezza/Getty Images) | [![Passami i crostoli!](https://www.bing.com/th?id=OHR.CarnevaleViareggio_IT-IT8940909658_320x240.jpg)](https://www.bing.com/th?id=OHR.CarnevaleViareggio_IT-IT8940909658_UHD.jpg) |
 | 2024-04-12 | Un'opera d'arte naturale | Luce serale sulla North Window con il Turret Arch in lontananza, Parco Nazionale di Arches, Utah, USA (© Anthony Heflin/Shutterstock) | [![Un'opera d'arte naturale](https://www.bing.com/th?id=OHR.SunsetArchesNP_IT-IT3537789525_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetArchesNP_IT-IT3537789525_UHD.jpg) |
 
-## 🌸 [Japonais (Japon)](binguhd-ja-JP-2024.md)
+## 🌸 [Japonais (Japon)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2024-12-26 | 今日はボクシング・デー | マウゼル, イングランド (© ianwool/Getty Images) | [![今日はボクシング・デー](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_320x240.jpg)](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg) |
 | 2024-05-21 | 今日は国際お茶の日 | キャメロンハイランドの茶畑, マレーシア (© alex cheong/Getty Images) | [![今日は国際お茶の日](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_320x240.jpg)](https://www.bing.com/th?id=OHR.MalaysiaTea_JA-JP0806186041_UHD.jpg) |
 
-## 🐉 [Chinois simplifié (Chine)](binguhd-zh-CN-2024.md)
+## 🐉 [Chinois simplifié (Chine)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

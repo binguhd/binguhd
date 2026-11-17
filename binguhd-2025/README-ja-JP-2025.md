@@ -1,10 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2025
 
-> 最終更新：2026-11-17 09:20:13 UTC
+> 最終更新：2026-11-17 13:53:44 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
-## 🦅 [ドイツ語（ドイツ）](binguhd-de-DE-2025.md)
+## 🦅 [ドイツ語（ドイツ）](bing-UHD-de-DE-2025.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2025-10-16 | Der Schatten der Wälder | Eurasischer Luchs, Sibirien (© Mario Plechaty Photograph/Shutterstock) | [![Der Schatten der Wälder](https://www.bing.com/th?id=OHR.SiberianLynx_DE-DE4192979708_320x240.jpg)](https://www.bing.com/th?id=OHR.SiberianLynx_DE-DE4192979708_UHD.jpg) |
 | 2025-01-11 | Ein Hauch von Rot im Winter | Apfel hängt an einem verschneiten Baum, Deutschland (© Westend61/Getty Images) | [![Ein Hauch von Rot im Winter](https://www.bing.com/th?id=OHR.GermanyAppleOnWinterTree_DE-DE6727700722_320x240.jpg)](https://www.bing.com/th?id=OHR.GermanyAppleOnWinterTree_DE-DE6727700722_UHD.jpg) |
 
-## 🍁 [英語（カナダ）](binguhd-en-CA-2025.md)
+## 🍁 [英語（カナダ）](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2025-07-31 | Friendship without borders | 'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock) | [![Friendship without borders](https://www.bing.com/th?id=OHR.SaypeDubai_EN-CA4155504073_320x240.jpg)](https://www.bing.com/th?id=OHR.SaypeDubai_EN-CA4155504073_UHD.jpg) |
 | 2025-07-29 | A steppe ahead | Yurts in the grassland of Mongolia (© Michel Arnault/Shutterstock) | [![A steppe ahead](https://www.bing.com/th?id=OHR.MongoliaYurts_EN-CA3804108412_320x240.jpg)](https://www.bing.com/th?id=OHR.MongoliaYurts_EN-CA3804108412_UHD.jpg) |
 
-## 🌹 [英語（イギリス）](binguhd-en-GB-2025.md)
+## 🌹 [英語（イギリス）](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2025-09-21 | Otterly cool | Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images) | [![Otterly cool](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_320x240.jpg)](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_UHD.jpg) |
 | 2025-08-08 | Sky's the limit | Hot air balloons over a golf course during the Bristol International Balloon Fiesta (© Ben Birchall/PA Images/Getty Images) | [![Sky's the limit](https://www.bing.com/th?id=OHR.BalloonFiesta2025_EN-GB9167684469_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonFiesta2025_EN-GB9167684469_UHD.jpg) |
 
-## 🦁 [英語（インド）](binguhd-en-IN-2025.md)
+## 🦁 [英語（インド）](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2025-04-12 | 108 minutes that changed the world | View from the cupola of the International Space Station above the South Pacific Ocean (© NASA) | [![108 minutes that changed the world](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceFlight_EN-IN4763380292_UHD.jpg) |
 | 2025-06-21 | Pause, breathe and stretch | Lakshman Jhula, Rishikesh, Uttarakhand (© tscreationz/Shutterstock) | [![Pause, breathe and stretch](https://www.bing.com/th?id=OHR.LakshmanJhula_EN-IN9788352654_320x240.jpg)](https://www.bing.com/th?id=OHR.LakshmanJhula_EN-IN9788352654_UHD.jpg) |
 
-## 🗽 [英語（アメリカ合衆国）](binguhd-en-US-2025.md)
+## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2025-02-19 | Endless blue | Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock) | [![Endless blue](https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg) |
 | 2025-05-04 | Let's celebrate the cosmos | The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images) | [![Let's celebrate the cosmos](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_320x240.jpg)](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg) |
 
-## 🐓 [フランス語（フランス）](binguhd-fr-FR-2025.md)
+## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2025-03-06 | Symbiose sculptée dans la roche | Mouflon du désert dans le parc d'État Valley of Fire, Nevada, États-Unis (© Rachid Dahnoun/Cavan Images) | [![Symbiose sculptée dans la roche](https://www.bing.com/th?id=OHR.NevadaBigHorns_FR-FR5758477568_320x240.jpg)](https://www.bing.com/th?id=OHR.NevadaBigHorns_FR-FR5758477568_UHD.jpg) |
 | 2025-03-29 | Un panorama inoubliable | Vue aérienne du port de Sydney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images) | [![Un panorama inoubliable](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-FR4894871663_320x240.jpg)](https://www.bing.com/th?id=OHR.SydneyHarbour_FR-FR4894871663_UHD.jpg) |
 
-## ⭐ [イタリア語（イタリア）](binguhd-it-IT-2025.md)
+## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2025-06-27 | Danza Simbiotica | Pesce pagliaccio, Milne Bay, Papua Nuova Guinea (© Fred Bavendam/Nature Picture Library) | [![Danza Simbiotica](https://www.bing.com/th?id=OHR.MaroonClownfish_IT-IT1939766498_320x240.jpg)](https://www.bing.com/th?id=OHR.MaroonClownfish_IT-IT1939766498_UHD.jpg) |
 | 2025-11-20 | Disegnano il futuro? | Dipinto di Saype, sede delle Nazioni Unite, Ginevra, Svizzera (© Valentin Flauraud/EPA-EFE/Shutterstock) | [![Disegnano il futuro?](https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_320x240.jpg)](https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_UHD.jpg) |
 
-## 🌸 [日本語（日本）](binguhd-ja-JP-2025.md)
+## 🌸 [日本語（日本）](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2025-03-20 | 今日は春分の日 | スイセンの花 (© LedyX/Shutterstock) | [![今日は春分の日](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg) |
 | 2025-09-09 | ふわふわのしっぽを持つリス | 苔を運ぶキタリス, スイス (© Jean-Luc and Francoise Ziegler/Minden Pictures) | [![ふわふわのしっぽを持つリス](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_320x240.jpg)](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_UHD.jpg) |
 
-## 🐉 [簡体字中国語（中国）](binguhd-zh-CN-2025.md)
+## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
