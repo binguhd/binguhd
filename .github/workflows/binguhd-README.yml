@@ -1,6 +1,6 @@
 # binguhd-README-0.1.0.yml
 # github.com/shenjuexiao
-# 20261116
+# 20261117
 
 # .github/workflows/binguhd-README.yml
 name: binguhd-README
@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: bing-UHD-README
+  group: binguhd-README
   cancel-in-progress: false
 
 jobs:
