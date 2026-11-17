@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2025
 
-> Ultimo aggiornamento：2026-11-17 15:02:40 UTC
+> Ultimo aggiornamento：2026-11-17 15:23:34 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,41 +8,41 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2025-04-09 | Bevor die Sterne die Macht übernehmen | Blaue Stunde auf Naxos, Kykladen, Griechenland (© Sizun Eye/Getty Images) | [![Bevor die Sterne die Macht übernehmen](https://www.bing.com/th?id=OHR.BlueNaxos_DE-DE2161075771_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueNaxos_DE-DE2161075771_UHD.jpg) |
 | 2025-02-10 | Regenschirme, soweit das Auge reicht | Kunstinstallation von Regenschirmen, Borough Market, London, England (© Malcolm P Chapman/Getty Images) | [![Regenschirme, soweit das Auge reicht](https://www.bing.com/th?id=OHR.UmbrellaDay_DE-DE7581909470_320x240.jpg)](https://www.bing.com/th?id=OHR.UmbrellaDay_DE-DE7581909470_UHD.jpg) |
 | 2025-10-02 | Die Natur in ihrer reinsten Form | Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA (© DanitaDelimont.com/AWL Images/SuperStock) | [![Die Natur in ihrer reinsten Form](https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_320x240.jpg)](https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_UHD.jpg) |
-| 2025-06-08 | Mitteilungsfreudige Schwimmer | Stellersche Seelöwen, Vancouver Island, British Columbia, Kanada (© Steve Woods Photography/Getty Images) | [![Mitteilungsfreudige Schwimmer](https://www.bing.com/th?id=OHR.StellarSeaLions_DE-DE0269577220_320x240.jpg)](https://www.bing.com/th?id=OHR.StellarSeaLions_DE-DE0269577220_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-06-08 | Taking the high road | Summit of Pine Mountain, Angeles National Forest, California, United States (© Matthew Kuhns/TANDEM Stills + Motion) | [![Taking the high road](https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-CA3756267540_320x240.jpg)](https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-CA3756267540_UHD.jpg) |
 | 2025-10-05 | All art, all night | 'Inside Out' by JR at the Nathan Phillips Square, Nuit Blanche 2015, Toronto (© Melissa Renwick/Contributor/Getty Images) | [![All art, all night](https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_320x240.jpg)](https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_UHD.jpg) |
 | 2025-12-14 | Frozen reflections | Merced River, Yosemite National Park, California, United States (© Ron and Patty Thomas/Getty Images) | [![Frozen reflections](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_320x240.jpg)](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-CA0224769672_UHD.jpg) |
-| 2025-09-22 | Otterly cool | Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images) | [![Otterly cool](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_320x240.jpg)](https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-21 | Otterly cool | Sea otters, Prince William Sound, Alaska, United States (© Gerald Corsi/Getty Images) | [![Otterly cool](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_320x240.jpg)](https://www.bing.com/th?id=OHR.IceOtters_EN-GB2135978576_UHD.jpg) |
 | 2025-08-09 | Honouring Indigenous voices | Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images) | [![Honouring Indigenous voices](https://www.bing.com/th?id=OHR.MaoriRock_EN-GB9232963676_320x240.jpg)](https://www.bing.com/th?id=OHR.MaoriRock_EN-GB9232963676_UHD.jpg) |
 | 2025-12-30 | The church that outlived a city | St Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images) | [![The church that outlived a city](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_320x240.jpg)](https://www.bing.com/th?id=OHR.AniTurkey_EN-GB1808269342_UHD.jpg) |
-| 2025-02-24 | Wind of Fuji, my souvenir from Edo | Mount Fuji, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images) | [![Wind of Fuji, my souvenir from Edo](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-GB0934318884_320x240.jpg)](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-GB0934318884_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-02-26 | Honouring Shiva | Tungnath Temple, Uttarakhand (© draco-zlat/Getty Images) | [![Honouring Shiva](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_320x240.jpg)](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_UHD.jpg) |
 | 2025-10-20 | Life in the slow lane | Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures) | [![Life in the slow lane](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-IN5791944610_320x240.jpg)](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-IN5791944610_UHD.jpg) |
 | 2025-03-08 | Making her-story! | Fearless Girl statue facing the New York Stock Exchange, New York City, United States (© JOHANNES EISELE/AFP via Getty Images) | [![Making her-story!](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_320x240.jpg)](https://www.bing.com/th?id=OHR.FearlessWomen_EN-IN8449612154_UHD.jpg) |
-| 2025-09-06 | A pier-fect evening | Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images) | [![A pier-fect evening](https://www.bing.com/th?id=OHR.SunsetPier_EN-IN9369889790_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_EN-IN9369889790_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-06 | A pier-fect evening | Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images) | [![A pier-fect evening](https://www.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg) |
 | 2025-03-15 | Pi in the sky | Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture) | [![Pi in the sky](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_320x240.jpg)](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg) |
 | 2025-05-07 | Not your average desert trip | An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy) | [![Not your average desert trip](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_320x240.jpg)](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg) |
-| 2025-04-05 | Cherry, cherry, bloom, bloom | The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images) | [![Cherry, cherry, bloom, bloom](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_320x240.jpg)](https://www.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2025.md)
 
