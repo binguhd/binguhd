@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-16 04:45:23 UTC
+> Last updated: 2026-11-17 15:36:28 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-18 | Step into the great outdoors | Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images) | [![Step into the great outdoors](https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg) |
 | 2026-11-17 | Built to last | Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images) | [![Built to last](https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273_UHD.jpg) |
 | 2026-11-16 | Frosty foliage | Frozen azalea with red leaves (© avoferten/Shutterstock) | [![Frosty foliage](https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_320x240.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_EN-GB4338987849_UHD.jpg) |
 | 2026-11-15 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_UHD.jpg) |
