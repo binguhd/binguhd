@@ -275,7 +275,7 @@ def build_section(inner_mkt: str, outer_mkt: str, year: str,
     h2_text = H2[outer_mkt][inner_mkt]
     symbol = SYMBOLS[inner_mkt]
     # ★ 修改：md_name 改为 binguhd-{inner_mkt}-{year}.md
-    md_name = f"binguhd-{inner_mkt}-{year}.md"
+    md_name = f"bing-UHD-{inner_mkt}-{year}.md"
     lines.append(f"## {symbol} [{h2_text}]({md_name})")
     lines.append("")
     lines.append(TABLE_HEADERS[inner_mkt])
