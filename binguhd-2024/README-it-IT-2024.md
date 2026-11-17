@@ -1,10 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2024
 
-> Ultimo aggiornamento：2026-11-16 04:48:47 UTC
+> Ultimo aggiornamento：2026-11-17 06:31:07 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
-## 🦅 [Tedesco (Germania)](bing-UHD-de-DE-2024.md)
+## 🦅 [Tedesco (Germania)](binguhd-de-DE-2024.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2024-02-17 | Die Perle der Dolomiten | Der Pragser Wildsee in den Dolomiten, Südtirol, Italien (© Marco Bottigelli/Getty Images) | [![Die Perle der Dolomiten](https://www.bing.com/th?id=OHR.LakeDolomites_DE-DE3348859489_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeDolomites_DE-DE3348859489_UHD.jpg) |
 | 2024-08-15 | Lichtspiele unter der Erde | Hang Sơn Đoòng-Höhle, Nationalpark Phong Nha-Kẻ Bàng, Vietnam (© Geng Xu/Getty Images) | [![Lichtspiele unter der Erde](https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476_320x240.jpg)](https://www.bing.com/th?id=OHR.HangCave_DE-DE9528025476_UHD.jpg) |
 
-## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2024.md)
+## 🍁 [Inglese (Canada)](binguhd-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2024-12-01 | Reflecting Scotland's heritage | Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture) | [![Reflecting Scotland's heritage](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_320x240.jpg)](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_UHD.jpg) |
 | 2024-11-11 | Flamboyance in flight | Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures) | [![Flamboyance in flight](https://www.bing.com/th?id=OHR.YucatanFlamingos_EN-CA4668702589_320x240.jpg)](https://www.bing.com/th?id=OHR.YucatanFlamingos_EN-CA4668702589_UHD.jpg) |
 
-## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2024.md)
+## 🌹 [Inglese (Regno Unito)](binguhd-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2024-07-08 | A dose of antioxidants | Blueberries growing in the wild (© Baac3nes/Getty Images) | [![A dose of antioxidants](https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-GB7208908364_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-GB7208908364_UHD.jpg) |
 | 2024-07-31 | 'Hoodoo' we have here? | Hoodoos, Sunset Point, Bryce Canyon National Park, Utah, USA (© Tim Fitzharris/Minden Pictures) | [!['Hoodoo' we have here?](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_320x240.jpg)](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg) |
 
-## 🦁 [Inglese (India)](bing-UHD-en-IN-2024.md)
+## 🦁 [Inglese (India)](binguhd-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2024-02-24 | Whispers of spring | Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion) | [![Whispers of spring](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_320x240.jpg)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_UHD.jpg) |
 | 2024-06-06 | Monumental tribute | Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images) | [![Monumental tribute](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_320x240.jpg)](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-IN6765304384_UHD.jpg) |
 
-## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2024.md)
+## 🗽 [Inglese (Stati Uniti)](binguhd-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2024-09-27 | Flying colors | Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion) | [![Flying colors](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_320x240.jpg)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg) |
 | 2024-08-05 | You've got a friend in me | Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images) | [![You've got a friend in me](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_320x240.jpg)](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg) |
 
-## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2024.md)
+## 🐓 [Francese (Francia)](binguhd-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2024-03-01 | Pas si « blaireau », le blaireau ! | Blaireau européen (© Milan Zygmunt/Shutterstock) | [![Pas si « blaireau », le blaireau !](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_320x240.jpg)](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_UHD.jpg) |
 | 2024-10-22 | Une porte « monstrueuse » | Palais Zuccari, Rome, Italie (© Photon-Photos/Getty Images) | [![Une porte « monstrueuse »](https://www.bing.com/th?id=OHR.MonsterDoor_FR-FR1619086814_320x240.jpg)](https://www.bing.com/th?id=OHR.MonsterDoor_FR-FR1619086814_UHD.jpg) |
 
-## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2024.md)
+## ⭐ [Italiano (Italia)](binguhd-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2024-09-11 | Fuoco di sapori e canti del mare | Arco Magno, San Nicola Arcella, Calabria, Italia (© Alessio de Cicco/Moment/Getty Images) | [![Fuoco di sapori e canti del mare](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_320x240.jpg)](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_UHD.jpg) |
 | 2024-03-31 | Una lavorazione artigianale eccellente | Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images) | [![Una lavorazione artigianale eccellente](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_320x240.jpg)](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg) |
 
-## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2024.md)
+## 🌸 [Giapponese (Giappone)](binguhd-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2024-10-29 | 暗闇のスーパーハンター | アメリカワシミミズク (© Mark Newman/Getty Images) | [![暗闇のスーパーハンター](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_UHD.jpg) |
 | 2024-03-23 | 今日は世界気象デー | アマゾン上空の積乱雲, ブラジル (© NASA) | [![今日は世界気象デー](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_320x240.jpg)](https://www.bing.com/th?id=OHR.AmazonClouds_JA-JP3921092390_UHD.jpg) |
 
-## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2024.md)
+## 🐉 [Cinese semplificato (Cina)](binguhd-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

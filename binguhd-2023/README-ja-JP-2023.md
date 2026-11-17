@@ -1,10 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2023
 
-> 最終更新：2026-11-16 04:48:47 UTC
+> 最終更新：2026-11-17 06:31:08 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
-## 🦅 [ドイツ語（ドイツ）](bing-UHD-de-DE-2023.md)
+## 🦅 [ドイツ語（ドイツ）](binguhd-de-DE-2023.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2023-06-03 | Wo ist diese herrliche Aussicht? | South Kaibab Trail im Grand-Canyon-Nationalpark, Arizona, USA (© Roman Khomlyak/Getty Images) | [![Wo ist diese herrliche Aussicht?](https://www.bing.com/th?id=OHR.SouthKaibabTrail_DE-DE3610470806_320x240.jpg)](https://www.bing.com/th?id=OHR.SouthKaibabTrail_DE-DE3610470806_UHD.jpg) |
 | 2023-12-15 | Zuhause beim Weihnachtsmann | SantaPark in Rovaniemi, Lappland, Finnland (© lukutin77/Getty Images) | [![Zuhause beim Weihnachtsmann](https://www.bing.com/th?id=OHR.SantaPark_DE-DE9078784371_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaPark_DE-DE9078784371_UHD.jpg) |
 
-## 🍁 [英語（カナダ）](bing-UHD-en-CA-2023.md)
+## 🍁 [英語（カナダ）](binguhd-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2023-03-16 | Where is this scenic view? | Agüero, Spain (© Andrea Comi/Getty Images) | [![Where is this scenic view?](https://www.bing.com/th?id=OHR.AgueroSpain_EN-CA7433351602_320x240.jpg)](https://www.bing.com/th?id=OHR.AgueroSpain_EN-CA7433351602_UHD.jpg) |
 | 2023-05-01 | A day of swing and celebration | Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy) | [![A day of swing and celebration](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-CA2845933344_320x240.jpg)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-CA2845933344_UHD.jpg) |
 
-## 🌹 [英語（イギリス）](bing-UHD-en-GB-2023.md)
+## 🌹 [英語（イギリス）](binguhd-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2023-08-10 | 'King of the jungle'? Nope | A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion) | [!['King of the jungle'? Nope](https://www.bing.com/th?id=OHR.WorldLionDay_EN-GB2950747752_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldLionDay_EN-GB2950747752_UHD.jpg) |
 | 2023-11-25 | A different kind of rainforest | Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington, USA (© James Randklev/Getty Images) | [![A different kind of rainforest](https://www.bing.com/th?id=OHR.HallofMosses_EN-GB0065099295_320x240.jpg)](https://www.bing.com/th?id=OHR.HallofMosses_EN-GB0065099295_UHD.jpg) |
 
-## 🦁 [英語（インド）](bing-UHD-en-IN-2023.md)
+## 🦁 [英語（インド）](binguhd-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2023-09-07 | Ships of the desert, ahoy! | Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock) | [![Ships of the desert, ahoy!](https://www.bing.com/th?id=OHR.CamelsAbove_EN-IN4673794115_320x240.jpg)](https://www.bing.com/th?id=OHR.CamelsAbove_EN-IN4673794115_UHD.jpg) |
 | 2023-01-04 | So close, yet so far | The Earth as seen from the International Space Station (© JSC/NASA) | [![So close, yet so far](https://www.bing.com/th?id=OHR.Perihelion_EN-IN9134939468_320x240.jpg)](https://www.bing.com/th?id=OHR.Perihelion_EN-IN9134939468_UHD.jpg) |
 
-## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2023.md)
+## 🗽 [英語（アメリカ合衆国）](binguhd-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2023-12-02 | Celebrating the coolest place! | Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures) | [![Celebrating the coolest place!](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg) |
 | 2023-11-24 | Happy Thanksgiving! | Flint corn (© Cynthia Liang/Shutterstock) | [![Happy Thanksgiving!](https://www.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_320x240.jpg)](https://www.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg) |
 
-## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2023.md)
+## 🐓 [フランス語（フランス）](binguhd-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2023-02-08 | Aire de repos dans le grand nord | Aire de repos Ureddplassen sur la route panoramique Helgelandskyste, Norvège (© Eyesite/Alamy) | [![Aire de repos dans le grand nord](https://www.bing.com/th?id=OHR.NorwayRestArea_FR-FR2245577203_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayRestArea_FR-FR2245577203_UHD.jpg) |
 | 2023-03-28 | Où sont ces pics impressionnants ? | Voie lactée sur les Tre Cime di Lavaredo, Italie (© Juan Romero/Cavan Images) | [![Où sont ces pics impressionnants ?](https://www.bing.com/th?id=OHR.MWDolomites_FR-FR9079185650_320x240.jpg)](https://www.bing.com/th?id=OHR.MWDolomites_FR-FR9079185650_UHD.jpg) |
 
-## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2023.md)
+## ⭐ [イタリア語（イタリア）](binguhd-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2023-06-10 | Tinte blu e scene in ceramica | La Cattedrale di Porto, Portogallo (© Reinhard Schmid/Huber/eStock Photo) | [![Tinte blu e scene in ceramica](https://www.bing.com/th?id=OHR.PortugalDay_IT-IT6704188860_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugalDay_IT-IT6704188860_UHD.jpg) |
 | 2023-04-09 | Perché queste uova sono decorate? | Uova lituane decorate  (© fotomem/Getty Images) | [![Perché queste uova sono decorate?](https://www.bing.com/th?id=OHR.LithuanianEggs_IT-IT9225867868_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuanianEggs_IT-IT9225867868_UHD.jpg) |
 
-## 🌸 [日本語（日本）](bing-UHD-ja-JP-2023.md)
+## 🌸 [日本語（日本）](binguhd-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2023-11-18 | ホッキョクグマの親子 | チャーチルの雪景色, カナダ マニトバ州  (© Thorsten Milse/Getty Images) | [![ホッキョクグマの親子](https://www.bing.com/th?id=OHR.MilsePolarBear_JA-JP2676664686_320x240.jpg)](https://www.bing.com/th?id=OHR.MilsePolarBear_JA-JP2676664686_UHD.jpg) |
 | 2023-10-31 | 今日はハロウィン | ハロウィンのシンボルであるジャック・オー・ランタン (© Bing Image Creator) | [![今日はハロウィン](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_320x240.jpg)](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg) |
 
-## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2023.md)
+## 🐉 [簡体字中国語（中国）](binguhd-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

@@ -1,10 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2024
 
-> Last updated：2026-11-16 04:48:47 UTC
+> Last updated：2026-11-17 06:31:07 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
-## 🦅 [German (Germany)](bing-UHD-de-DE-2024.md)
+## 🦅 [German (Germany)](binguhd-de-DE-2024.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2024-08-13 | Adriatische Schönheit | Klippen des Naturparks Telašćica, Insel Dugi Otok, Kroatien (© Ilija Ascic/Shutterstock) | [![Adriatische Schönheit](https://www.bing.com/th?id=OHR.DugiOtokCroatia_DE-DE7505074249_320x240.jpg)](https://www.bing.com/th?id=OHR.DugiOtokCroatia_DE-DE7505074249_UHD.jpg) |
 | 2024-08-03 | Beeindruckende Brücken | Die drei natürlichen Brücken, Wulong Nationalpark, China (© Pav-Pro Photography Ltd/Shutterstock) | [![Beeindruckende Brücken](https://www.bing.com/th?id=OHR.WulongKarst_DE-DE9180126373_320x240.jpg)](https://www.bing.com/th?id=OHR.WulongKarst_DE-DE9180126373_UHD.jpg) |
 
-## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
+## 🍁 [English (Canada)](binguhd-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2024-01-05 | A mist-ical marvel | Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion) | [![A mist-ical marvel](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-CA5633568958_UHD.jpg) |
 | 2024-09-24 | Otter-ly amazing | Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images) | [![Otter-ly amazing](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_UHD.jpg) |
 
-## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2024.md)
+## 🌹 [English (United Kingdom)](binguhd-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2024-06-21 | Who's sharing a cuddly hello? | Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures) | [![Who's sharing a cuddly hello?](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-GB5426424156_320x240.jpg)](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-GB5426424156_UHD.jpg) |
 | 2024-11-26 | Life in the wild | Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com) | [![Life in the wild](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_UHD.jpg) |
 
-## 🦁 [English (India)](bing-UHD-en-IN-2024.md)
+## 🦁 [English (India)](binguhd-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2024-09-27 | Above the floating city | Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency) | [![Above the floating city](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceAerial_EN-IN2638261499_UHD.jpg) |
 | 2024-02-20 | A park for the people | Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images) | [![A park for the people](https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-IN1834158436_320x240.jpg)](https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-IN1834158436_UHD.jpg) |
 
-## 🗽 [English (United States)](bing-UHD-en-US-2024.md)
+## 🗽 [English (United States)](binguhd-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2024-02-24 | Where eagles dance | Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock) | [![Where eagles dance](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_320x240.jpg)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg) |
 | 2024-01-06 | Chisels and chills | International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg) |
 
-## 🐓 [French (France)](bing-UHD-fr-FR-2024.md)
+## 🐓 [French (France)](binguhd-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2024-04-16 | La ville qui ne dort jamais | Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images) | [![La ville qui ne dort jamais](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-FR8135739524_320x240.jpg)](https://www.bing.com/th?id=OHR.UnionSquareNYC_FR-FR8135739524_UHD.jpg) |
 | 2024-02-17 | Des cabines mythiques | Cabines de bain, Brighton Beach, Melbourne, Victoria, Australie (© Prasit photo/Getty Images) | [![Des cabines mythiques](https://www.bing.com/th?id=OHR.BrightonBoxes_FR-FR1148207790_320x240.jpg)](https://www.bing.com/th?id=OHR.BrightonBoxes_FR-FR1148207790_UHD.jpg) |
 
-## ⭐ [Italian (Italy)](bing-UHD-it-IT-2024.md)
+## ⭐ [Italian (Italy)](binguhd-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2024-07-04 | Dipinto realista | Zahara de la Sierra, Andalusia, Spagna (© Francesco Carovillano/eStock Photo) | [![Dipinto realista](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_IT-IT4545122871_320x240.jpg)](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_IT-IT4545122871_UHD.jpg) |
 | 2024-05-31 | Armonia di verde e pietra | Gunnerside, Swaledale, Parco Nazionale delle Yorkshire Dales, Inghilterra (© Derek Croucher/Alamy Stock Photo) | [![Armonia di verde e pietra](https://www.bing.com/th?id=OHR.YorkshireDalesNP_IT-IT9821537287_320x240.jpg)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_IT-IT9821537287_UHD.jpg) |
 
-## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2024.md)
+## 🌸 [Japanese (Japan)](binguhd-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2024-09-02 | 色鮮やかな羽根を持つインコ | ベニコンゴウインコ, ブラジル マットグロッソ・ド・スル州 (© Ellen Goff/Danita Delimont) | [![色鮮やかな羽根を持つインコ](https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_320x240.jpg)](https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_UHD.jpg) |
 | 2024-12-09 | 今日はリャマの日 | トーレス・デル・パイネ国立公園のグアナコ, チリ (© Floris van Breugel/NPL/Minden Pictures) | [![今日はリャマの日](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_UHD.jpg) |
 
-## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2024.md)
+## 🐉 [Simplified Chinese (China)](binguhd-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

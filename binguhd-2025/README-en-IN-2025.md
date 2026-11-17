@@ -1,10 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2025
 
-> Last updated：2026-11-16 04:48:47 UTC
+> Last updated：2026-11-17 06:31:07 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
-## 🦅 [German (Germany)](bing-UHD-de-DE-2025.md)
+## 🦅 [German (Germany)](binguhd-de-DE-2025.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2025-11-08 | Naturkunst am Meer | Felsformationen am Bandon Beach in Bandon, Oregon, USA (© Grant Ordelheide/TANDEM Stills + Motion) | [![Naturkunst am Meer](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_320x240.jpg)](https://www.bing.com/th?id=OHR.BandonBeach_DE-DE8120585985_UHD.jpg) |
 | 2025-11-11 | Imposante Denkmäler | Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images) | [![Imposante Denkmäler](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_320x240.jpg)](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg) |
 
-## 🍁 [English (Canada)](bing-UHD-en-CA-2025.md)
+## 🍁 [English (Canada)](binguhd-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2025-09-13 | Swim wild, swim free | Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library) | [![Swim wild, swim free](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-CA6671326546_320x240.jpg)](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-CA6671326546_UHD.jpg) |
 | 2025-11-02 | Herds of heritage | Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images) | [![Herds of heritage](https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_UHD.jpg) |
 
-## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2025.md)
+## 🌹 [English (United Kingdom)](binguhd-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2025-10-18 | The hill that remembers | Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images) | [![The hill that remembers](https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_320x240.jpg)](https://www.bing.com/th?id=OHR.SilburyHill_EN-GB2103957342_UHD.jpg) |
 | 2025-06-01 | Under the sea | Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images) | [![Under the sea](https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705_320x240.jpg)](https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705_UHD.jpg) |
 
-## 🦁 [English (India)](bing-UHD-en-IN-2025.md)
+## 🦁 [English (India)](binguhd-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2025-06-29 | Where history gets spicy | Blue lagoon of Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy Stock Photo) | [![Where history gets spicy](https://www.bing.com/th?id=OHR.BandaIsland_EN-IN2302848153_320x240.jpg)](https://www.bing.com/th?id=OHR.BandaIsland_EN-IN2302848153_UHD.jpg) |
 | 2025-04-01 | From treetops to puddles | Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock) | [![From treetops to puddles](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_320x240.jpg)](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg) |
 
-## 🗽 [English (United States)](bing-UHD-en-US-2025.md)
+## 🗽 [English (United States)](binguhd-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2025-03-11 | Snooze and conquer | A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images) | [![Snooze and conquer](https://www.bing.com/th?id=OHR.NappingLion_EN-US8441298325_320x240.jpg)](https://www.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg) |
 | 2025-11-16 | Bend it like Nikko | Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock) | [![Bend it like Nikko](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_320x240.jpg)](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg) |
 
-## 🐓 [French (France)](bing-UHD-fr-FR-2025.md)
+## 🐓 [French (France)](binguhd-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2025-06-19 | Au rythme du sable et du temps | Plage à Santa Catarina, Brésil (© CaioCarvalhoPhotography/Getty Images) | [![Au rythme du sable et du temps](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterBegins_FR-FR5821587665_UHD.jpg) |
 | 2025-08-01 | Lorient, au rythme des peuples celtes | Costumes folkloriques bretons, Lorient, Finistère (© guy-ozenne/Getty images) | [![Lorient, au rythme des peuples celtes](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_320x240.jpg)](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg) |
 
-## ⭐ [Italian (Italy)](bing-UHD-it-IT-2025.md)
+## ⭐ [Italian (Italy)](binguhd-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2025-09-15 | L’amore cammina leggero | Cavalieri d’Italia, Francia (© Antonio Sementa/500px/Getty Images) | [![L’amore cammina leggero](https://www.bing.com/th?id=OHR.Echasse_IT-IT5616266756_320x240.jpg)](https://www.bing.com/th?id=OHR.Echasse_IT-IT5616266756_UHD.jpg) |
 | 2025-08-24 | Figli della Luna | Daini, Inghilterra (© Enrique Aguirre Aves/Getty Images) | [![Figli della Luna](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_320x240.jpg)](https://www.bing.com/th?id=OHR.CervusDama_IT-IT0307979007_UHD.jpg) |
 
-## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2025.md)
+## 🌸 [Japanese (Japan)](binguhd-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2025-04-29 | 絢爛たる迷宮庭園 | ヴィランドリー城, フランス (© Mint Images/Getty Images) | [![絢爛たる迷宮庭園](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_320x240.jpg)](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg) |
 | 2025-06-14 | 明日は栃木県民の日 | 日光東照宮, 栃木県 日光市 (© Pavel Nesvadba/shutterstock) | [![明日は栃木県民の日](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_320x240.jpg)](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg) |
 
-## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2025.md)
+## 🐉 [Simplified Chinese (China)](binguhd-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

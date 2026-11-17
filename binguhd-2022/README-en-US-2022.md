@@ -1,10 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2022
 
-> Last updated：2026-11-16 04:48:47 UTC
+> Last updated：2026-11-17 06:31:08 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
-## 🦅 [German (Germany)](bing-UHD-de-DE-2022.md)
+## 🦅 [German (Germany)](binguhd-de-DE-2022.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2022-06-06 | Wunderschönes Wahrzeichen | Warnstedter Mühle im Sonnenuntergang, Thale, Harz, Sachsen-Anhalt (© Andreas Vitting/eStock Photo) | [![Wunderschönes Wahrzeichen](https://www.bing.com/th?id=OHR.MuehleWarnstedt_DE-DE9891281597_320x240.jpg)](https://www.bing.com/th?id=OHR.MuehleWarnstedt_DE-DE9891281597_UHD.jpg) |
 | 2022-12-28 | Völlig losgelöst | Der finnische Skispringer Antti Aalto während seines Sprungs bei der Vierschanzentournee in Oberstdorf am 29. Dezember 2020, Bayern (© Adam Pretty/Getty Images) | [![Völlig losgelöst](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_320x240.jpg)](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_UHD.jpg) |
 
-## 🍁 [English (Canada)](bing-UHD-en-CA-2022.md)
+## 🍁 [English (Canada)](binguhd-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2022-11-25 | A gorge-ous place to drop in | Preveli gorge with river and palm tree forest, South Chania, Crete, Greece (© borchee/Getty Images) | [![A gorge-ous place to drop in](https://www.bing.com/th?id=OHR.PreveliGorge_EN-CA2580883474_320x240.jpg)](https://www.bing.com/th?id=OHR.PreveliGorge_EN-CA2580883474_UHD.jpg) |
 | 2022-05-15 | Trusty water-shifters | Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images) | [![Trusty water-shifters](https://www.bing.com/th?id=OHR.WindmillDay_EN-CA1983927942_320x240.jpg)](https://www.bing.com/th?id=OHR.WindmillDay_EN-CA1983927942_UHD.jpg) |
 
-## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2022.md)
+## 🌹 [English (United Kingdom)](binguhd-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2022-11-12 | A wave of remembrance | Poppies:Wave on Barge Pier, Shoeburyness, Southend-on-Sea, Essex (© Ben Rector/Alamy) | [![A wave of remembrance](https://www.bing.com/th?id=OHR.PoppyWave_EN-GB7223893351_320x240.jpg)](https://www.bing.com/th?id=OHR.PoppyWave_EN-GB7223893351_UHD.jpg) |
 | 2022-06-25 | The bears of summer | Brown bear mother and cub in Katmai National Park and Preserve, Alaska, USA (© Suzi Eszterhas/Minden Pictures) | [![The bears of summer](https://www.bing.com/th?id=OHR.BBMomCub_EN-GB6531305395_320x240.jpg)](https://www.bing.com/th?id=OHR.BBMomCub_EN-GB6531305395_UHD.jpg) |
 
-## 🦁 [English (India)](bing-UHD-en-IN-2022.md)
+## 🦁 [English (India)](binguhd-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2022-12-07 | Rocky Mountain runoff | Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures) | [![Rocky Mountain runoff](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-IN3958991775_320x240.jpg)](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-IN3958991775_UHD.jpg) |
 | 2022-10-27 | A kiss and a sigh | Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy) | [![A kiss and a sigh](https://www.bing.com/th?id=OHR.BridgeofSighs_EN-IN1934990115_320x240.jpg)](https://www.bing.com/th?id=OHR.BridgeofSighs_EN-IN1934990115_UHD.jpg) |
 
-## 🗽 [English (United States)](bing-UHD-en-US-2022.md)
+## 🗽 [English (United States)](binguhd-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2022-05-12 | The ancient home of the Minoans | The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock) | [![The ancient home of the Minoans](https://www.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg) |
 | 2022-05-11 | Deep in an emerald forest | Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington (© Stephen Matera/Tandem Stills + Motion) | [![Deep in an emerald forest](https://www.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_320x240.jpg)](https://www.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg) |
 
-## 🐓 [French (France)](bing-UHD-fr-FR-2022.md)
+## 🐓 [French (France)](binguhd-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2022-05-10 | Nature américaine | Panther Creek Falls dans la Forêt nationale Gifford Pinchot, état de Washington, États-Unis (© Stephen Matera/Tandem Stills + Motion) | [![Nature américaine](https://www.bing.com/th?id=OHR.GiffordPinchot_FR-FR0377034326_320x240.jpg)](https://www.bing.com/th?id=OHR.GiffordPinchot_FR-FR0377034326_UHD.jpg) |
 | 2022-11-21 | Allez les Bleus ! | Stade Ahmad Ben Ali à Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images) | [![Allez les Bleus !](https://www.bing.com/th?id=OHR.FIFA2022_FR-FR8208059227_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_FR-FR8208059227_UHD.jpg) |
 
-## ⭐ [Italian (Italy)](bing-UHD-it-IT-2022.md)
+## ⭐ [Italian (Italy)](binguhd-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2022-08-29 | Il mare che pensa di essere un lago | Mar Baltico, Estonia (© fotoman-kharkov/Getty Images) | [![Il mare che pensa di essere un lago](https://www.bing.com/th?id=OHR.EstoniaBaltic_IT-IT7601823237_320x240.jpg)](https://www.bing.com/th?id=OHR.EstoniaBaltic_IT-IT7601823237_UHD.jpg) |
 | 2022-11-19 | I 103 anni del Parco Nazionale di Zion | Virgin River nel Parco Nazionale di Zion, Utah, USA (© Jonathan Ross/Getty) | [![I 103 anni del Parco Nazionale di Zion](https://www.bing.com/th?id=OHR.ZNPVR_IT-IT5034248506_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_IT-IT5034248506_UHD.jpg) |
 
-## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2022.md)
+## 🌸 [Japanese (Japan)](binguhd-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2022-11-28 | 火星の夜明け | 火星の夜明け (© NASA/Alamy) | [![火星の夜明け](https://www.bing.com/th?id=OHR.RedPlanetDay_JA-JP8455274428_320x240.jpg)](https://www.bing.com/th?id=OHR.RedPlanetDay_JA-JP8455274428_UHD.jpg) |
 | 2022-11-15 | 泳ぐカナダカワウソのカップル | 泳ぐカナダカワウソ, 米国 メイン州 (© George Sanker/Minden Pictures) | [![泳ぐカナダカワウソのカップル](https://www.bing.com/th?id=OHR.LontraCanadensis_JA-JP5477531401_320x240.jpg)](https://www.bing.com/th?id=OHR.LontraCanadensis_JA-JP5477531401_UHD.jpg) |
 
-## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2022.md)
+## 🐉 [Simplified Chinese (China)](binguhd-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |

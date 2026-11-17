@@ -1,10 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2022
 
-> Ultimo aggiornamento：2026-11-16 04:48:47 UTC
+> Ultimo aggiornamento：2026-11-17 06:31:08 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
-## 🦅 [Tedesco (Germania)](bing-UHD-de-DE-2022.md)
+## 🦅 [Tedesco (Germania)](binguhd-de-DE-2022.md)
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@
 | 2022-09-22 | Herbstfarben in Colorado | Kronendach der Espen entlang der Last Dollar Road nahe Telluride, Colorado, USA (© Grant Ordelheide/Tandem Stills + Motion) | [![Herbstfarben in Colorado](https://www.bing.com/th?id=OHR.LastDollarRoad_DE-DE7674036220_320x240.jpg)](https://www.bing.com/th?id=OHR.LastDollarRoad_DE-DE7674036220_UHD.jpg) |
 | 2022-12-26 | Familienspaß im Schnee | Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy) | [![Familienspaß im Schnee](https://www.bing.com/th?id=OHR.BeverleyWestwood_DE-DE6933411273_320x240.jpg)](https://www.bing.com/th?id=OHR.BeverleyWestwood_DE-DE6933411273_UHD.jpg) |
 
-## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2022.md)
+## 🍁 [Inglese (Canada)](binguhd-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 | 2022-10-07 | Dragon tails trail to the sea | Bay of Biscay in the Basque Coast Geopark near Bilbao, Spain (© Olimpio Fantuz/eStock Photo) | [![Dragon tails trail to the sea](https://www.bing.com/th?id=OHR.BayofBiscay_EN-CA5196551315_320x240.jpg)](https://www.bing.com/th?id=OHR.BayofBiscay_EN-CA5196551315_UHD.jpg) |
 | 2022-07-19 | Alps of the sea | Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock) | [![Alps of the sea](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-CA4120319818_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-CA4120319818_UHD.jpg) |
 
-## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2022.md)
+## 🌹 [Inglese (Regno Unito)](binguhd-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@
 | 2022-08-31 | How sweet to be a star, floating in the blue. | Blue linckia sea stars at New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures) | [![How sweet to be a star, floating in the blue.](https://www.bing.com/th?id=OHR.BlueLinckia_EN-GB4035419468_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLinckia_EN-GB4035419468_UHD.jpg) |
 | 2022-06-29 | Celebrating the tropics | Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images) | [![Celebrating the tropics](https://www.bing.com/th?id=OHR.PhangNgaBay_EN-GB7730172584_320x240.jpg)](https://www.bing.com/th?id=OHR.PhangNgaBay_EN-GB7730172584_UHD.jpg) |
 
-## 🦁 [Inglese (India)](bing-UHD-en-IN-2022.md)
+## 🦁 [Inglese (India)](binguhd-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 2022-09-10 | Getting starry-eyed at the moon | Moon installation during celebrations for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters) | [![Getting starry-eyed at the moon](https://www.bing.com/th?id=OHR.KLMidAutumn_EN-IN3314420087_320x240.jpg)](https://www.bing.com/th?id=OHR.KLMidAutumn_EN-IN3314420087_UHD.jpg) |
 | 2022-07-18 | Alps of the sea | Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock) | [![Alps of the sea](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-IN9354399252_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-IN9354399252_UHD.jpg) |
 
-## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2022.md)
+## 🗽 [Inglese (Stati Uniti)](binguhd-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@
 | 2022-06-23 | The lungs of Earth | Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures) | [![The lungs of Earth](https://www.bing.com/th?id=OHR.AmazonianEcuador_EN-US0278717095_320x240.jpg)](https://www.bing.com/th?id=OHR.AmazonianEcuador_EN-US0278717095_UHD.jpg) |
 | 2022-12-31 | This snow will never melt | Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images) | [![This snow will never melt](https://www.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_320x240.jpg)](https://www.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg) |
 
-## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2022.md)
+## 🐓 [Francese (Francia)](binguhd-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 2022-11-01 | Vive les morts | Figurines de squelettes pour el Día de los Muertos (le Jour des morts) au Mexique (© Amelia Fuentes Marin/Getty Images) | [![Vive les morts](https://www.bing.com/th?id=OHR.Calacas_FR-FR4752711220_320x240.jpg)](https://www.bing.com/th?id=OHR.Calacas_FR-FR4752711220_UHD.jpg) |
 | 2022-12-20 | Noël à Vienne | Le marché de Noël devant le palais du Belvédère à Vienne, Autriche (© Diyana Dimitrova/Alamy) | [![Noël à Vienne](https://www.bing.com/th?id=OHR.PalaceBelvedere_FR-FR7902038950_320x240.jpg)](https://www.bing.com/th?id=OHR.PalaceBelvedere_FR-FR7902038950_UHD.jpg) |
 
-## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2022.md)
+## ⭐ [Italiano (Italia)](binguhd-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
@@ -60,7 +60,7 @@
 | 2022-06-07 | Da esperimento scientifico a parco pubblico | Parco dei rododendri di Haaga, Helsinki, Finlandia (© Samuli Vainionpää/Getty Images) | [![Da esperimento scientifico a parco pubblico](https://www.bing.com/th?id=OHR.HaagaRhododendron_IT-IT5545811715_320x240.jpg)](https://www.bing.com/th?id=OHR.HaagaRhododendron_IT-IT5545811715_UHD.jpg) |
 | 2022-04-30 | Sintonizzati con la Giornata Internazionale del Jazz | Murale dell’artista Bill Weber nel quartiere North Beach di San Francisco (© Kosso/Getty Images) | [![Sintonizzati con la Giornata Internazionale del Jazz](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_UHD.jpg) |
 
-## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2022.md)
+## 🌸 [Giapponese (Giappone)](binguhd-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@
 | 2022-05-15 | 今日は「沖縄本土復帰記念日」 | コンドイ浜, 沖縄 竹富島 (© Matjaz Corel/Alamy Stock  Photo) | [![今日は「沖縄本土復帰記念日」](https://www.bing.com/th?id=OHR.OkinawaDay22_JA-JP9292207096_320x240.jpg)](https://www.bing.com/th?id=OHR.OkinawaDay22_JA-JP9292207096_UHD.jpg) |
 | 2022-05-14 | ポーニー国立草原の野鳥 | アナホリフクロウのヒナ, 米国 コロラド州 (© Roberta Olenick/Alamy) | [![ポーニー国立草原の野鳥](https://www.bing.com/th?id=OHR.PawneeOwls_JA-JP9366549530_320x240.jpg)](https://www.bing.com/th?id=OHR.PawneeOwls_JA-JP9366549530_UHD.jpg) |
 
-## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2022.md)
+## 🐉 [Cinese semplificato (Cina)](binguhd-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
