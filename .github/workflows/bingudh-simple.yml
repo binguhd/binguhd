@@ -37,7 +37,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: bingud-simple-${{ github.event_name }}-${{ inputs.year || 'auto' }}-${{ inputs.mkt || 'all' }}
+  group: binguhd-simple-${{ github.event_name }}-${{ inputs.year || 'auto' }}-${{ inputs.mkt || 'all' }}
   cancel-in-progress: false
 
 jobs:
@@ -118,9 +118,9 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add "bingud-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}.json" \
-                  "bingud-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}" \
-                  "bingud-${YEAR}/bing-UHD-${{ matrix.mkt }}-${YEAR}.md" || true
+          git add "binguhd-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}.json" \
+                  "binguhd-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}" \
+                  "binguhd-${YEAR}/bing-UHD-${{ matrix.mkt }}-${YEAR}.md" || true
 
           if git diff --cached --quiet; then
             echo "没有变更需要提交。"
