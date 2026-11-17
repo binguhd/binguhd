@@ -1,6 +1,6 @@
 # binguhd-simple-0.1.0.yml
 # github.com/shenjuexiao
-# 20261116
+# 20261117
 
 # .github/workflows/binguhd-simple.yml
 name: binguhd-simple
@@ -37,7 +37,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: bing-UHD-simple-${{ github.event_name }}-${{ inputs.year || 'auto' }}-${{ inputs.mkt || 'all' }}
+  group: bingud-simple-${{ github.event_name }}-${{ inputs.year || 'auto' }}-${{ inputs.mkt || 'all' }}
   cancel-in-progress: false
 
 jobs:
@@ -118,9 +118,9 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add "bing-UHD-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}.json" \
-                  "bing-UHD-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}" \
-                  "bing-UHD-${YEAR}/bing-UHD-${{ matrix.mkt }}-${YEAR}.md" || true
+          git add "bingud-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}.json" \
+                  "bingud-${YEAR}/bing-JSON-${{ matrix.mkt }}-${YEAR}" \
+                  "bingud-${YEAR}/bing-UHD-${{ matrix.mkt }}-${YEAR}.md" || true
 
           if git diff --cached --quiet; then
             echo "没有变更需要提交。"
