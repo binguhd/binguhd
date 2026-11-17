@@ -246,7 +246,7 @@ def build_markdown(mkt: str, year: str, results: list[dict], out_root: Path) -> 
             f"| [![{link_text}]({thumb})]({uhd}) |"
         )
 
-    md_path = out_root / f"binguhd-{mkt}-{year}.md"
+    md_path = out_root / f"bing-UHD-{mkt}-{year}.md"
     md_path.write_text("\n".join(md_lines) + "\n", encoding="utf-8")
     print(f"[完成] Markdown 已写入：{md_path}")
     return md_path
