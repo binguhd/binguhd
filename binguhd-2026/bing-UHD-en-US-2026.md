@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-17 15:37:43 UTC
+> Last updated: 2026-11-18 05:52:33 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
