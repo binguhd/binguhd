@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-17 15:38:13 UTC
+> Dernière mise à jour: 2026-11-18 05:52:58 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-18 | Chasser du crépuscule à l’aube | Couple de chouettes effraies  (© Zahoor Salmi/Getty Images) | [![Chasser du crépuscule à l’aube](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg) |
 | 2026-11-17 | À la découverte des grands espaces | Sentier des cèdres, parc national de Glacier, Montana, États-Unis (© DBushue Photography/Getty Images) | [![À la découverte des grands espaces](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg) |
 | 2026-11-16 | Construites pour durer | Habitations troglodytes de Gila, Nouveau-Mexique, États-Unis (© Chiara Salvadori/Getty Images) | [![Construites pour durer](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg) |
 | 2026-11-15 | Givre sur tons d'automne | Azalée gelée aux feuilles rouges (© avoferten/Shutterstock) | [![Givre sur tons d'automne](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_320x240.jpg)](https://www.bing.com/th?id=OHR.FirstFrost_FR-FR6372552822_UHD.jpg) |
