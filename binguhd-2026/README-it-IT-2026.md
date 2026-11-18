@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-17 15:40:17 UTC
+> Ultimo aggiornamento：2026-11-18 05:54:49 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,33 +8,33 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-08-23 | Der Fang des Tages | Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA (© Pal Hermansen/Nature Picture Library) | [![Der Fang des Tages](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_320x240.jpg)](https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_UHD.jpg) |
-| 2026-02-22 | Die Mutter der Hügel | Mam Tor, Derbyshire, England (© john finney photography/Getty Images) | [![Die Mutter der Hügel](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_320x240.jpg)](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg) |
-| 2026-09-23 | Die goldene Jahreszeit | Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock) | [![Die goldene Jahreszeit](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_320x240.jpg)](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg) |
+| 2026-08-24 | Brücke der Visionen | Brooklyn Bridge, New York, USA (© shayes17/Getty Images) | [![Brücke der Visionen](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_320x240.jpg)](https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_UHD.jpg) |
+| 2026-02-23 | Winterlicher Wächter | Silberreiher, Oberbayern, Deutschland (© Konrad Wothe/naturepl.com) | [![Winterlicher Wächter](https://www.bing.com/th?id=OHR.BavariaEgret_DE-DE1964732811_320x240.jpg)](https://www.bing.com/th?id=OHR.BavariaEgret_DE-DE1964732811_UHD.jpg) |
+| 2026-09-24 | Vulkanische Kontraste | Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock) | [![Vulkanische Kontraste](https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_320x240.jpg)](https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-20 | Spike your curiosity | Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com) | [![Spike your curiosity](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-CA1280925480_UHD.jpg) |
-| 2026-06-03 | Between the blues | Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images) | [![Between the blues](https://www.bing.com/th?id=OHR.Qinghai_EN-CA7131694039_320x240.jpg)](https://www.bing.com/th?id=OHR.Qinghai_EN-CA7131694039_UHD.jpg) |
-| 2026-01-20 | Nature's pop art | Frozen Abraham Lake, Alberta (© Luis F Arevalo/Getty Images) | [![Nature's pop art](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_320x240.jpg)](https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg) |
+| 2026-03-21 | The quiet bloom of change | Snowdrops in spring (© klagyivik/Getty Images) | [![The quiet bloom of change](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-CA7724863293_UHD.jpg) |
+| 2026-06-04 | Where the road stops, the ride begins | Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images) | [![Where the road stops, the ride begins](https://www.bing.com/th?id=OHR.BardenasReales_EN-CA9380471029_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_EN-CA9380471029_UHD.jpg) |
+| 2026-01-21 | Life on the edge of the ice | Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy) | [![Life on the edge of the ice](https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_320x240.jpg)](https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-22 | Sky tinted wings | Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library) | [![Sky tinted wings](https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_UHD.jpg) |
-| 2026-03-28 | Still burning bright | Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy) | [![Still burning bright](https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_320x240.jpg)](https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_UHD.jpg) |
-| 2026-09-02 | Painted along the shore | Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images) | [![Painted along the shore](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg) |
+| 2026-08-23 | Meet Katmai's fishing giants | Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library) | [![Meet Katmai's fishing giants](https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_320x240.jpg)](https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_UHD.jpg) |
+| 2026-03-29 | The untamed spirit | African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images) | [![The untamed spirit](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_320x240.jpg)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg) |
+| 2026-09-03 | An act of wilderness | Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images) | [![An act of wilderness](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_320x240.jpg)](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-02-24 | The pulse beneath the pond | Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion) | [![The pulse beneath the pond](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_320x240.jpg)](https://www.bing.com/th?id=OHR.TulumLilies_EN-IN0356190937_UHD.jpg) |
-| 2026-03-29 | Serenity by the sea | Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock) | [![Serenity by the sea](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg) |
-| 2026-08-15 | Beneath the tricolour sky | The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images) | [![Beneath the tricolour sky](https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_320x240.jpg)](https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg) |
+| 2026-02-25 | Ice, lit from within | Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock) | [![Ice, lit from within](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_320x240.jpg)](https://www.bing.com/th?id=OHR.MendenhallCave_EN-IN1317214650_UHD.jpg) |
+| 2026-03-30 | Elegance in motion | Demoiselle cranes, India (© Axel Gomille/Nature Picture Library) | [![Elegance in motion](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_320x240.jpg)](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_UHD.jpg) |
+| 2026-08-16 | Where swans started a legend | Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock) | [![Where swans started a legend](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-IN1645230186_320x240.jpg)](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-IN1645230186_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2026.md)
 
@@ -48,17 +48,17 @@
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-07-10 | Le pays des rivages mouvants | Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images) | [![Le pays des rivages mouvants](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_320x240.jpg)](https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_UHD.jpg) |
-| 2026-09-13 | Un toit au-dessus de l’Italie | Cadini di Misurina, Dolomites, Vénétie, Italie (© Vithun Khamsong/Getty Images) | [![Un toit au-dessus de l’Italie](https://www.bing.com/th?id=OHR.MisurinaPeak_FR-FR3560016710_320x240.jpg)](https://www.bing.com/th?id=OHR.MisurinaPeak_FR-FR3560016710_UHD.jpg) |
-| 2026-08-21 | Accrochez-vous ! | Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images) | [![Accrochez-vous !](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg) |
+| 2026-07-11 | Niché au creux du Loc’h | Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock) | [![Niché au creux du Loc’h](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg) |
+| 2026-09-14 | Quand la tenacité prend racine | Champ de kochia, Chine (© lingqi xie/Getty Images) | [![Quand la tenacité prend racine](https://www.bing.com/th?id=OHR.KochiaChina_FR-FR3921834032_320x240.jpg)](https://www.bing.com/th?id=OHR.KochiaChina_FR-FR3921834032_UHD.jpg) |
+| 2026-08-22 | De délicates ailes azur | Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library) | [![De délicates ailes azur](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-03-30 | Specchio di primavera | Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock) | [![Specchio di primavera](https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg) |
-| 2026-08-08 | Attraversare l'infinito | Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock) | [![Attraversare l'infinito](https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_320x240.jpg)](https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_UHD.jpg) |
-| 2026-03-24 | Ballo di petali | Fiori di ciliegio, Parco dei Fiori di Ciliegio del Lago Orientale, Wuhan, Cina (© Zhang Qiao/VCG/Getty Images) | [![Ballo di petali](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_320x240.jpg)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_UHD.jpg) |
+| 2026-03-31 | Paradisi sotterranei | Paradise Cave, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Pakawat Thongcharoen/Getty Images) | [![Paradisi sotterranei](https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918_320x240.jpg)](https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918_UHD.jpg) |
+| 2026-08-09 | Architettura dell'identità | Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy) | [![Architettura dell'identità](https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_UHD.jpg) |
+| 2026-03-25 | E quindi uscimmo a riveder le stelle | Cattedrale Santa Maria del Fiore, Firenze, Toscana (© Lindrik/iStock/Getty Images Plus) | [![E quindi uscimmo a riveder le stelle](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_320x240.jpg)](https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2026.md)
 
@@ -72,7 +72,7 @@
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-02-26 | 一幅壮丽的景象 | 大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images) | [![一幅壮丽的景象](https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_320x240.jpg)](https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg) |
-| 2026-06-14 | 潜羽探清波 | 绿头鸭 (© Philippe Paternolli/Getty Images) | [![潜羽探清波](https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg) |
-| 2026-08-09 | 身份认同的建筑表达 | 让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy) | [![身份认同的建筑表达](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg) |
+| 2026-02-27 | 薄冰上的生活 | 北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com) | [![薄冰上的生活](https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_320x240.jpg)](https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg) |
+| 2026-06-15 | 岁月雕琢，风景始成 | 大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images) | [![岁月雕琢，风景始成](https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_320x240.jpg)](https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg) |
+| 2026-08-10 | 两片沙漠交汇之地 | 约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images) | [![两片沙漠交汇之地](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg) |
 

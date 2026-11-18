@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-17 15:40:17 UTC
+> 最后更新：2026-11-18 05:54:49 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,33 +8,33 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-10-11 | Symbol ursprünglicher Natur | Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images) | [![Symbol ursprünglicher Natur](https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_320x240.jpg)](https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_UHD.jpg) |
-| 2026-05-30 | Zwischen den Streifen lesen | Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library) | [![Zwischen den Streifen lesen](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg) |
-| 2026-11-02 | Eine Zukunft, geprägt vom Eis | Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock) | [![Eine Zukunft, geprägt vom Eis](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg) |
+| 2026-10-12 | Ein Pier voller Geschichte | Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock) | [![Ein Pier voller Geschichte](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_320x240.jpg)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg) |
+| 2026-05-31 | Gelb, soweit das Auge reicht | Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images) | [![Gelb, soweit das Auge reicht](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_320x240.jpg)](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg) |
+| 2026-11-03 | Stille Gipfelwelten | Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images) | [![Stille Gipfelwelten](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-12 | Where autumn turns the wheel | Glade Creek Grist Mill, Babcock State Park, West Virginia, USA (© dszc/Getty Images) | [![Where autumn turns the wheel](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_320x240.jpg)](https://www.bing.com/th?id=OHR.BabcockSP_EN-CA1944147188_UHD.jpg) |
-| 2026-02-09 | From quiet nights to adventurous days | Corfu at night, Greece (© whitewizzard/Getty Images) | [![From quiet nights to adventurous days](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_320x240.jpg)](https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg) |
-| 2026-02-24 | Snowfield monarch | Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com) | [![Snowfield monarch](https://www.bing.com/th?id=OHR.BavariaEgret_EN-CA7888781602_320x240.jpg)](https://www.bing.com/th?id=OHR.BavariaEgret_EN-CA7888781602_UHD.jpg) |
+| 2026-10-13 | Hearts filled with gratitude | Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images) | [![Hearts filled with gratitude](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_320x240.jpg)](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg) |
+| 2026-02-10 | Patterns in motion | Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com) | [![Patterns in motion](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_320x240.jpg)](https://www.bing.com/th?id=OHR.LeopardCat_EN-CA5823948981_UHD.jpg) |
+| 2026-02-25 | The pulse beneath the pond | Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion) | [![The pulse beneath the pond](https://www.bing.com/th?id=OHR.TulumLilies_EN-CA7828911818_320x240.jpg)](https://www.bing.com/th?id=OHR.TulumLilies_EN-CA7828911818_UHD.jpg) |
 
 ## 🌹 [英语（英国）](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-09-22 | Ash meets splash | Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock) | [![Ash meets splash](https://www.bing.com/th?id=OHR.ElGolfo_EN-GB9192637782_320x240.jpg)](https://www.bing.com/th?id=OHR.ElGolfo_EN-GB9192637782_UHD.jpg) |
-| 2026-03-20 | Spike your curiosity | Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com) | [![Spike your curiosity](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg) |
-| 2026-03-10 | A perfectly timed nap | Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures) | [![A perfectly timed nap](https://www.bing.com/th?id=OHR.NappingSeal_EN-GB6694764610_320x240.jpg)](https://www.bing.com/th?id=OHR.NappingSeal_EN-GB6694764610_UHD.jpg) |
+| 2026-09-23 | The golden season | Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock) | [![The golden season](https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_320x240.jpg)](https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_UHD.jpg) |
+| 2026-03-21 | The quiet bloom of change | Snowdrops in spring (© klagyivik/Getty Images) | [![The quiet bloom of change](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-GB6031515717_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-GB6031515717_UHD.jpg) |
+| 2026-03-11 | Fire under frost | Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images) | [![Fire under frost](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-26 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg) |
-| 2026-04-04 | The lek side story | Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library) | [![The lek side story](https://www.bing.com/th?id=OHR.GrouseGuff_EN-IN5681124078_320x240.jpg)](https://www.bing.com/th?id=OHR.GrouseGuff_EN-IN5681124078_UHD.jpg) |
-| 2026-06-10 | A splash of blue | Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images) | [![A splash of blue](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_320x240.jpg)](https://www.bing.com/th?id=OHR.Hnausapollur_EN-IN7208040005_UHD.jpg) |
+| 2026-10-27 | Nature's golden mirror | A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg) |
+| 2026-04-05 | Hello, Easter Sunday | Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images) | [![Hello, Easter Sunday](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-IN6625019465_UHD.jpg) |
+| 2026-06-11 | Quiet strength | Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library) | [![Quiet strength](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_320x240.jpg)](https://www.bing.com/th?id=OHR.Limpets_EN-IN7322594787_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2026.md)
 
@@ -48,17 +48,17 @@
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-05-27 | Aussi attendrissante qu’essentielle | Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images) | [![Aussi attendrissante qu’essentielle](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_320x240.jpg)](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_UHD.jpg) |
-| 2026-08-27 | Des trésors à protéger | Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library) | [![Des trésors à protéger](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_UHD.jpg) |
-| 2026-01-18 | Le mirage d’un désert | Parc National des White Sands, Nouveau-Mexique, États-Unis (© Francesco Carucci/Getty Images) | [![Le mirage d’un désert](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_UHD.jpg) |
+| 2026-05-28 | Quand architecture et discipline ne font qu’une | Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images) | [![Quand architecture et discipline ne font qu’une](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_320x240.jpg)](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_UHD.jpg) |
+| 2026-08-28 | Bercé par la marée | Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images) | [![Bercé par la marée](https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_320x240.jpg)](https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_UHD.jpg) |
+| 2026-01-19 | Quand la nature fait son pop art | Le lac Abraham en hiver, Alberta, Canada (© Luis F Arevalo/Getty Images) | [![Quand la nature fait son pop art](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_320x240.jpg)](https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-02-25 | L'ultima grotta? | Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA (© Designpics/Adobe Stock) | [![L'ultima grotta?](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_320x240.jpg)](https://www.bing.com/th?id=OHR.MendenhallCave_IT-IT7827640897_UHD.jpg) |
-| 2026-06-07 | Aria, acqua, terra e fuoco | Lago del cratere Hnausapollur, riserva naturale di Fjallabak, Islanda (© Juan Maria Coy Vergara/Getty Images) | [![Aria, acqua, terra e fuoco](https://www.bing.com/th?id=OHR.Hnausapollur_IT-IT7264622546_320x240.jpg)](https://www.bing.com/th?id=OHR.Hnausapollur_IT-IT7264622546_UHD.jpg) |
-| 2026-09-01 | Buon Capodanno Bizantino! | Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images) | [![Buon Capodanno Bizantino!](https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_320x240.jpg)](https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_UHD.jpg) |
+| 2026-02-26 | Onde di pietra | Grand Canyon e fiume Colorado, Arizona, USA (© Matt Anderson Photography/Getty Images) | [![Onde di pietra](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_320x240.jpg)](https://www.bing.com/th?id=OHR.GrandSunset_IT-IT7877559254_UHD.jpg) |
+| 2026-06-08 | Corrente molto forte | Medusa dalla criniera di leone che nuota nell'oceano (© Alexander Semenov Images/Shutterstock) | [![Corrente molto forte](https://www.bing.com/th?id=OHR.Cyanea_IT-IT7439646926_320x240.jpg)](https://www.bing.com/th?id=OHR.Cyanea_IT-IT7439646926_UHD.jpg) |
+| 2026-09-02 | Dipinta lungo la riva | Capanne tradizionali sulla spiaggia, Southwold, Suffolk Heritage Coast, Inghilterra (© stevendocwra/Getty Images) | [![Dipinta lungo la riva](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2026.md)
 
@@ -72,7 +72,7 @@
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-10-04 | 宇宙在召唤 | 阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images) | [![宇宙在召唤](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_320x240.jpg)](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg) |
-| 2026-04-06 | 芬芳四月 | 樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images) | [![芬芳四月](https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_320x240.jpg)](https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg) |
-| 2026-01-11 | 从抗拒到绽放 | 舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images) | [![从抗拒到绽放](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg) |
+| 2026-10-05 | 纵身一跃，一次一课 | 南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures) | [![纵身一跃，一次一课](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_320x240.jpg)](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg) |
+| 2026-04-07 | 一根树枝，一点工程 | 河狸，德国 (© Andyworks/Getty Images) | [![一根树枝，一点工程](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg) |
+| 2026-01-12 | 水獭之国爱沙尼亚 | 欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com) | [![水獭之国爱沙尼亚](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg) |
 
