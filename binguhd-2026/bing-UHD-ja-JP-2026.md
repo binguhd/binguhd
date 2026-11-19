@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-18 05:53:54 UTC
+> 最終更新: 2026-11-19 05:53:54 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-19 | アイデアが形になる場所 | ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock) | [![アイデアが形になる場所](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg) |
 | 2026-11-18 | 夕暮れから始まる狩り | メンフクロウのつがい (© Zahoor Salmi/Getty Images) | [![夕暮れから始まる狩り](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg) |
 | 2026-11-17 | さあ、大自然の中へ | トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images) | [![さあ、大自然の中へ](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg) |
 | 2026-11-16 | 時を超える崖の住まい | ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images) | [![時を超える崖の住まい](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg) |
