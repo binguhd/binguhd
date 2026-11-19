@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-18 05:53:26 UTC
+> Ultimo aggiornamento: 2026-11-19 05:53:25 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-19 | Dove le idee prendono forma | "Body of Knowledge", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock) | [![Dove le idee prendono forma](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_UHD.jpg) |
 | 2026-11-18 | A caccia dal tramonto all’alba | Una coppia di barbagianni (© Zahoor Salmi/Getty Images) | [![A caccia dal tramonto all’alba](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg) |
 | 2026-11-17 | Immergiti nella natura | Trail of the Cedars, Parco Nazionale dei Ghiacciai, Montana, USA (© DBushue Photography/Getty Images) | [![Immergiti nella natura](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_IT-IT4677653640_UHD.jpg) |
 | 2026-11-16 | Case scolpite per durare | Gila Cliff Dwellings National Monument, Nuovo Messico, USA (© Chiara Salvadori/Getty Images) | [![Case scolpite per durare](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg) |
