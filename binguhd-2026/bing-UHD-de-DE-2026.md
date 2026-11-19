@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-18 05:50:37 UTC
+> Zuletzt aktualisiert: 2026-11-19 05:50:32 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-19 | Wo Ideen Gestalt annehmen | Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock) | [![Wo Ideen Gestalt annehmen](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg) |
 | 2026-11-18 | Jäger der Nacht | Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images) | [![Jäger der Nacht](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg) |
 | 2026-11-17 | Raus in die Natur! | Trail of the Cedars, Glacier-Nationalpark, Montana, USA (© DBushue Photography/Getty Images) | [![Raus in die Natur!](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_320x240.jpg)](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg) |
 | 2026-11-16 | Für die Ewigkeit gebaut | Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images) | [![Für die Ewigkeit gebaut](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_320x240.jpg)](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg) |
