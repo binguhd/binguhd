@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated：2026-11-18 08:38:47 UTC
+> Last updated：2026-11-19 05:54:48 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-01-10 | Magie ganz nach Schweizer Art | Das Matterhorn spiegelt sich bei Sonnenaufgang im Stellisee, Zermatt, Schweiz (© Andy Trowbridge/naturepl.com) | [![Magie ganz nach Schweizer Art](https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_320x240.jpg)](https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_UHD.jpg) |
-| 2026-11-11 | Ein Wald voller Wunder | Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images) | [![Ein Wald voller Wunder](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg) |
-| 2026-01-29 | Wo Geschichte nach oben führt | Achtstöckiges offenes Atrium im Rathaus von Milwaukee, Wisconsin, USA (© lavin photography/Getty Images) | [![Wo Geschichte nach oben führt](https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_320x240.jpg)](https://www.bing.com/th?id=OHR.MilwaukeeHall_DE-DE1517819604_UHD.jpg) |
+| 2026-01-11 | Die blaue Perle Marokkos | Blaue Mauern von Chefchaouen, Marokko (© AnetteAndersen/Getty Images) | [![Die blaue Perle Marokkos](https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_UHD.jpg) |
+| 2026-11-12 | Architektur ohne Architekten | North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architektur ohne Architekten](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg) |
+| 2026-01-30 | Wo das Meer den Weg freigibt | St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images) | [![Wo das Meer den Weg freigibt](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_320x240.jpg)](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-06-28 | Many voices, one country | Dramatic sky over Montreal, Quebec (© d3sign/Getty Images) | [![Many voices, one country](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_320x240.jpg)](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg) |
-| 2026-08-10 | Architecture of identity | Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy) | [![Architecture of identity](https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_EN-CA4738460132_UHD.jpg) |
-| 2026-04-27 | Bloom boom | Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images) | [![Bloom boom](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_320x240.jpg)](https://www.bing.com/th?id=OHR.AppleBlossoms_EN-CA6292160620_UHD.jpg) |
+| 2026-06-29 | Looking sharp | Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images) | [![Looking sharp](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_320x240.jpg)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg) |
+| 2026-08-11 | Where two deserts collide | Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images) | [![Where two deserts collide](https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_EN-CA4913487409_UHD.jpg) |
+| 2026-04-28 | Glass with class | The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images) | [![Glass with class](https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_320x240.jpg)](https://www.bing.com/th?id=OHR.MilanGalleria_EN-CA9394952547_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-01-23 | A Bohemian spa story | Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images) | [![A Bohemian spa story](https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_320x240.jpg)](https://www.bing.com/th?id=OHR.KarlovyVary_EN-GB6157843860_UHD.jpg) |
-| 2026-09-09 | Life on India's west coast | Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images) | [![Life on India's west coast](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_320x240.jpg)](https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg) |
-| 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg) |
+| 2026-01-24 | Feasting through frost | Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images) | [![Feasting through frost](https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_UHD.jpg) |
+| 2026-09-10 | A patchwork from above | Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images) | [![A patchwork from above](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_320x240.jpg)](https://www.bing.com/th?id=OHR.Olvera_EN-GB6934313279_UHD.jpg) |
+| 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-19 | Wings at rest | Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion) | [![Wings at rest](https://www.bing.com/th?id=OHR.HirundoRustica_EN-IN8751353148_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-IN8751353148_UHD.jpg) |
-| 2026-03-19 | Spike your curiosity | Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com) | [![Spike your curiosity](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-IN3822146974_UHD.jpg) |
-| 2026-10-22 | Still waters, vivid colours | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg) |
+| 2026-07-20 | The lunar perspective | Moon and Earth captured by the Artemis II crew (© NASA) | [![The lunar perspective](https://www.bing.com/th?id=OHR.Artemis_EN-IN9018589977_320x240.jpg)](https://www.bing.com/th?id=OHR.Artemis_EN-IN9018589977_UHD.jpg) |
+| 2026-03-20 | The quiet bloom of change | Snowdrops in spring (© klagyivik/Getty Images) | [![The quiet bloom of change](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_UHD.jpg) |
+| 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg) |
-| 2026-10-08 | Puzzled? Follow the trail | Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images) | [![Puzzled? Follow the trail](https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_320x240.jpg)](https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg) |
-| 2026-06-02 | Pride in plain sight | Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images) | [![Pride in plain sight](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_320x240.jpg)](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg) |
+| 2026-11-05 | Paddling a painted forest | People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg) |
+| 2026-10-09 | Now you 'sea' me... | Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures) | [![Now you 'sea' me...](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_320x240.jpg)](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg) |
+| 2026-06-03 | Between the blues | Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images) | [![Between the blues](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_320x240.jpg)](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-07-15 | Des racines et des zestes | Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library) | [![Des racines et des zestes](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_320x240.jpg)](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg) |
-| 2026-06-22 | Un royaume humide | Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion) | [![Un royaume humide](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_320x240.jpg)](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg) |
-| 2026-07-19 | Ailes de repos | Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion) | [![Ailes de repos](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg) |
+| 2026-07-16 | Sieste estivale | Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images) | [![Sieste estivale](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_320x240.jpg)](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg) |
+| 2026-06-23 | Empreinte intemporelle à l’horizon | Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images) | [![Empreinte intemporelle à l’horizon](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_320x240.jpg)](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_UHD.jpg) |
+| 2026-07-20 | Une perspective lunaire | La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA) | [![Une perspective lunaire](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_320x240.jpg)](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-09-21 | Vita tra pelliccia e mare | Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures) | [![Vita tra pelliccia e mare](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_320x240.jpg)](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_UHD.jpg) |
-| 2026-06-14 | Real-mente elegante | Germano reale (© Philippe Paternolli/Getty Images) | [![Real-mente elegante](https://www.bing.com/th?id=OHR.DuckPond_IT-IT3562995004_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckPond_IT-IT3562995004_UHD.jpg) |
-| 2026-06-22 | Il richiamo della foresta? | Foresta pluviale di Quinault, parco nazionale Olympic, Washington, USA (© Chris Moore/Tandem Stills + Motion) | [![Il richiamo della foresta?](https://www.bing.com/th?id=OHR.QuinaultFerns_IT-IT2013381547_320x240.jpg)](https://www.bing.com/th?id=OHR.QuinaultFerns_IT-IT2013381547_UHD.jpg) |
+| 2026-09-22 | Oltre l'ultima pagina | La Casa di Hobbit presso il Set Cinematografico di Hobbiton, Matamata, Nuova Zelanda (© djr-photography/Shutterstock) | [![Oltre l'ultima pagina](https://www.bing.com/th?id=OHR.TolkienWeek_IT-IT7744314580_320x240.jpg)](https://www.bing.com/th?id=OHR.TolkienWeek_IT-IT7744314580_UHD.jpg) |
+| 2026-06-15 | Valli nella nebbia | Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images) | [![Valli nella nebbia](https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482_320x240.jpg)](https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482_UHD.jpg) |
+| 2026-06-23 | Firma celeste | Monte Fuji, Honshu, Giappone (© phutthiseth thongtae/Getty Images) | [![Firma celeste](https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_320x240.jpg)](https://www.bing.com/th?id=OHR.Fujisan_IT-IT7252704388_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-02-20 | 炎の滝が一瞬だけ現れる夕刻 | ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images) | [![炎の滝が一瞬だけ現れる夕刻](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_320x240.jpg)](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg) |
+| 2026-02-21 | 降り積もる雪の中に生きる凛とした気配 | アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com) | [![降り積もる雪の中に生きる凛とした気配](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg) |
+| 2026-04-03 | 静かな運河に映る街並み | アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images) | [![静かな運河に映る街並み](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_320x240.jpg)](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg) |
 | 2026-04-02 | 春を告げる紫の花 | シモクレン (© Aflo Co., Ltd./Alamy) | [![春を告げる紫の花](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_320x240.jpg)](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_UHD.jpg) |
-| 2026-04-01 | 丘陵を染める一面の野生花 | セントラル・バレー, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion) | [![丘陵を染める一面の野生花](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_320x240.jpg)](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-02-23 | 雪原之王 | 大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com) | [![雪原之王](https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_320x240.jpg)](https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg) |
-| 2026-08-11 | 绚丽多彩的哥本哈根 | 哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images) | [![绚丽多彩的哥本哈根](https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_320x240.jpg)](https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg) |
+| 2026-02-24 | 池底的生命律动 | 大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion) | [![池底的生命律动](https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_320x240.jpg)](https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg) |
 | 2026-08-12 | 值得守护的巨兽 | 安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images) | [![值得守护的巨兽](https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg) |
+| 2026-08-13 | 许个愿吧 | 泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images) | [![许个愿吧](https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg) |
 

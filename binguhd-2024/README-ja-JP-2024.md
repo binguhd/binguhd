@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2024
 
-> 最終更新：2026-11-18 08:38:47 UTC
+> 最終更新：2026-11-19 05:54:48 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2024-09-20 | Strahlender Wegweiser | Ocracoke-Leuchtturm auf Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images) | [![Strahlender Wegweiser](https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_DE-DE4329523097_UHD.jpg) |
-| 2024-02-12 | Sanfte Riesen | Riesenschildkröten am Vulkan Alcedo, Insel Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures) | [![Sanfte Riesen](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantTortoise_DE-DE4591798432_UHD.jpg) |
-| 2024-12-16 | Musik liegt in der Luft | Salzburg, Österreich (© bluejayphoto/Getty Images) | [![Musik liegt in der Luft](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_DE-DE5352398270_UHD.jpg) |
+| 2024-03-22 | Lebensstrom am Weltwassertag | Blue Spring, Te Waihou Walkway, Neuseeland (© Ian Beattie/Alamy Stock Photo) | [![Lebensstrom am Weltwassertag](https://www.bing.com/th?id=OHR.WaikatoWater_DE-DE6943306276_320x240.jpg)](https://www.bing.com/th?id=OHR.WaikatoWater_DE-DE6943306276_UHD.jpg) |
+| 2024-11-16 | Schlick, Meer und Himmel | Wattenmeerküste bei Moddergat, Friesland, Niederlande (© Ron ter Burg/Minden Pictures) | [![Schlick, Meer und Himmel](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_320x240.jpg)](https://www.bing.com/th?id=OHR.FrieslandNetherlands_DE-DE2101104356_UHD.jpg) |
+| 2024-05-31 | Ein Paradies in Grün | Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo) | [![Ein Paradies in Grün](https://www.bing.com/th?id=OHR.YorkshireDalesNP_DE-DE2262987650_320x240.jpg)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_DE-DE2262987650_UHD.jpg) |
 
 ## 🍁 [英語（カナダ）](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-06-18 | Spread the pollen | Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy) | [![Spread the pollen](https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552_320x240.jpg)](https://www.bing.com/th?id=OHR.HummingThistle_EN-CA5661404552_UHD.jpg) |
-| 2024-01-06 | Chisels and chills | International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg) |
-| 2024-09-14 | A haven for nature and humans | Point Reyes National Seashore Lighthouse, California, USA (© RMB Images/Photography by Robert Bowman/Getty Images) | [![A haven for nature and humans](https://www.bing.com/th?id=OHR.PointReyes_EN-CA0207843307_320x240.jpg)](https://www.bing.com/th?id=OHR.PointReyes_EN-CA0207843307_UHD.jpg) |
+| 2024-09-20 | Avast, landlubbers! | Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images) | [![Avast, landlubbers!](https://www.bing.com/th?id=OHR.PiratePlayground_EN-CA5267288064_320x240.jpg)](https://www.bing.com/th?id=OHR.PiratePlayground_EN-CA5267288064_UHD.jpg) |
+| 2024-02-12 | Elysium on Earth | Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images) | [![Elysium on Earth](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572_320x240.jpg)](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-CA9478453572_UHD.jpg) |
+| 2024-12-16 | A lake of tears | Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images) | [![A lake of tears](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_320x240.jpg)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-CA3296922212_UHD.jpg) |
 
 ## 🌹 [英語（イギリス）](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-03-12 | Sweet dreams are made of leaves | A sleeping koala, Australia (© Anton Rogozin/Getty Images) | [![Sweet dreams are made of leaves](https://www.bing.com/th?id=OHR.SleepyKoala_EN-GB8056580586_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyKoala_EN-GB8056580586_UHD.jpg) |
-| 2024-05-12 | Quiet reflection | Skiddaw, Lake District National Park, England (© James Whitesmith/Alamy Stock Photo) | [![Quiet reflection](https://www.bing.com/th?id=OHR.SkiddawMassifUK_EN-GB5449719093_320x240.jpg)](https://www.bing.com/th?id=OHR.SkiddawMassifUK_EN-GB5449719093_UHD.jpg) |
-| 2024-07-25 | Into the thick of it | Forest path in Great Smoky Mountains National Park, Tennessee, USA (© putmanphoto/Getty Images) | [![Into the thick of it](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_320x240.jpg)](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_UHD.jpg) |
+| 2024-06-17 | Hum-bly yours | Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy) | [![Hum-bly yours](https://www.bing.com/th?id=OHR.HummingThistle_EN-GB9410129648_320x240.jpg)](https://www.bing.com/th?id=OHR.HummingThistle_EN-GB9410129648_UHD.jpg) |
+| 2024-01-04 | One library to rule them all | Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images) | [![One library to rule them all](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_320x240.jpg)](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg) |
+| 2024-09-13 | A haven for nature and humans | Point Reyes National Seashore Lighthouse, California, USA (©  RMB Images/Photography by Robert Bowman/Getty Images) | [![A haven for nature and humans](https://www.bing.com/th?id=OHR.PointReyes_EN-GB4421603745_320x240.jpg)](https://www.bing.com/th?id=OHR.PointReyes_EN-GB4421603745_UHD.jpg) |
 
 ## 🦁 [英語（インド）](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-06-30 | You won't forget 'Ubud' it! | Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture) | [![You won't forget 'Ubud' it!](https://www.bing.com/th?id=OHR.UbudBali_EN-IN5820803064_320x240.jpg)](https://www.bing.com/th?id=OHR.UbudBali_EN-IN5820803064_UHD.jpg) |
-| 2024-10-09 | Colorado in full colour | Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion) | [![Colorado in full colour](https://www.bing.com/th?id=OHR.AspensColorado_EN-IN9587734366_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_EN-IN9587734366_UHD.jpg) |
-| 2024-04-14 | Rock 'n' bowl | Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images) | [![Rock 'n' bowl](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-IN9555671935_320x240.jpg)](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-IN9555671935_UHD.jpg) |
+| 2024-03-14 | Branches of wisdom | Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy) | [![Branches of wisdom](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-IN1779605533_320x240.jpg)](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-IN1779605533_UHD.jpg) |
+| 2024-05-13 | A fisheye view | Fish River Canyon, Namibia (© R. M. Nunes/Getty Images) | [![A fisheye view](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-IN2812270328_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaCanyon_EN-IN2812270328_UHD.jpg) |
+| 2024-07-26 | Valour in stone | Defence personnel pay tribute to Kargil martyrs (© Hindustan Times/Contributor/Getty images) | [![Valour in stone](https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_320x240.jpg)](https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_UHD.jpg) |
 
 ## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-11-08 | Wolves in the wild | Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy) | [![Wolves in the wild](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_320x240.jpg)](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg) |
-| 2024-04-19 | Wall of fame | Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images) | [![Wall of fame](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_320x240.jpg)](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg) |
-| 2024-05-24 | Looking for a shell-ter | Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures) | [![Looking for a shell-ter](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_320x240.jpg)](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg) |
+| 2024-06-30 | Saddle up for Le Tour! | Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images) | [![Saddle up for Le Tour!](https://www.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_320x240.jpg)](https://www.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg) |
+| 2024-10-09 | Ocean's eight | Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy) | [![Ocean's eight](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_320x240.jpg)](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg) |
+| 2024-04-14 | Canopy of blossoms | Apple trees in spring, Germany (© Smileus/Getty Images) | [![Canopy of blossoms](https://www.bing.com/th?id=OHR.SpringApple_EN-US3148648329_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg) |
 
 ## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-10-04 | La lune bleue veille | Europe, la lune glacée de Jupiter (© NASA/JPL-Caltech/SETI Institute) | [![La lune bleue veille](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_320x240.jpg)](https://www.bing.com/th?id=OHR.EuropaMoon_FR-FR8860978550_UHD.jpg) |
-| 2024-09-04 | Les seigneurs de la nuit | Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images) | [![Les seigneurs de la nuit](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_FR-FR0673543438_UHD.jpg) |
-| 2024-04-02 | Petit rayon de soleil printanier | Hêtres et anémones sauvages, Jutland, Danemark (© Nick Brundle Photography/Getty Images) | [![Petit rayon de soleil printanier](https://www.bing.com/th?id=OHR.JutlandSpring_FR-FR9511410007_320x240.jpg)](https://www.bing.com/th?id=OHR.JutlandSpring_FR-FR9511410007_UHD.jpg) |
+| 2024-11-08 | De la terre de feu et de glace | Vue aérienne de rivières glacières, Islande (© rybarmarekk/Shutterstock) | [![De la terre de feu et de glace](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_UHD.jpg) |
+| 2024-04-19 | La boucle est bouclée ! | Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images) | [![La boucle est bouclée !](https://www.bing.com/th?id=OHR.OrkneyStones_FR-FR1638921700_320x240.jpg)](https://www.bing.com/th?id=OHR.OrkneyStones_FR-FR1638921700_UHD.jpg) |
+| 2024-05-24 | Un labyrinthique de roche, de forêt et d’eau | Canyon d'Anisclo, Parc national d'Ordesa et Monte Perdido, Huesca, Espagne (© Marisa Estivill/Shutterstock) | [![Un labyrinthique de roche, de forêt et d’eau](https://www.bing.com/th?id=OHR.OrdesaNationalPark_FR-FR8382940670_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_FR-FR8382940670_UHD.jpg) |
 
 ## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-02-27 | Giovinezza e spensieratezza! | Cuccioli di orso polare che giocano, Kaktovik, Alaska, Stati Uniti (© Piriya Photography/Getty Images) | [![Giovinezza e spensieratezza!](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_320x240.jpg)](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_UHD.jpg) |
-| 2024-05-17 | Che vista e che magnifica torre! | Vista di Bergamo Alta durante il tramonto, Lombardia, Italia (© Deimagine/Getty Images) | [![Che vista e che magnifica torre!](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_320x240.jpg)](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_UHD.jpg) |
-| 2024-11-02 | Da quasi estinzione a icona nazionale | Bisonte americano nel Parco Nazionale di Yellowstone, Wyoming, Stati Uniti (© Ian Shive/TANDEM Stills + Motion) | [![Da quasi estinzione a icona nazionale](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonYellowstone_IT-IT5583560788_UHD.jpg) |
+| 2024-10-04 | Quale luna bussò? | Europa, la Luna ghiacciata di Giove (© NASA/JPL-Caltech/SETI Institute) | [![Quale luna bussò?](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_320x240.jpg)](https://www.bing.com/th?id=OHR.EuropaMoon_IT-IT5266996752_UHD.jpg) |
+| 2024-09-04 | Sentinelle del vespro | Gufo reale bruno, Pakistan (© zahoor salmi/Getty Images) | [![Sentinelle del vespro](https://www.bing.com/th?id=OHR.DuskyOwls_IT-IT6847895557_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_IT-IT6847895557_UHD.jpg) |
+| 2024-04-02 | Sotto un raggio di luce | Faggi e anemoni selvatici, Jutland, Danimarca (© Nick Brundle Photography/Getty Images) | [![Sotto un raggio di luce](https://www.bing.com/th?id=OHR.JutlandSpring_IT-IT3723976885_320x240.jpg)](https://www.bing.com/th?id=OHR.JutlandSpring_IT-IT3723976885_UHD.jpg) |
 
 ## 🌸 [日本語（日本）](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-09-20 | 白亜のオクラコーク灯台 | オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images) | [![白亜のオクラコーク灯台](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_UHD.jpg) |
-| 2024-03-24 | 湿原を横切るリーチュエの群れ | オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images) | [![湿原を横切るリーチュエの群れ](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_320x240.jpg)](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg) |
-| 2024-12-11 | 今日は国際山岳デー | トレ・チーメ・ディ・ラヴァレード, イタリア (© Daniel Maran/Getty Images) | [![今日は国際山岳デー](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_UHD.jpg) |
+| 2024-02-27 | 今日は国際ホッキョクグマの日 | じゃれあうホッキョクグマの赤ちゃん, 米国 アラスカ州 (© Piriya Photography/Getty Images) | [![今日は国際ホッキョクグマの日](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_320x240.jpg)](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg) |
+| 2024-05-17 | 今日は米国の「絶滅危惧種の日」 | タランギーレ国立公園のアフリカゾウ, タンザニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images) | [![今日は米国の「絶滅危惧種の日」](https://www.bing.com/th?id=OHR.TarangireElephants_JA-JP9488936307_320x240.jpg)](https://www.bing.com/th?id=OHR.TarangireElephants_JA-JP9488936307_UHD.jpg) |
+| 2024-11-02 | 草原を歩き回るアメリカバイソン | イエローストーン国立公園, 米国 ワイオミング州 (© Ian Shive/TANDEM Stills + Motion) | [![草原を歩き回るアメリカバイソン](https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_UHD.jpg) |
 
 ## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-12-06 | 一路通往童话之路 | 鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images) | [![一路通往童话之路](https://www.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_320x240.jpg)](https://www.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg) |
-| 2024-06-18 | 鲁冰花盛放的夏季 | 日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images) | [![鲁冰花盛放的夏季](https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_320x240.jpg)](https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg) |
-| 2024-05-15 | 迷失在蓝色的美丽国度 | 焦特布尔蓝色之城，印度 (© cinoby/Getty Images) | [![迷失在蓝色的美丽国度](https://www.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg) |
+| 2024-09-20 | 海盗的最终归宿 | 奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images) | [![海盗的最终归宿](https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg) |
+| 2024-03-24 | 你能挪过去一点吗? | 樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images) | [![你能挪过去一点吗?](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg) |
+| 2024-12-11 | 山峰的“胜利三重奏” | 拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images) | [![山峰的“胜利三重奏”](https://www.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg) |
 
