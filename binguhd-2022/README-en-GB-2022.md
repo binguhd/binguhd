@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2022
 
-> Last updated：2026-11-19 08:54:29 UTC
+> Last updated：2026-11-20 05:43:25 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-06-29 | Tropische Begrüßung zwischen Land und Meer | Mangrovenwald in der Bucht von Phang Nga, Andamanensee, Thailand (© Ratnakorn Piyasirisorost/Getty Images) | [![Tropische Begrüßung zwischen Land und Meer](https://www.bing.com/th?id=OHR.PhangNgaBay_DE-DE1183484972_320x240.jpg)](https://www.bing.com/th?id=OHR.PhangNgaBay_DE-DE1183484972_UHD.jpg) |
-| 2022-12-03 | Die Kunstwelt zu Gast in Miami Beach | Ocean Drive, Miami Beach, Florida, USA (© Matteo Colombo/Getty Images) | [![Die Kunstwelt zu Gast in Miami Beach](https://www.bing.com/th?id=OHR.MiamiDT_DE-DE9731630617_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_DE-DE9731630617_UHD.jpg) |
-| 2022-11-04 | Grab des goldenen Pharaos | Darstellung von Gottheiten aus dem Grab des Tutanchamun im Ägyptischen Museum, Kairo, Ägypten (© Stefan Lippmann/Universal Images Group via Getty Images) | [![Grab des goldenen Pharaos](https://www.bing.com/th?id=OHR.Deities_DE-DE4699314120_320x240.jpg)](https://www.bing.com/th?id=OHR.Deities_DE-DE4699314120_UHD.jpg) |
+| 2022-12-05 | Nordfrieslands größte Insel | Holzbohlenweg in den Dünen bei Wenningstedt, Sylt, Schleswig-Holstein (© Achim Thomae/Getty Images) | [![Nordfrieslands größte Insel](https://www.bing.com/th?id=OHR.BohlenwegWenningstedt_DE-DE1630283680_320x240.jpg)](https://www.bing.com/th?id=OHR.BohlenwegWenningstedt_DE-DE1630283680_UHD.jpg) |
+| 2022-05-22 | Wir können alle miteinander auskommen | Burchell-Zebra und Kuhreiher, Rietvlei-Naturreservat, Südafrika (© Richard Du Toit/Minden Pictures) | [![Wir können alle miteinander auskommen](https://www.bing.com/th?id=OHR.ZebraEgret_DE-DE1042895176_320x240.jpg)](https://www.bing.com/th?id=OHR.ZebraEgret_DE-DE1042895176_UHD.jpg) |
+| 2022-08-31 | Blaue Sterne am „Unterwasserhimmel“ | Blaue Seesterne vor der Insel Neuirland, Papua-Neuguinea (© Jurgen Freund/Minden Pictures) | [![Blaue Sterne am „Unterwasserhimmel“](https://www.bing.com/th?id=OHR.BlueLinckia_DE-DE6277046584_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLinckia_DE-DE6277046584_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-08-20 | Let’s go to the Ex! | The Swing Tower at CNE, Toronto (© Brett Ida/Shutterstock) | [![Let’s go to the Ex!](https://www.bing.com/th?id=OHR.SwingEx_EN-CA1045900723_320x240.jpg)](https://www.bing.com/th?id=OHR.SwingEx_EN-CA1045900723_UHD.jpg) |
-| 2022-05-01 | Get in tune with International Jazz Day | The North Beach Jazz Mural created by artist Bill Weber in San Francisco (© Kosso/Getty Images) | [![Get in tune with International Jazz Day](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_UHD.jpg) |
-| 2022-11-21 | Creating a better world | Land art painting entitled 'World in Progress II' by artist Saype at the Headquarters of the United Nations in New York City (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-CA4503438649_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-CA4503438649_UHD.jpg) |
+| 2022-06-29 | An oasis in a sea of sand | An old kasbah in the Tafilalet region, Morocco (© José Antonio Moreno/agefotostock) | [![An oasis in a sea of sand](https://www.bing.com/th?id=OHR.TafilaletOasis_EN-CA5108937045_320x240.jpg)](https://www.bing.com/th?id=OHR.TafilaletOasis_EN-CA5108937045_UHD.jpg) |
+| 2022-12-03 | Preserving Alaska's natural beauty | Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images) | [![Preserving Alaska's natural beauty](https://www.bing.com/th?id=OHR.BraidedRiverDelta_EN-CA1255112672_320x240.jpg)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_EN-CA1255112672_UHD.jpg) |
+| 2022-11-04 | An experiment in sustainability | Mount Kilimanjaro with Cape buffalo in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock) | [![An experiment in sustainability](https://www.bing.com/th?id=OHR.AmboseliBioshere_EN-CA1208242435_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliBioshere_EN-CA1208242435_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-05 | Tomb of the Golden Pharaoh | Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images) | [![Tomb of the Golden Pharaoh](https://www.bing.com/th?id=OHR.Deities_EN-GB7643429251_320x240.jpg)](https://www.bing.com/th?id=OHR.Deities_EN-GB7643429251_UHD.jpg) |
-| 2022-10-28 | On a dark and stormy night... | Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock) | [![On a dark and stormy night...](https://www.bing.com/th?id=OHR.FrankensteinFriday_EN-GB7069572820_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankensteinFriday_EN-GB7069572820_UHD.jpg) |
-| 2022-09-27 | Where fire and water meet | Upper Geyser Basin in Yellowstone National Park, Wyoming, USA (© Ray Urner/Tandem Stills + Motion) | [![Where fire and water meet](https://www.bing.com/th?id=OHR.YellowstoneUGB_EN-GB0810222579_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneUGB_EN-GB0810222579_UHD.jpg) |
+| 2022-08-19 | Panoramic Penzance | Penzance in Cornwall (© Murray Bosley Photography/Getty Images) | [![Panoramic Penzance](https://www.bing.com/th?id=OHR.PenzancePool_EN-GB9755616869_320x240.jpg)](https://www.bing.com/th?id=OHR.PenzancePool_EN-GB9755616869_UHD.jpg) |
+| 2022-04-30 | Tune into International Jazz Day | The North Beach Jazz Mural by artist Bill Weber in San Francisco, USA (© Kosso/Getty Images) | [![Tune into International Jazz Day](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_UHD.jpg) |
+| 2022-11-21 | Creating a better world | Land art painting entitled World in Progress II by artist Saype at the Headquarters of the United Nations in New York City, USA (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-GB0913015556_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-GB0913015556_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-03 | An experiment in sustainability | Mount Kilimanjaro with Cape buffalo in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock) | [![An experiment in sustainability](https://www.bing.com/th?id=OHR.AmboseliBioshere_EN-IN7057422618_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliBioshere_EN-IN7057422618_UHD.jpg) |
-| 2022-05-01 | Keep practicing, little guy | Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock) | [![Keep practicing, little guy](https://www.bing.com/th?id=OHR.FoxSkills_EN-IN2855762577_320x240.jpg)](https://www.bing.com/th?id=OHR.FoxSkills_EN-IN2855762577_UHD.jpg) |
-| 2022-06-15 | The top of Tennessee | Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images) | [![The top of Tennessee](https://www.bing.com/th?id=OHR.ClingmansDome_EN-IN7443474790_320x240.jpg)](https://www.bing.com/th?id=OHR.ClingmansDome_EN-IN7443474790_UHD.jpg) |
+| 2022-11-05 | Reflecting its stylish past today | Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo) | [![Reflecting its stylish past today](https://www.bing.com/th?id=OHR.Trossachs_EN-IN4509616425_320x240.jpg)](https://www.bing.com/th?id=OHR.Trossachs_EN-IN4509616425_UHD.jpg) |
+| 2022-10-29 | Angel of the sea | Sea angel (© Alexander Semenov Images/Shutterstock) | [![Angel of the sea](https://www.bing.com/th?id=OHR.SeaAngel_EN-IN2839358434_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaAngel_EN-IN2839358434_UHD.jpg) |
+| 2022-09-28 | A train journey to remember | Toy train ride on the Kalka-Shimla route in India (© Amit kg/Shutterstock) | [![A train journey to remember](https://www.bing.com/th?id=OHR.ToyTrainShimla_EN-IN1920290957_320x240.jpg)](https://www.bing.com/th?id=OHR.ToyTrainShimla_EN-IN1920290957_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-21 | Creating a better world | 'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg) |
-| 2022-11-19 | Keyholes to the kingdom | The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images) | [![Keyholes to the kingdom](https://www.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_320x240.jpg)](https://www.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg) |
-| 2022-07-23 | An island made from a vow | Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock) | [![An island made from a vow](https://www.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_320x240.jpg)](https://www.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg) |
+| 2022-11-03 | 'If it's a failure, I'll probably leave this country' | The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock) | [!['If it's a failure, I'll probably leave this country'](https://www.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_320x240.jpg)](https://www.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg) |
+| 2022-05-01 | Get in tune with International Jazz Day | The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco (© Kosso/Getty Images) | [![Get in tune with International Jazz Day](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg) |
+| 2022-06-15 | Visiting the Met | The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock) | [![Visiting the Met](https://www.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-08-23 | La ville du citron | Menton, Côte d’Azur (© Flavio Foglietta/Getty Images) | [![La ville du citron](https://www.bing.com/th?id=OHR.MentonFrance_FR-FR5818040748_320x240.jpg)](https://www.bing.com/th?id=OHR.MentonFrance_FR-FR5818040748_UHD.jpg) |
-| 2022-04-30 | Jazz time ! | La fresque de North Beach Jazz créée par l’artiste Bill Weber à San Francisco, États-Unis (© Kosso/Getty Images) | [![Jazz time !](https://www.bing.com/th?id=OHR.NorthBeachJazz_FR-FR0663297223_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_FR-FR0663297223_UHD.jpg) |
-| 2022-12-25 | Joyeux Noël ! | Scène de Noël à Strasbourg (© Kavalenkava Volha/Alamy) | [![Joyeux Noël !](https://www.bing.com/th?id=OHR.ChristmasSouvenir_FR-FR8978266919_320x240.jpg)](https://www.bing.com/th?id=OHR.ChristmasSouvenir_FR-FR8978266919_UHD.jpg) |
+| 2022-11-21 | Allez les Bleus ! | Stade Ahmad Ben Ali à Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images) | [![Allez les Bleus !](https://www.bing.com/th?id=OHR.FIFA2022_FR-FR8208059227_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_FR-FR8208059227_UHD.jpg) |
+| 2022-11-19 | Au fond du Zion | La rivière Virgin dans le parc national de Zion, Utah, USA (© Jonathan Ross/Getty) | [![Au fond du Zion](https://www.bing.com/th?id=OHR.ZNPVR_FR-FR7758680158_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_FR-FR7758680158_UHD.jpg) |
+| 2022-07-23 | La Bretagne, ça nous gagne | Voiliers au crépuscule devant un phare au large de Roscoff, Finistère, Bretagne (© Cristina Granena/iStock/Getty Images Plus) | [![La Bretagne, ça nous gagne](https://www.bing.com/th?id=OHR.SailAway_FR-FR3636501249_320x240.jpg)](https://www.bing.com/th?id=OHR.SailAway_FR-FR3636501249_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-05-26 | Com'è l'aria lassù? | Ponte sospeso nella Riserva della foresta nebulosa di Monteverde, Costa Rica (© Dmitriy Burlakov/Getty Images) | [![Com'è l'aria lassù?](https://www.bing.com/th?id=OHR.Monteverde_IT-IT2174497699_320x240.jpg)](https://www.bing.com/th?id=OHR.Monteverde_IT-IT2174497699_UHD.jpg) |
-| 2022-10-21 | Gli alberi che amano vivere nelle paludi | Cipressi in autunno, Georgia, USA (© Chris Moore/Tandem Stills + Motion) | [![Gli alberi che amano vivere nelle paludi](https://www.bing.com/th?id=OHR.GeorgiaCypress_IT-IT6973135331_320x240.jpg)](https://www.bing.com/th?id=OHR.GeorgiaCypress_IT-IT6973135331_UHD.jpg) |
-| 2022-05-12 | Pionieri della Croce Rossa Americana | Infermiere della Croce Rossa Americana a Parigi, nel maggio 1919 (© Universal History Archive/Universal Images Group via Getty Images) | [![Pionieri della Croce Rossa Americana](https://www.bing.com/th?id=OHR.RedCross_IT-IT6231651988_320x240.jpg)](https://www.bing.com/th?id=OHR.RedCross_IT-IT6231651988_UHD.jpg) |
+| 2022-08-23 | Il Villaggio delle case colorate | Villaggio di Manarola nel Parco Nazionale delle Cinque Terre, Liguria (© Aliaksandr Antanovich/Getty Images) | [![Il Villaggio delle case colorate](https://www.bing.com/th?id=OHR.Manarola5terre_IT-IT8239803711_320x240.jpg)](https://www.bing.com/th?id=OHR.Manarola5terre_IT-IT8239803711_UHD.jpg) |
+| 2022-04-30 | Sintonizzati con la Giornata Internazionale del Jazz | Murale dell’artista Bill Weber nel quartiere North Beach di San Francisco (© Kosso/Getty Images) | [![Sintonizzati con la Giornata Internazionale del Jazz](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_UHD.jpg) |
+| 2022-12-25 | Buon Natale! | Vacanze a Strasburgo, Francia (© Kavalenkava Volha/Alamy) | [![Buon Natale!](https://www.bing.com/th?id=OHR.ChristmasSouvenir_IT-IT0848440628_320x240.jpg)](https://www.bing.com/th?id=OHR.ChristmasSouvenir_IT-IT0848440628_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-11-18 | 国際イスラム美術の日 | 王宮の門, モロッコ フェズ (© Adam Smigielski/Getty Images) | [![国際イスラム美術の日](https://www.bing.com/th?id=OHR.IslamicArt_JA-JP4624481816_320x240.jpg)](https://www.bing.com/th?id=OHR.IslamicArt_JA-JP4624481816_UHD.jpg) |
-| 2022-12-24 | アラスカ アマルガ港のクリスマスツリー | アマルガ港のクリスマスツリー, 米国 アラスカ (© Mark Kelley/Tandem Stills + Motion) | [![アラスカ アマルガ港のクリスマスツリー](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_320x240.jpg)](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_UHD.jpg) |
-| 2022-11-12 | アラスカ ハクトウワシフェスティバル | ハクトウワシの休息, 米国 アラスカ州 (© Marion Vollborn/Minden Pictures) | [![アラスカ ハクトウワシフェスティバル](https://www.bing.com/th?id=OHR.HainesEagle_JA-JP4825839071_320x240.jpg)](https://www.bing.com/th?id=OHR.HainesEagle_JA-JP4825839071_UHD.jpg) |
+| 2022-05-26 | 中米の熱帯雲霧林 | モンテベルデ雲森林, コスタリカ (© Dmitriy Burlakov/Getty Images) | [![中米の熱帯雲霧林](https://www.bing.com/th?id=OHR.Monteverde_JA-JP2546682757_320x240.jpg)](https://www.bing.com/th?id=OHR.Monteverde_JA-JP2546682757_UHD.jpg) |
+| 2022-10-21 | 紅葉するラクウショウ | 紅葉するラクウショウ, 米国 ジョージア州 (© Chris Moore/Tandem Stills + Motion) | [![紅葉するラクウショウ](https://www.bing.com/th?id=OHR.GeorgiaCypress_JA-JP7307401588_320x240.jpg)](https://www.bing.com/th?id=OHR.GeorgiaCypress_JA-JP7307401588_UHD.jpg) |
+| 2022-05-12 | スヴァールバル諸島の白夜 | 白夜, ノルウェー スヴァールバル諸島 (© Nature Picture Library/Alamy) | [![スヴァールバル諸島の白夜](https://www.bing.com/th?id=OHR.SvalbardSun_JA-JP9755918000_320x240.jpg)](https://www.bing.com/th?id=OHR.SvalbardSun_JA-JP9755918000_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-05-07 | 仰望夜空 | 拉西拉ESO天文台上的天文望远镜设备，智利 (© Alberto Ghizzi Panizza/Getty Images) | [![仰望夜空](https://www.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_320x240.jpg)](https://www.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_UHD.jpg) |
-| 2022-11-10 | 恶地国家公园的一场闪电？ | 雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture) | [![恶地国家公园的一场闪电？](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_320x240.jpg)](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_UHD.jpg) |
-| 2022-11-06 | 跑过纽约五个行政区 | 1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images) | [![跑过纽约五个行政区](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_320x240.jpg)](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg) |
+| 2022-11-18 | 通往皇宫的大门 | 菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images) | [![通往皇宫的大门](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_320x240.jpg)](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg) |
+| 2022-12-24 | 冰天雪地里的小可爱 | 狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock) | [![冰天雪地里的小可爱](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_320x240.jpg)](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg) |
+| 2022-11-12 | 秃鹰的集会 | 阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures) | [![秃鹰的集会](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_320x240.jpg)](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_UHD.jpg) |
 

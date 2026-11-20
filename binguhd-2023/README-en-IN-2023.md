@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2023
 
-> Last updated：2026-11-19 08:54:29 UTC
+> Last updated：2026-11-20 05:43:25 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2023-07-15 | Italienische Postkartenidylle | Castelmezzano, Basilikata, Italien (© Rudy Balasko/Shutterstock) | [![Italienische Postkartenidylle](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_DE-DE1863686096_320x240.jpg)](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_DE-DE1863686096_UHD.jpg) |
-| 2023-09-14 | Laufen und grasen tun die zwei in den endlosen Weiten der Mongolei | Przewalski-Pferde, Nationalpark Chustain Nuruu, Mongolei (© Ondrej Prosicky/Shutterstock) | [![Laufen und grasen tun die zwei in den endlosen Weiten der Mongolei](https://www.bing.com/th?id=OHR.MongoliaHorses_DE-DE4992384095_320x240.jpg)](https://www.bing.com/th?id=OHR.MongoliaHorses_DE-DE4992384095_UHD.jpg) |
-| 2023-03-07 | Kurhaus Göggingen | Parktheater im Kurhaus Göggingen, Architekt Jean Keller, Bayern (© imageBROKER/Alamy Stock Photo) | [![Kurhaus Göggingen](https://www.bing.com/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455_320x240.jpg)](https://www.bing.com/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455_UHD.jpg) |
+| 2023-01-31 | Pfälzerwald | Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo) | [![Pfälzerwald](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg) |
+| 2023-09-13 | Geflüster der Vergangenheit | Tempel auf dem Hemakuta-Gebirge, Hampi, Karnataka, Indien (© Images of india/Alamy Stock Photo) | [![Geflüster der Vergangenheit](https://www.bing.com/th?id=OHR.HemakutaHill_DE-DE2402524948_320x240.jpg)](https://www.bing.com/th?id=OHR.HemakutaHill_DE-DE2402524948_UHD.jpg) |
+| 2023-09-29 | Im Blick des Vollmondes! | Jiaxiu-Pagode bei Vollmond, Guiyang, Provinz Guizhou, China (© Wang Yukun/Getty Images) | [![Im Blick des Vollmondes!](https://www.bing.com/th?id=OHR.GuiyangMoon_DE-DE0511223733_320x240.jpg)](https://www.bing.com/th?id=OHR.GuiyangMoon_DE-DE0511223733_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-04-08 | Two hungry baby beavers | Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures) | [![Two hungry baby beavers](https://www.bing.com/th?id=OHR.KitsAspen_EN-CA5946342472_320x240.jpg)](https://www.bing.com/th?id=OHR.KitsAspen_EN-CA5946342472_UHD.jpg) |
-| 2023-01-14 | Sequoias of the sea | Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock) | [![Sequoias of the sea](https://www.bing.com/th?id=OHR.Pneumatocysts_EN-CA1937303289_320x240.jpg)](https://www.bing.com/th?id=OHR.Pneumatocysts_EN-CA1937303289_UHD.jpg) |
-| 2023-04-27 | The origin of Canada's national parks | Cave and Basin National Historic Site, Sulphur Mountain, Banff National Park, Alberta (© Interfoto/DanitaDelimont.com) | [![The origin of Canada's national parks](https://www.bing.com/th?id=OHR.SulphurMountain_EN-CA6114398245_320x240.jpg)](https://www.bing.com/th?id=OHR.SulphurMountain_EN-CA6114398245_UHD.jpg) |
+| 2023-07-15 | A shiver of sharks on the hunt | Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images) | [![A shiver of sharks on the hunt](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-CA0142331117_320x240.jpg)](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-CA0142331117_UHD.jpg) |
+| 2023-09-14 | Whispers of the past | Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy) | [![Whispers of the past](https://www.bing.com/th?id=OHR.HemakutaHill_EN-CA8619866663_320x240.jpg)](https://www.bing.com/th?id=OHR.HemakutaHill_EN-CA8619866663_UHD.jpg) |
+| 2023-03-07 | What are these unique creatures? | Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock) | [![What are these unique creatures?](https://www.bing.com/th?id=OHR.IcelandHorses_EN-CA7850121224_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandHorses_EN-CA7850121224_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-11-10 | Shades of autumn | Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images) | [![Shades of autumn](https://www.bing.com/th?id=OHR.NorwayBirch_EN-GB0948199357_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayBirch_EN-GB0948199357_UHD.jpg) |
-| 2023-07-03 | Grand slam tournament | Ground View of Centre Court, Wimbledon Tennis Championships, A.E.L.T.C, London, Britain (© Mark Greenwood/Ips/Shutterstock) | [![Grand slam tournament](https://www.bing.com/th?id=OHR.Wimbledon_EN-GB2899114060_320x240.jpg)](https://www.bing.com/th?id=OHR.Wimbledon_EN-GB2899114060_UHD.jpg) |
-| 2023-09-05 | A digital creation? Nor-way! | Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images) | [![A digital creation? Nor-way!](https://www.bing.com/th?id=OHR.MountSegla_EN-GB2161222967_320x240.jpg)](https://www.bing.com/th?id=OHR.MountSegla_EN-GB2161222967_UHD.jpg) |
+| 2023-04-07 | Two hungry baby beavers | Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures) | [![Two hungry baby beavers](https://www.bing.com/th?id=OHR.KitsAspen_EN-GB5526308393_320x240.jpg)](https://www.bing.com/th?id=OHR.KitsAspen_EN-GB5526308393_UHD.jpg) |
+| 2023-01-12 | Lighting the way | Godrevy Lighthouse, Cornwall (© Paul Nash/Shutterstock) | [![Lighting the way](https://www.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_320x240.jpg)](https://www.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_UHD.jpg) |
+| 2023-04-26 | Just a couple of 'know-it-owls' | Great horned owl fledglings (© Michael Morse/Getty Images) | [![Just a couple of 'know-it-owls'](https://www.bing.com/th?id=OHR.GHOAudubonDay_EN-GB5353280661_320x240.jpg)](https://www.bing.com/th?id=OHR.GHOAudubonDay_EN-GB5353280661_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-03-08 | The festival of colours | Holi celebrations, Nandgaon, Uttar Pradesh, India (© Avishek Das/Getty Images) | [![The festival of colours](https://www.bing.com/th?id=OHR.IndiaNandGaonHoli_EN-IN5494027395_320x240.jpg)](https://www.bing.com/th?id=OHR.IndiaNandGaonHoli_EN-IN5494027395_UHD.jpg) |
-| 2023-01-12 | Where two continents meet | Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency) | [![Where two continents meet](https://www.bing.com/th?id=OHR.RumeliHisari_EN-IN4199617133_320x240.jpg)](https://www.bing.com/th?id=OHR.RumeliHisari_EN-IN4199617133_UHD.jpg) |
-| 2023-01-02 | Fit for a fairytale | Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock) | [![Fit for a fairytale](https://www.bing.com/th?id=OHR.HohenzollernBurg_EN-IN6368229470_320x240.jpg)](https://www.bing.com/th?id=OHR.HohenzollernBurg_EN-IN6368229470_UHD.jpg) |
+| 2023-11-10 | Not so bad lands | Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion) | [![Not so bad lands](https://www.bing.com/th?id=OHR.BadlandsSunrise_EN-IN3577388637_320x240.jpg)](https://www.bing.com/th?id=OHR.BadlandsSunrise_EN-IN3577388637_UHD.jpg) |
+| 2023-07-04 | Nature’s art installation | Grasslands National Park, Saskatchewan, Canada (© Robert Postma/Getty Images) | [![Nature’s art installation](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948_320x240.jpg)](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948_UHD.jpg) |
+| 2023-09-06 | Ready to drop anchor? | Old Venetian harbour, Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-IN7844383498_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-IN7844383498_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-03-08 | Shining through the centuries | Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images) | [![Shining through the centuries](https://www.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_320x240.jpg)](https://www.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg) |
+| 2023-01-12 | Stairway to where? | 'Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany (© Manfred Bail/Alamy) | [![Stairway to where?](https://www.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_320x240.jpg)](https://www.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg) |
 | 2023-01-02 | Napping near the North Pole | Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images) | [![Napping near the North Pole](https://www.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg) |
-| 2023-03-09 | Celebrating women | Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy) | [![Celebrating women](https://www.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_320x240.jpg)](https://www.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg) |
-| 2023-11-06 | A quiet place, indeed | Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures) | [![A quiet place, indeed](https://www.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_320x240.jpg)](https://www.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2023-11-14 | Une prairie de Lupins à perte de vue | Lupins de Russell sur le lac Tekapo, île du Sud, Nouvelle-Zélande (© Jeffrey Lewis/Tandem Stills + Motion) | [![Une prairie de Lupins à perte de vue](https://www.bing.com/th?id=OHR.RussellLupines_FR-FR6503844522_320x240.jpg)](https://www.bing.com/th?id=OHR.RussellLupines_FR-FR6503844522_UHD.jpg) |
-| 2023-05-22 | Où se trouve cette forêt tropicale ? | Volcan Arenal, Monteverde, Costa Rica (© Kevin Wells/Getty Images) | [![Où se trouve cette forêt tropicale ?](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_FR-FR6284486896_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_FR-FR6284486896_UHD.jpg) |
-| 2023-04-28 | Des arbres millénaires | Forêt de séquoias géants de Mariposa Grove, Yosemite, Californie, États-Unis (© Orbon Alija/Getty Images) | [![Des arbres millénaires](https://www.bing.com/th?id=OHR.MariposaGrove_FR-FR4964975063_320x240.jpg)](https://www.bing.com/th?id=OHR.MariposaGrove_FR-FR4964975063_UHD.jpg) |
+| 2023-01-02 | Un château allemand | Château de Hohenzollern, Allemagne (© Sahara Prince/Shutterstock) | [![Un château allemand](https://www.bing.com/th?id=OHR.HohenzollernBurg_FR-FR4086193106_320x240.jpg)](https://www.bing.com/th?id=OHR.HohenzollernBurg_FR-FR4086193106_UHD.jpg) |
+| 2023-03-09 | Un arc en ciel dans la brume | Arc-en-ciel au-dessus du Grand Canyon du Pacifique, Hawaii, Etats-Unis (© Beverley Van Praagh/Getty Images) | [![Un arc en ciel dans la brume](https://www.bing.com/th?id=OHR.WaimeaRainbow_FR-FR0655264803_320x240.jpg)](https://www.bing.com/th?id=OHR.WaimeaRainbow_FR-FR0655264803_UHD.jpg) |
+| 2023-11-06 | « Bleu-ffés » par cette splendeur ! | Lac Pehoé, Parc National Torres del Paine, Chili (© OST/Getty Images) | [![« Bleu-ffés » par cette splendeur !](https://www.bing.com/th?id=OHR.LagoPehoe_FR-FR2057744557_320x240.jpg)](https://www.bing.com/th?id=OHR.LagoPehoe_FR-FR2057744557_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2023-01-05 | La città del ghiaccio | Festival internazionale delle sculture di ghiaccio e neve di Harbin, Cina (© STR/AFP via Getty Images) | [![La città del ghiaccio](https://www.bing.com/th?id=OHR.HIISSF_IT-IT8410923580_320x240.jpg)](https://www.bing.com/th?id=OHR.HIISSF_IT-IT8410923580_UHD.jpg) |
-| 2023-09-01 | Usciresti con un fungo? | Fungo Trametes versicolor, Brevard, North Carolina, Stati Uniti (© Bill Gozansky/Alamy) | [![Usciresti con un fungo?](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_320x240.jpg)](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_UHD.jpg) |
-| 2023-05-01 | Che splendido tramonto! | Ponte del Quebec sul fiume San Lorenzo, Canada  (© Ronald Santerre/Getty Images) | [![Che splendido tramonto!](https://www.bing.com/th?id=OHR.QuebecCityBridge_IT-IT2390988840_320x240.jpg)](https://www.bing.com/th?id=OHR.QuebecCityBridge_IT-IT2390988840_UHD.jpg) |
+| 2023-11-14 | I lupini territoriali! | Lupini Ibridi Russell lungo il lago Tekapo, Nuova Zelanda (© Jeffrey Lewis/Tandem Stills + Motion) | [![I lupini territoriali!](https://www.bing.com/th?id=OHR.RussellLupines_IT-IT2361733458_320x240.jpg)](https://www.bing.com/th?id=OHR.RussellLupines_IT-IT2361733458_UHD.jpg) |
+| 2023-05-22 | Dove si trova questa foresta? | Vulcano Arenal, Monteverde, Costa Rica  (© Kevin Wells/Getty Images) | [![Dove si trova questa foresta?](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_IT-IT0869035242_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_IT-IT0869035242_UHD.jpg) |
+| 2023-04-28 | Dove si trovano questi giganti? | Boschetto di Mariposa nel Parco Nazionale dello Yosemite, California (© Orbon Alija/Getty Images) | [![Dove si trovano questi giganti?](https://www.bing.com/th?id=OHR.MariposaGrove_IT-IT8703227587_320x240.jpg)](https://www.bing.com/th?id=OHR.MariposaGrove_IT-IT8703227587_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2023-02-24 | 美しくて派手なオシドリ | リッチモンドパーク, イギリス ロンドン (© Oscar Dewhurst/Minden Pictures) | [![美しくて派手なオシドリ](https://www.bing.com/th?id=OHR.RichmondParkDuck_JA-JP4769171194_320x240.jpg)](https://www.bing.com/th?id=OHR.RichmondParkDuck_JA-JP4769171194_UHD.jpg) |
-| 2023-03-08 | 今日は国際女性デー | シベーレスの噴水とマドリード市庁舎, スペイン マドリード (© dpa picture alliance/Alamy) | [![今日は国際女性デー](https://www.bing.com/th?id=OHR.IntlWomensDayChange_JA-JP4020682883_320x240.jpg)](https://www.bing.com/th?id=OHR.IntlWomensDayChange_JA-JP4020682883_UHD.jpg) |
-| 2023-05-05 | 今日はこどもの日 | 風に泳ぐ鯉のぼり (© rai/Adobe Stock) | [![今日はこどもの日](https://www.bing.com/th?id=OHR.ChildDay2023_JA-JP5088360063_320x240.jpg)](https://www.bing.com/th?id=OHR.ChildDay2023_JA-JP5088360063_UHD.jpg) |
+| 2023-01-05 | ハルビン 氷の町のライトアップ | ハルビン氷祭り, 中国 黒竜江省 (© STR/AFP via Getty Images) | [![ハルビン 氷の町のライトアップ](https://www.bing.com/th?id=OHR.HIISSF_JA-JP9146225324_320x240.jpg)](https://www.bing.com/th?id=OHR.HIISSF_JA-JP9146225324_UHD.jpg) |
+| 2023-09-01 | 可愛い小型のシカ | 草原を走るノロジカの子鹿, フランス ノルマンディー (© Gerard Lacz/Minden) | [![可愛い小型のシカ](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_320x240.jpg)](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_UHD.jpg) |
+| 2023-05-01 | 青く輝く湖と険しい山々 | シルブレッタアルプスと湖, スイス (© Florin Baumann/Getty Images) | [![青く輝く湖と険しい山々](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_320x240.jpg)](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2023-03-20 | 春天的色彩 | 紫番红花 (© Raimund Linke/Getty Images) | [![春天的色彩](https://www.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_320x240.jpg)](https://www.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_UHD.jpg) |
-| 2023-12-12 | 把你的世界涂成红色 | 一品红 (© Yarygin/Getty Images) | [![把你的世界涂成红色](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_320x240.jpg)](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg) |
-| 2023-06-12 | 大弯的生日 | 仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures) | [![大弯的生日](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_320x240.jpg)](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_UHD.jpg) |
+| 2023-02-24 | 一只华丽招摇的鸳鸯 | 里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures) | [![一只华丽招摇的鸳鸯](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_320x240.jpg)](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg) |
+| 2023-03-08 | 守候浪漫的极光 | 极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics) | [![守候浪漫的极光](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_320x240.jpg)](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg) |
+| 2023-05-05 | 从胜利到欢庆 | 普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥 (© Radius Images/Shutterstock) | [![从胜利到欢庆](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_320x240.jpg)](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg) |
 

@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2022
 
-> Ultimo aggiornamento：2026-11-19 08:54:29 UTC
+> Ultimo aggiornamento：2026-11-20 05:43:25 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-05-02 | Himmlische heiße Quellen | Kalksinterterrassen von Pamukkale, Türkei (© bybostanci/Getty Images) | [![Himmlische heiße Quellen](https://www.bing.com/th?id=OHR.TravertineTurkey_DE-DE6360049344_320x240.jpg)](https://www.bing.com/th?id=OHR.TravertineTurkey_DE-DE6360049344_UHD.jpg) |
-| 2022-09-11 | Schlossbesichtigung | Treppenhaus im Schloss Augustusburg, Brühl, Nordrhein-Westfalen (© Florian Monheim/age fotostock) | [![Schlossbesichtigung](https://www.bing.com/th?id=OHR.AugustusburgBruehl_DE-DE6067708049_320x240.jpg)](https://www.bing.com/th?id=OHR.AugustusburgBruehl_DE-DE6067708049_UHD.jpg) |
-| 2022-09-16 | Leichtfüßig und unauffällig | Puma im Nationalpark Torres del Paine, Patagonien, Chile (© Ingo Arndt/Minden Pictures) | [![Leichtfüßig und unauffällig](https://www.bing.com/th?id=OHR.PianePuma_DE-DE6817821913_320x240.jpg)](https://www.bing.com/th?id=OHR.PianePuma_DE-DE6817821913_UHD.jpg) |
+| 2022-06-23 | Die „Alte Brücke“ neu errichtet | Stari Most in Mostar, Bosnien und Herzegowina (© Ayhan Altun/Getty Images) | [![Die „Alte Brücke“ neu errichtet](https://www.bing.com/th?id=OHR.MostarBridge_DE-DE8884260244_320x240.jpg)](https://www.bing.com/th?id=OHR.MostarBridge_DE-DE8884260244_UHD.jpg) |
+| 2022-12-16 | Es werde Licht! | Weihnachtsbeleuchtung im Atlanta Botanical Garden in Georgia, USA (© Natalia Kuzmina/Alamy) | [![Es werde Licht!](https://www.bing.com/th?id=OHR.AtlantaLights_DE-DE2783821552_320x240.jpg)](https://www.bing.com/th?id=OHR.AtlantaLights_DE-DE2783821552_UHD.jpg) |
+| 2022-05-21 | Kaskade in der „Stadt der Wasserfälle“ | Albion Falls, Hamilton, Ontario, Kanada (© Alexander Sviridov/Shutterstock) | [![Kaskade in der „Stadt der Wasserfälle“](https://www.bing.com/th?id=OHR.AlbionFalls_DE-DE0780537459_320x240.jpg)](https://www.bing.com/th?id=OHR.AlbionFalls_DE-DE0780537459_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-27 | And so it begins! | People watch the Christmas lights and fireworks at the Nathan Phillips Square in Toronto on November 30, 2013 (© Canadapanda/Shutterstock) | [![And so it begins!](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_320x240.jpg)](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_UHD.jpg) |
-| 2022-10-23 | Misty mountain hop | Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy) | [![Misty mountain hop](https://www.bing.com/th?id=OHR.KarstMountains_EN-CA8256386635_320x240.jpg)](https://www.bing.com/th?id=OHR.KarstMountains_EN-CA8256386635_UHD.jpg) |
-| 2022-07-30 | One rare streak | Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy) | [![One rare streak](https://www.bing.com/th?id=OHR.FourTigresses_EN-CA0727642933_320x240.jpg)](https://www.bing.com/th?id=OHR.FourTigresses_EN-CA0727642933_UHD.jpg) |
+| 2022-05-02 | A snapshot of Spring | Laburnum (golden chain) trees and purple alliums in bloom at VanDusen Botanical Garden, Vancouver (© Greg Vaughn/Alamy) | [![A snapshot of Spring](https://www.bing.com/th?id=OHR.VanBlooms_EN-CA0754129800_320x240.jpg)](https://www.bing.com/th?id=OHR.VanBlooms_EN-CA0754129800_UHD.jpg) |
+| 2022-09-11 | Getting starry-eyed at the moon | Moon installation during celebrations for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters) | [![Getting starry-eyed at the moon](https://www.bing.com/th?id=OHR.KLMidAutumn_EN-CA6464499609_320x240.jpg)](https://www.bing.com/th?id=OHR.KLMidAutumn_EN-CA6464499609_UHD.jpg) |
+| 2022-09-16 | A gem in the Rockies | Water flows through Johnston Canyon in Banff National Park (© Jason Hatfield/TANDEM Stills + Motion) | [![A gem in the Rockies](https://www.bing.com/th?id=OHR.JohnstonWater_EN-CA1470869974_320x240.jpg)](https://www.bing.com/th?id=OHR.JohnstonWater_EN-CA1470869974_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-20 | The cliffs and canyons of Zion National Park | Virgin River in Zion National Park, Utah, USA (© Jonathan Ross/Getty Images) | [![The cliffs and canyons of Zion National Park](https://www.bing.com/th?id=OHR.ZNPVR_EN-GB0656351274_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_EN-GB0656351274_UHD.jpg) |
-| 2022-09-21 | Doves of peace | Peace Doves by artist Peter Walker, in Liverpool Cathedral, Liverpool (© PAUL ELLIS/AFP via Getty Images) | [![Doves of peace](https://www.bing.com/th?id=OHR.PWPeaceDoves_EN-GB2836778318_320x240.jpg)](https://www.bing.com/th?id=OHR.PWPeaceDoves_EN-GB2836778318_UHD.jpg) |
-| 2022-12-26 | Have a merry little Christmas | Miniature Christmas village in Strasbourg, France (© Kavalenkava Volha/Alamy) | [![Have a merry little Christmas](https://www.bing.com/th?id=OHR.ChristmasSouvenir_EN-GB1989266038_320x240.jpg)](https://www.bing.com/th?id=OHR.ChristmasSouvenir_EN-GB1989266038_UHD.jpg) |
+| 2022-11-27 | A symbol of peace | An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock) | [![A symbol of peace](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_320x240.jpg)](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) |
+| 2022-10-22 | Misty mountain hop | Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy) | [![Misty mountain hop](https://www.bing.com/th?id=OHR.KarstMountains_EN-GB9747205630_320x240.jpg)](https://www.bing.com/th?id=OHR.KarstMountains_EN-GB9747205630_UHD.jpg) |
+| 2022-07-29 | One rare streak | Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy) | [![One rare streak](https://www.bing.com/th?id=OHR.FourTigresses_EN-GB0443561913_320x240.jpg)](https://www.bing.com/th?id=OHR.FourTigresses_EN-GB0443561913_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-10-24 | Lighting the world | Oil lamps on the occasion of Diwali (© Subodh Sathe/Alamy Stock Photo) | [![Lighting the world](https://www.bing.com/th?id=OHR.DiwaliOilLamps_EN-IN0701838177_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliOilLamps_EN-IN0701838177_UHD.jpg) |
-| 2022-10-07 | An old bridge in a new light | Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images) | [![An old bridge in a new light](https://www.bing.com/th?id=OHR.OberbaumBridge_EN-IN6110054143_320x240.jpg)](https://www.bing.com/th?id=OHR.OberbaumBridge_EN-IN6110054143_UHD.jpg) |
-| 2022-07-19 | The epitome of luxury | Silk cloth made in Varanasi, India (© Westend61/Getty Images) | [![The epitome of luxury](https://www.bing.com/th?id=OHR.SilkClothVaranasi_EN-IN6450545799_320x240.jpg)](https://www.bing.com/th?id=OHR.SilkClothVaranasi_EN-IN6450545799_UHD.jpg) |
+| 2022-11-20 | Creating a better world | Land art painting entitled 'World in Progress II' by artist Saype at the Headquarters of the United Nations in New York City (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-IN7351909485_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-IN7351909485_UHD.jpg) |
+| 2022-09-22 | Colours of Colorado | The aspen canopy along Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion) | [![Colours of Colorado](https://www.bing.com/th?id=OHR.LastDollarRoad_EN-IN2409980698_320x240.jpg)](https://www.bing.com/th?id=OHR.LastDollarRoad_EN-IN2409980698_UHD.jpg) |
+| 2022-12-26 | Giddy family fun | Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy) | [![Giddy family fun](https://www.bing.com/th?id=OHR.BeverleyWestwood_EN-IN6607580753_320x240.jpg)](https://www.bing.com/th?id=OHR.BeverleyWestwood_EN-IN6607580753_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-06-21 | Meet for lunch? | Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images) | [![Meet for lunch?](https://www.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_320x240.jpg)](https://www.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg) |
-| 2022-09-01 | How sweet to be a star, floating in the blue | Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures) | [![How sweet to be a star, floating in the blue](https://www.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg) |
-| 2022-06-30 | In the tropics, land greets sea warmly | Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images) | [![In the tropics, land greets sea warmly](https://www.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_320x240.jpg)](https://www.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg) |
+| 2022-10-24 | An ugly duckling no more | Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures) | [![An ugly duckling no more](https://www.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_320x240.jpg)](https://www.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg) |
+| 2022-10-07 | Dragon tails trail to the sea | Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo) | [![Dragon tails trail to the sea](https://www.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_320x240.jpg)](https://www.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg) |
+| 2022-07-19 | Alps of the Sea | Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock) | [![Alps of the Sea](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-05-11 | Vue sur le grand bleu | Le village d’Oia sur l’île de Santorin, Grèce (© Zebra-Studio/Shutterstock) | [![Vue sur le grand bleu](https://www.bing.com/th?id=OHR.OiaVillage_FR-FR0741345231_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_FR-FR0741345231_UHD.jpg) |
-| 2022-09-10 | La lune à l’honneur | Installation artistique représentant la lune pendant la fête de la mi-automne à Kuala Lumpur, Malaisie (© Lim Huey Teng/Reuters) | [![La lune à l’honneur](https://www.bing.com/th?id=OHR.KLMidAutumn_FR-FR2241740049_320x240.jpg)](https://www.bing.com/th?id=OHR.KLMidAutumn_FR-FR2241740049_UHD.jpg) |
-| 2022-07-18 | Le Japon fête l’océan | L’île Omijima dans le Parc quasi national de Kita-Nagato Kaigan, Japon (© Sean Pavone Photo/Adobe Stock) | [![Le Japon fête l’océan](https://www.bing.com/th?id=OHR.OmijimaIsland_FR-FR2031215669_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_FR-FR2031215669_UHD.jpg) |
+| 2022-06-21 | Gastronomie acoustique | Guitare de jazz Aria de style Gibson 355 (© Claude thibault/Alamy) | [![Gastronomie acoustique](https://www.bing.com/th?id=OHR.Musique_FR-FR4597442264_320x240.jpg)](https://www.bing.com/th?id=OHR.Musique_FR-FR4597442264_UHD.jpg) |
+| 2022-09-01 | C'est reparti pour un tour ! | Clôture en bois en forme de crayons de couleur devant une école de Bretagne (© PeterAprahamian/Getty Images) | [![C'est reparti pour un tour !](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_320x240.jpg)](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_UHD.jpg) |
+| 2022-06-30 | Très impactant | Le cratère d’Acraman, Australie (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images) | [![Très impactant](https://www.bing.com/th?id=OHR.AcramanCrater_FR-FR3921593709_320x240.jpg)](https://www.bing.com/th?id=OHR.AcramanCrater_FR-FR3921593709_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-09-11 | Il paese di Dio | Veduta aerea di una barca in Kerala, India (© Shutterstock) | [![Il paese di Dio](https://www.bing.com/th?id=OHR.KeralaIndia_IT-IT1808898393_320x240.jpg)](https://www.bing.com/th?id=OHR.KeralaIndia_IT-IT1808898393_UHD.jpg) |
-| 2022-06-23 | Questo Ponte Vecchio non è a Firenze | Stari Most, Ponte Vecchio di Mostar, Bosnia ed Erzegovina (© Ayhan Altun/Getty Images) | [![Questo Ponte Vecchio non è a Firenze](https://www.bing.com/th?id=OHR.MostarBridge_IT-IT9894445407_320x240.jpg)](https://www.bing.com/th?id=OHR.MostarBridge_IT-IT9894445407_UHD.jpg) |
-| 2022-12-31 | Buon anno dal mondo di sotto | Fuochi d'artificio di Capodanno, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images) | [![Buon anno dal mondo di sotto](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_320x240.jpg)](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg) |
+| 2022-05-11 | La casa della civiltà minoica | Villaggio di Oia sull'isola di Santorini, Grecia (© Zebra-Studio/Shutterstock) | [![La casa della civiltà minoica](https://www.bing.com/th?id=OHR.OiaVillage_IT-IT5843945491_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_IT-IT5843945491_UHD.jpg) |
+| 2022-09-10 | Butta un occhio alla luna | Celebrazioni per la Festa di metà autunno a Kuala Lumpur, Malesia (© Lim Huey Teng/Reuters) | [![Butta un occhio alla luna](https://www.bing.com/th?id=OHR.KLMidAutumn_IT-IT9746155554_320x240.jpg)](https://www.bing.com/th?id=OHR.KLMidAutumn_IT-IT9746155554_UHD.jpg) |
+| 2022-07-18 | Le Alpi in mezzo al mare | Isola di Omijima nel Parco seminazionale Kita-Nagato Kaigan, Giappone (© Sean Pavone Photo/Adobe Stock) | [![Le Alpi in mezzo al mare](https://www.bing.com/th?id=OHR.OmijimaIsland_IT-IT8907721796_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_IT-IT8907721796_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-12-28 | スイス マローヤの冬景色 | マローヤの冬景色, スイス (© Roberto Moiola/Getty) | [![スイス マローヤの冬景色](https://www.bing.com/th?id=OHR.ChiesaBianca_JA-JP5162517168_320x240.jpg)](https://www.bing.com/th?id=OHR.ChiesaBianca_JA-JP5162517168_UHD.jpg) |
-| 2022-11-01 | ケープバッファローの群れ | ケープバッファロー, ケニア (© RealityImages/Shutterstock) | [![ケープバッファローの群れ](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg) |
-| 2022-12-20 | ベルヴェデーレ宮殿 | ベルヴェデーレ宮殿, オーストリア ウィーン (© Diyana Dimitrova/Alamy) | [![ベルヴェデーレ宮殿](https://www.bing.com/th?id=OHR.PalaceBelvedere_JA-JP2745578979_320x240.jpg)](https://www.bing.com/th?id=OHR.PalaceBelvedere_JA-JP2745578979_UHD.jpg) |
+| 2022-09-11 | バックウォータークルーズ | 運河を進むボート, インド ケーララ州 (© Shutterstock) | [![バックウォータークルーズ](https://www.bing.com/th?id=OHR.KeralaIndia_JA-JP4113467482_320x240.jpg)](https://www.bing.com/th?id=OHR.KeralaIndia_JA-JP4113467482_UHD.jpg) |
+| 2022-06-23 | ボスニア・ヘルツェゴビナの世界遺産 | スタリ・モスト, ボスニア・ヘルツェゴビナ (© Ayhan Altun/Getty Images) | [![ボスニア・ヘルツェゴビナの世界遺産](https://www.bing.com/th?id=OHR.MostarBridge_JA-JP7587669140_320x240.jpg)](https://www.bing.com/th?id=OHR.MostarBridge_JA-JP7587669140_UHD.jpg) |
+| 2022-12-31 | 大晦日 | 東大寺の梵鐘, 奈良 (© Yellow Cat/Shutterstock) | [![大晦日](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_320x240.jpg)](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-10-31 | 是谁躲在这令人毛骨悚然的树林里？ | 牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images) | [![是谁躲在这令人毛骨悚然的树林里？](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_320x240.jpg)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) |
-| 2022-06-07 | 部分是科研园，部分是公园 | 赫尔辛基的哈加杜鹃花公园，芬兰 (© Samuli Vainionpää/Getty Images) | [![部分是科研园，部分是公园](https://www.bing.com/th?id=OHR.HaagaRhododendron_ZH-CN3375001658_320x240.jpg)](https://www.bing.com/th?id=OHR.HaagaRhododendron_ZH-CN3375001658_UHD.jpg) |
-| 2022-04-30 | 喂养时间到了 | 正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy) | [![喂养时间到了](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_320x240.jpg)](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg) |
+| 2022-12-28 | 雪花玻璃球一般的美景 | 马洛亚，瑞士 (© Roberto Moiola/Getty) | [![雪花玻璃球一般的美景](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_320x240.jpg)](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) |
+| 2022-11-01 | 来一盏微笑的南瓜灯吗？ | 神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images) | [![来一盏微笑的南瓜灯吗？](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_320x240.jpg)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg) |
+| 2022-12-20 | 圣诞节的倒影 | 维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy) | [![圣诞节的倒影](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_320x240.jpg)](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg) |
 
