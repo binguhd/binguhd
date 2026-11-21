@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2024
 
-> Zuletzt aktualisiert：2026-11-20 08:40:54 UTC
+> Zuletzt aktualisiert：2026-11-21 05:37:41 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2024-07-13 | Zwischen Feen und Zauberern | Feenkamine und Höhlenwohnungen in Kappadokien, Türkei (© Storm Is Me/Shutterstock) | [![Zwischen Feen und Zauberern](https://www.bing.com/th?id=OHR.CappadociaRocks_DE-DE6351998618_320x240.jpg)](https://www.bing.com/th?id=OHR.CappadociaRocks_DE-DE6351998618_UHD.jpg) |
-| 2024-09-12 | Das Lächeln des Ozeans | Delfine in der Nähe der Insel Réunion, Indischer Ozean, französisches Überseegebiet (© Joost van Uffelen/Shutterstock) | [![Das Lächeln des Ozeans](https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216_320x240.jpg)](https://www.bing.com/th?id=OHR.DolphinReunion_DE-DE0331198216_UHD.jpg) |
-| 2024-05-11 | Ein blaues Wunder der anderen Art | Die „Blaue Stadt“ Jodhpur, Rajasthan, Indien (© cinoby/Getty Images) | [![Ein blaues Wunder der anderen Art](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_UHD.jpg) |
+| 2024-08-06 | Eine malerische Halbmondinsel | Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo) | [![Eine malerische Halbmondinsel](https://www.bing.com/th?id=OHR.MolokiniHawaii_DE-DE0192501099_320x240.jpg)](https://www.bing.com/th?id=OHR.MolokiniHawaii_DE-DE0192501099_UHD.jpg) |
+| 2024-09-04 | Gleich und gleich gesellt sich gern | Koromandeluhus, Pakistan (© zahoor salmi/Getty Images) | [![Gleich und gleich gesellt sich gern](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_UHD.jpg) |
+| 2024-12-09 | Wo die Gipfel den Himmel berühren | Zwei Guanakos, Nationalpark Torres del Paine, Chile (© Floris van Breugel/NPL/Minden Pictures) | [![Wo die Gipfel den Himmel berühren](https://www.bing.com/th?id=OHR.GuanacosChile_DE-DE1043903141_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacosChile_DE-DE1043903141_UHD.jpg) |
 
 ## 🍁 [Englisch (Kanada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-01-12 | A whiskered wanderer | Eurasian lynx in the snow (© Jan Stria/Shutterstock) | [![A whiskered wanderer](https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228_320x240.jpg)](https://www.bing.com/th?id=OHR.LynxSnow_EN-CA9725800228_UHD.jpg) |
-| 2024-09-26 | The realm of ancient giants | Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock) | [![The realm of ancient giants](https://www.bing.com/th?id=OHR.GiantSequoias_EN-CA0725943426_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantSequoias_EN-CA0725943426_UHD.jpg) |
-| 2024-09-02 | Row your boat gently down the Thames | River Thames, London, England (© Puthipong Worasaran/Getty Images) | [![Row your boat gently down the Thames](https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_320x240.jpg)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-CA7037142112_UHD.jpg) |
+| 2024-07-13 | Come Rainier or shine | Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images) | [![Come Rainier or shine](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642_320x240.jpg)](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-CA0241221642_UHD.jpg) |
+| 2024-09-12 | Kits and kisses | Red fox mother kissing her baby in Canada (© pchoui/Getty Images) | [![Kits and kisses](https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954_320x240.jpg)](https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954_UHD.jpg) |
+| 2024-05-11 | A world of tulips | Tulips in front of the Parliament Buildings during the Tulip Festival in Ottawa (© Danielle Donders/Moment/Getty Images) | [![A world of tulips](https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_320x240.jpg)](https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_UHD.jpg) |
 
 ## 🌹 [Englisch (Vereinigtes Königreich)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-12-20 | Twinkle town | Sibiu Christmas Market, Romania (© Calin Stan/Alamy Stock Photo) | [![Twinkle town](https://www.bing.com/th?id=OHR.SibiuRomania_EN-GB6095129735_320x240.jpg)](https://www.bing.com/th?id=OHR.SibiuRomania_EN-GB6095129735_UHD.jpg) |
-| 2024-07-16 | Digging into the past | The neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images) | [![Digging into the past](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_320x240.jpg)](https://www.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg) |
-| 2024-09-27 | Above the floating city | Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency) | [![Above the floating city](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceAerial_EN-GB6264202474_UHD.jpg) |
+| 2024-01-10 | Coming in hot | Hot air balloons over the Rio Grande, Albuquerque, New Mexico, USA (© Jennifer MacCornack/Shutterstock) | [![Coming in hot](https://www.bing.com/th?id=OHR.BalloonDay_EN-GB9560500420_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_EN-GB9560500420_UHD.jpg) |
+| 2024-09-25 | The realm of ancient giants | Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock) | [![The realm of ancient giants](https://www.bing.com/th?id=OHR.GiantSequoias_EN-GB2106477767_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantSequoias_EN-GB2106477767_UHD.jpg) |
+| 2024-09-01 | Row your boat gently down the Thames | River Thames, London, England (© Puthipong Worasaran/Getty Images) | [![Row your boat gently down the Thames](https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_320x240.jpg)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_UHD.jpg) |
 
 ## 🦁 [Englisch (Indien)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-09-05 | Lights, camera, TIFF '24! | Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images) | [![Lights, camera, TIFF '24!](https://www.bing.com/th?id=OHR.TIFF2024_EN-IN3142242773_320x240.jpg)](https://www.bing.com/th?id=OHR.TIFF2024_EN-IN3142242773_UHD.jpg) |
-| 2024-08-19 | Twists, turns and ties | Festival of Raksha Bandhan (© Dinodia Photo/Getty Images) | [![Twists, turns and ties](https://www.bing.com/th?id=OHR.FestivalRakhi_EN-IN9632575091_320x240.jpg)](https://www.bing.com/th?id=OHR.FestivalRakhi_EN-IN9632575091_UHD.jpg) |
-| 2024-11-28 | A divine night | Murudeshwara Temple, Murdeshwar, Karnataka (© Amith Nag Photography/Getty Images) | [![A divine night](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_320x240.jpg)](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg) |
+| 2024-12-20 | He's coming to town... | Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock) | [![He's coming to town...](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-IN8131344842_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-IN8131344842_UHD.jpg) |
+| 2024-07-17 | Towering with history | Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images) | [![Towering with history](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-IN3166503485_320x240.jpg)](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-IN3166503485_UHD.jpg) |
+| 2024-09-28 | Gulf Islands glow | Beach at sunrise, Gulf Islands National Seashore, Florida, USA (© Tim Fitzharris/Minden Pictures) | [![Gulf Islands glow](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_320x240.jpg)](https://www.bing.com/th?id=OHR.FloridaSeashore_EN-IN2946245730_UHD.jpg) |
 
 ## 🗽 [Englisch (Vereinigte Staaten)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-10-06 | Follow the teacher! | African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures) | [![Follow the teacher!](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg) |
-| 2024-02-29 | Grow with the flow | Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images) | [![Grow with the flow](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_320x240.jpg)](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg) |
-| 2024-02-03 | Will Phil see his shadow? | Marmot peeking out of its burrow (© Scacciamosche/Getty Images) | [![Will Phil see his shadow?](https://www.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg) |
+| 2024-09-05 | Birds of a feather hoot together | Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images) | [![Birds of a feather hoot together](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg) |
+| 2024-08-19 | Pier today ... | Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion) | [![Pier today ...](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_320x240.jpg)](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg) |
+| 2024-11-28 | The giant's resting place | Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty) | [![The giant's resting place](https://www.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_320x240.jpg)](https://www.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg) |
 
 ## 🐓 [Französisch (Frankreich)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-02-16 | Comme un air de montagne | Station de Saint-Jean-d'Arves, Savoie, France (© shutterstock) | [![Comme un air de montagne](https://www.bing.com/th?id=OHR.SkiResort_FR-FR5956789786_320x240.jpg)](https://www.bing.com/th?id=OHR.SkiResort_FR-FR5956789786_UHD.jpg) |
-| 2024-11-09 | En route vers les étoiles | Voie lactée, Aït Benhaddou, Maroc (© Cavan Images/Getty Images) | [![En route vers les étoiles](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-FR7350408140_320x240.jpg)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_FR-FR7350408140_UHD.jpg) |
-| 2024-10-22 | Une porte « monstrueuse » | Palais Zuccari, Rome, Italie (© Photon-Photos/Getty Images) | [![Une porte « monstrueuse »](https://www.bing.com/th?id=OHR.MonsterDoor_FR-FR1619086814_320x240.jpg)](https://www.bing.com/th?id=OHR.MonsterDoor_FR-FR1619086814_UHD.jpg) |
+| 2024-10-06 | Sentier mythique au cœur du Glen Canyon | Peuplier deltoïdes, sentier de Coyote Gulch, Glen Canyon Recreation Area, Utah, États-Unis (© Stephen Matera/Tandem Stills + Motion) | [![Sentier mythique au cœur du Glen Canyon](https://www.bing.com/th?id=OHR.CoyoteGulch_FR-FR9860829479_320x240.jpg)](https://www.bing.com/th?id=OHR.CoyoteGulch_FR-FR9860829479_UHD.jpg) |
+| 2024-02-29 | Un dernier saut avant le mois de mars ! | Écureuil roux d'Europe (© Westend61/Getty Images) | [![Un dernier saut avant le mois de mars !](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-FR3290902737_320x240.jpg)](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-FR3290902737_UHD.jpg) |
+| 2024-02-03 | Jeux de masques | Grand Canal et basilique Santa Maria della Salute, Venise, Italie (© RudyBalasko/Getty Images) | [![Jeux de masques](https://www.bing.com/th?id=OHR.VeniceCarnival_FR-FR7084522294_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceCarnival_FR-FR7084522294_UHD.jpg) |
 
 ## ⭐ [Italienisch (Italien)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-06-26 | Meraviglie acquatiche | Pesce cardinale Banggai con anemone di mare, Stretto di Lembeh, Sulawesi settentrionale, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures) | [![Meraviglie acquatiche](https://www.bing.com/th?id=OHR.CardinalfishAnemone_IT-IT5257002350_320x240.jpg)](https://www.bing.com/th?id=OHR.CardinalfishAnemone_IT-IT5257002350_UHD.jpg) |
-| 2024-07-15 | L’albero e il mare | Parco Tateishi, Prefettura di Kanagawa, Giappone (© blew_s/Shutterstock) | [![L’albero e il mare](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_320x240.jpg)](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_UHD.jpg) |
-| 2024-05-04 | Perchè tutti in bici? | Giro d'Italia, Ciclisti sulle Dolomiti (© Tim de Waele/Staff/Getty Images) | [![Perchè tutti in bici?](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_320x240.jpg)](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg) |
+| 2024-02-16 | Che bel ciuffo! | Una femmina di pyrrhuloxia in posa su una pianta di cactus spinoso in Texas, USA (© outtakes/Getty Images) | [![Che bel ciuffo!](https://www.bing.com/th?id=OHR.BackyardBird_IT-IT6515911686_320x240.jpg)](https://www.bing.com/th?id=OHR.BackyardBird_IT-IT6515911686_UHD.jpg) |
+| 2024-11-09 | Vedute cosmiche su tonalità terrestri | Via Lattea, Ait-Ben-Haddou, Marocco (© Cavan Images/Getty Images) | [![Vedute cosmiche su tonalità terrestri](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_IT-IT3578962903_320x240.jpg)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_IT-IT3578962903_UHD.jpg) |
+| 2024-10-22 | Il mistero di Zuccari | Palazzo Zuccari, Roma, Italia (© Photon-Photos/Getty Images) | [![Il mistero di Zuccari](https://www.bing.com/th?id=OHR.MonsterDoor_IT-IT8784390686_320x240.jpg)](https://www.bing.com/th?id=OHR.MonsterDoor_IT-IT8784390686_UHD.jpg) |
 
 ## 🌸 [Japanisch (Japan)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-12-29 | 仏教の世界観を表した寺院 | ボロブドゥール遺跡, インドネシア (© Robertharding/Shutterstock) | [![仏教の世界観を表した寺院](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_320x240.jpg)](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg) |
-| 2024-02-29 | 朱色の断崖絶壁 | バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![朱色の断崖絶壁](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_320x240.jpg)](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg) |
-| 2024-04-03 | 今日は米国の「虹を見つける日」 | カクシャール・ツー山にかかる虹, キルギス (© Emad aljumah/Getty Images) | [![今日は米国の「虹を見つける日」](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_320x240.jpg)](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_JA-JP6458656191_UHD.jpg) |
+| 2024-06-26 | 丘の上に建つ中世の城 | ペヴリル城, イングランド (© James Osmond/Alamy) | [![丘の上に建つ中世の城](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg) |
+| 2024-07-15 | 今日は「海の日」 | 立石公園, 神奈川県 (© blew_s/Shutterstock) | [![今日は「海の日」](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_320x240.jpg)](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_UHD.jpg) |
+| 2024-05-04 | 今日はスター・ウォーズの日 | シュケリッグ・ヴィヒルの古代修道院跡 , アイルランド (© MNStudio/Getty Images) | [![今日はスター・ウォーズの日](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_320x240.jpg)](https://www.bing.com/th?id=OHR.JediMonastery_JA-JP7788266024_UHD.jpg) |
 
 ## 🐉 [Vereinfachtes Chinesisch (China)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-12-02 | 狂野的眼神 | 雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo) | [![狂野的眼神](https://www.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg) |
-| 2024-04-16 | 灯光，相机，纽约！ | 暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images) | [![灯光，相机，纽约！](https://www.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_320x240.jpg)](https://www.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg) |
-| 2024-07-13 | 快看，这是沉积岩哦 | 卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock) | [![快看，这是沉积岩哦](https://www.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_320x240.jpg)](https://www.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg) |
+| 2024-12-29 | 圣山之上 | 婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock) | [![圣山之上](https://www.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_320x240.jpg)](https://www.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg) |
+| 2024-02-29 | 多过一天 | 欧亚红松鼠 (© Westend61/Getty Images) | [![多过一天](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_320x240.jpg)](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg) |
+| 2024-04-03 | 希望彩虹留在这里 | At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images) | [![希望彩虹留在这里](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_320x240.jpg)](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg) |
 

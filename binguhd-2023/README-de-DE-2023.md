@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2023
 
-> Zuletzt aktualisiert：2026-11-20 08:40:54 UTC
+> Zuletzt aktualisiert：2026-11-21 05:37:41 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2023-12-03 | Advent, Advent, ein Lichtlein brennt... | Die Adventszeit beginnt (© Muenz/Getty Images) | [![Advent, Advent, ein Lichtlein brennt...](https://www.bing.com/th?id=OHR.AdventCandles_DE-DE5745252681_320x240.jpg)](https://www.bing.com/th?id=OHR.AdventCandles_DE-DE5745252681_UHD.jpg) |
-| 2023-04-06 | Pink Moon über Arizona | Mondaufgang, Tucson, Arizona, USA (© Tim Murphy/Shutterstock) | [![Pink Moon über Arizona](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_DE-DE9682915155_320x240.jpg)](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_DE-DE9682915155_UHD.jpg) |
-| 2023-10-28 | Gegen Windmühlen kämpfen? | Windmühlen in Kastilien-La Mancha, Spanien (© Getty Images) | [![Gegen Windmühlen kämpfen?](https://www.bing.com/th?id=OHR.FiveWinds_DE-DE4868049258_320x240.jpg)](https://www.bing.com/th?id=OHR.FiveWinds_DE-DE4868049258_UHD.jpg) |
+| 2023-02-15 | Welt Flusspferd Tag, ein riesiges Fest | Flusspferdmutter und -baby, Chobe-Nationalpark, Botsuana (© jacobeukman/Getty Images) | [![Welt Flusspferd Tag, ein riesiges Fest](https://www.bing.com/th?id=OHR.HippoDayChobe_DE-DE9450104011_320x240.jpg)](https://www.bing.com/th?id=OHR.HippoDayChobe_DE-DE9450104011_UHD.jpg) |
+| 2023-11-20 | Jeder Tag ist ein Spieltag! | Chapman-Abenteuerspielplatz auf dem Gathering Place, Tulsa, Oklahoma, USA (© Susan Vineyard/Alamy) | [![Jeder Tag ist ein Spieltag!](https://www.bing.com/th?id=OHR.ChapmanAdventure_DE-DE7123511876_320x240.jpg)](https://www.bing.com/th?id=OHR.ChapmanAdventure_DE-DE7123511876_UHD.jpg) |
+| 2023-09-03 | Sehen Sie den Apfel? | Luftaufnahme von Manhattan, New York City, USA (© Wojtek Zagorski/Getty Images) | [![Sehen Sie den Apfel?](https://www.bing.com/th?id=OHR.ManhattanAerial_DE-DE3168422076_320x240.jpg)](https://www.bing.com/th?id=OHR.ManhattanAerial_DE-DE3168422076_UHD.jpg) |
 
 ## 🍁 [Englisch (Kanada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-12-21 | Lights of the Dolomites | Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images) | [![Lights of the Dolomites](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-CA9038547102_320x240.jpg)](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-CA9038547102_UHD.jpg) |
-| 2023-02-15 | Love is in the snow | Valentine’s Day (© T Photography/Shutterstock) | [![Love is in the snow](https://www.bing.com/th?id=OHR.OtaruIgloo_EN-CA4173506680_320x240.jpg)](https://www.bing.com/th?id=OHR.OtaruIgloo_EN-CA4173506680_UHD.jpg) |
-| 2023-08-01 | Is anybody home? | Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images) | [![Is anybody home?](https://www.bing.com/th?id=OHR.RockHouse_EN-CA8158146840_320x240.jpg)](https://www.bing.com/th?id=OHR.RockHouse_EN-CA8158146840_UHD.jpg) |
+| 2023-12-03 | A city within a city | North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock) | [![A city within a city](https://www.bing.com/th?id=OHR.AngkorPark_EN-CA3208481689_320x240.jpg)](https://www.bing.com/th?id=OHR.AngkorPark_EN-CA3208481689_UHD.jpg) |
+| 2023-04-06 | Let’s have a lek, see? | Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures) | [![Let’s have a lek, see?](https://www.bing.com/th?id=OHR.BlackGrouseLekking_EN-CA3757244382_320x240.jpg)](https://www.bing.com/th?id=OHR.BlackGrouseLekking_EN-CA3757244382_UHD.jpg) |
+| 2023-10-28 | Enchanted waters run deep | Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion) | [![Enchanted waters run deep](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-CA9235260855_320x240.jpg)](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-CA9235260855_UHD.jpg) |
 
 ## 🌹 [Englisch (Vereinigtes Königreich)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-12-02 | Celebrating the coolest place! | Iceberg, Ross Sea, Antarctica (© Michel Roggo/Minden Pictures) | [![Celebrating the coolest place!](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-GB4409581826_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-GB4409581826_UHD.jpg) |
-| 2023-10-15 | This spot's taken | European hedgehog sheltering in tree bark, Sussex (© Jules Cox/Minden Pictures) | [![This spot's taken](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-GB3716298220_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-GB3716298220_UHD.jpg) |
-| 2023-08-09 | A day for the world's Indigenous populations | Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy) | [![A day for the world's Indigenous populations](https://www.bing.com/th?id=OHR.BathurstArt_EN-GB5230437301_320x240.jpg)](https://www.bing.com/th?id=OHR.BathurstArt_EN-GB5230437301_UHD.jpg) |
+| 2023-12-21 | Lights of the Dolomites | Val Gardena, Dolomites, Italy (© Ingus Kruklitis/Getty Images) | [![Lights of the Dolomites](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-GB6400488712_320x240.jpg)](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-GB6400488712_UHD.jpg) |
+| 2023-02-13 | A smooth landing, feet first | Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures) | [![A smooth landing, feet first](https://www.bing.com/th?id=OHR.BoobyDarwinDay_EN-GB3986059501_320x240.jpg)](https://www.bing.com/th?id=OHR.BoobyDarwinDay_EN-GB3986059501_UHD.jpg) |
+| 2023-07-31 | Rock House in Hocking Hills State Park, Ohio | Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images) | [![Rock House in Hocking Hills State Park, Ohio](https://www.bing.com/th?id=OHR.RockHouse_EN-GB7594374263_320x240.jpg)](https://www.bing.com/th?id=OHR.RockHouse_EN-GB7594374263_UHD.jpg) |
 
 ## 🦁 [Englisch (Indien)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-05-02 | Bright blue lakes and rugged mountains | Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images) | [![Bright blue lakes and rugged mountains](https://www.bing.com/th?id=OHR.KlostersSerneus_EN-IN1836496709_320x240.jpg)](https://www.bing.com/th?id=OHR.KlostersSerneus_EN-IN1836496709_UHD.jpg) |
-| 2023-01-04 | So close, yet so far | The Earth as seen from the International Space Station (© JSC/NASA) | [![So close, yet so far](https://www.bing.com/th?id=OHR.Perihelion_EN-IN9134939468_320x240.jpg)](https://www.bing.com/th?id=OHR.Perihelion_EN-IN9134939468_UHD.jpg) |
-| 2023-08-14 | Peek-a-boo, I see you! | Tiny gecko on leaf (© Darren Greenwood/Alamy) | [![Peek-a-boo, I see you!](https://www.bing.com/th?id=OHR.GeckoLeaf_EN-IN5833679106_320x240.jpg)](https://www.bing.com/th?id=OHR.GeckoLeaf_EN-IN5833679106_UHD.jpg) |
+| 2023-12-02 | A city within a city | North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock) | [![A city within a city](https://www.bing.com/th?id=OHR.AngkorPark_EN-IN1399731059_320x240.jpg)](https://www.bing.com/th?id=OHR.AngkorPark_EN-IN1399731059_UHD.jpg) |
+| 2023-10-16 | Enchanting indeed | Golden larches and Prusik Peak, Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion) | [![Enchanting indeed](https://www.bing.com/th?id=OHR.GoldenEnchantments_EN-IN7563060765_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenEnchantments_EN-IN7563060765_UHD.jpg) |
+| 2023-08-10 | 'King of the jungle'? Nope | A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion) | [!['King of the jungle'? Nope](https://www.bing.com/th?id=OHR.WorldLionDay_EN-IN7896417806_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldLionDay_EN-IN7896417806_UHD.jpg) |
 
 ## 🗽 [Englisch (Vereinigte Staaten)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-05-18 | Getting a bird's-eye view | Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion) | [![Getting a bird's-eye view](https://www.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_320x240.jpg)](https://www.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg) |
-| 2023-01-25 | The envy of postcards and snow globes | Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy) | [![The envy of postcards and snow globes](https://www.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_320x240.jpg)](https://www.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg) |
-| 2023-03-17 | Happy Panda Day! | Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont) | [![Happy Panda Day!](https://www.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_320x240.jpg)](https://www.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg) |
+| 2023-05-02 | Asian American and Pacific Islander Heritage Month | Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images) | [![Asian American and Pacific Islander Heritage Month](https://www.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_320x240.jpg)](https://www.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg) |
+| 2023-01-04 | Who's snoozing? | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion) | [![Who's snoozing?](https://www.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_320x240.jpg)](https://www.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg) |
+| 2023-08-14 | Look up, incoming… | Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion) | [![Look up, incoming…](https://www.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg) |
 
 ## 🐓 [Französisch (Frankreich)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2023-04-15 | Quand l'art imite la vie | ‘Together’ de Lorenzo Quinn, Grandes Pyramides de Gizeh, Le Caire, Égypte (© Sima Diab/Getty Images) | [![Quand l'art imite la vie](https://www.bing.com/th?id=OHR.LorenzoQuinn_FR-FR4354643719_320x240.jpg)](https://www.bing.com/th?id=OHR.LorenzoQuinn_FR-FR4354643719_UHD.jpg) |
-| 2023-01-06 | Sur les hauteurs anglaises | Black Fell, Lake District, Angleterre (© Daniel Kay/Shutterstock) | [![Sur les hauteurs anglaises](https://www.bing.com/th?id=OHR.BlackFell_FR-FR5000378632_320x240.jpg)](https://www.bing.com/th?id=OHR.BlackFell_FR-FR5000378632_UHD.jpg) |
-| 2023-05-15 | Une île carrefour des cultures | Morro Jable et Playa del Matorral, Fuerteventura, Îles Canaries, Espagne (© Gavin Hellier/Getty Images) | [![Une île carrefour des cultures](https://www.bing.com/th?id=OHR.MorroJable_FR-FR4892451097_320x240.jpg)](https://www.bing.com/th?id=OHR.MorroJable_FR-FR4892451097_UHD.jpg) |
+| 2023-05-18 | La lumière du soleil transforme l'argent en or | Plaza Carso, musée Soumay, ville de Mexico, Mexique (© Juan Romero/Alamy) | [![La lumière du soleil transforme l'argent en or](https://www.bing.com/th?id=OHR.MuseoSoumaya_FR-FR5141735106_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseoSoumaya_FR-FR5141735106_UHD.jpg) |
+| 2023-01-25 | Hommage au poète écossais Robert Burns | Statue de Robert Burns, Aberfeldy, Écosse. (© Dennis Barnes/Getty Images) | [![Hommage au poète écossais Robert Burns](https://www.bing.com/th?id=OHR.BirksofAberfeldy_FR-FR8202020141_320x240.jpg)](https://www.bing.com/th?id=OHR.BirksofAberfeldy_FR-FR8202020141_UHD.jpg) |
+| 2023-03-17 | Vive la Saint Patrick ! | Ballyvooney Cove, Copper Coast Geopark, Irlande (© Andrea Pistolesi/Getty Images) | [![Vive la Saint Patrick !](https://www.bing.com/th?id=OHR.BallyvooneyCove_FR-FR5203946108_320x240.jpg)](https://www.bing.com/th?id=OHR.BallyvooneyCove_FR-FR5203946108_UHD.jpg) |
 
 ## ⭐ [Italienisch (Italien)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2023-08-22 | Una "standing ovation" per l'architettura romana | Anfiteatro di El Jem, Tunisia (© Westend61/Getty Images) | [![Una "standing ovation" per l'architettura romana](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_IT-IT5133645566_320x240.jpg)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_IT-IT5133645566_UHD.jpg) |
-| 2023-10-13 | Dov'è questa famosa fontana? | Perugia, Fontana Maggiore (© Buena Vista Images/Getty Images) | [![Dov'è questa famosa fontana?](https://www.bing.com/th?id=OHR.PerugiaFountainEurochocolate_IT-IT7296572620_320x240.jpg)](https://www.bing.com/th?id=OHR.PerugiaFountainEurochocolate_IT-IT7296572620_UHD.jpg) |
-| 2023-03-21 | Qual è il tuo colore preferito? | Gessetti a pastello colorati (© Stephen Shepherd/Plainpicture) | [![Qual è il tuo colore preferito?](https://www.bing.com/th?id=OHR.ColourDay_IT-IT1156012517_320x240.jpg)](https://www.bing.com/th?id=OHR.ColourDay_IT-IT1156012517_UHD.jpg) |
+| 2023-04-15 | Chi ha creato quest’opera d’arte? | “Together" di Lorenzo Quinn, Le Grande Piramidi di Giza, Il Cairo, Egitto (© Sima Diab/Getty Images) | [![Chi ha creato quest’opera d’arte?](https://www.bing.com/th?id=OHR.LorenzoQuinn_IT-IT2361937887_320x240.jpg)](https://www.bing.com/th?id=OHR.LorenzoQuinn_IT-IT2361937887_UHD.jpg) |
+| 2023-01-06 | L’Epifania tutte le feste porta via | Piazza Navona with the Moor Fountain and Basilica at sunset, Rome, Italy (© Anton Aleksenko/agefotostock/Alamy Stock Photo) | [![L’Epifania tutte le feste porta via](https://www.bing.com/th?id=OHR.RomePiazzaNavona_IT-IT7494581195_320x240.jpg)](https://www.bing.com/th?id=OHR.RomePiazzaNavona_IT-IT7494581195_UHD.jpg) |
+| 2023-05-15 | Un'isola crocevia di culture | Morro Jable e Playa del Matorral, Fuerteventura, Isole Canarie (© Gavin Hellier/Getty Images) | [![Un'isola crocevia di culture](https://www.bing.com/th?id=OHR.MorroJable_IT-IT8361270560_320x240.jpg)](https://www.bing.com/th?id=OHR.MorroJable_IT-IT8361270560_UHD.jpg) |
 
 ## 🌸 [Japanisch (Japan)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2023-10-15 | 太陽と月のダンス | 金環日食, カタール ドーハ (© Sorin Furcoi/Getty Images) | [![太陽と月のダンス](https://www.bing.com/th?id=OHR.RingEclipse_JA-JP9257563062_320x240.jpg)](https://www.bing.com/th?id=OHR.RingEclipse_JA-JP9257563062_UHD.jpg) |
-| 2023-03-20 | 明日はインターナショナル・カラー・デイ | カラフルなパステル (© Stephen Shepherd/plainpicture) | [![明日はインターナショナル・カラー・デイ](https://www.bing.com/th?id=OHR.ColourDay_JA-JP2821743864_320x240.jpg)](https://www.bing.com/th?id=OHR.ColourDay_JA-JP2821743864_UHD.jpg) |
-| 2023-11-23 | カメラに気付いたダマジカ | ブラッドゲート・パーク, イギリス イングランド (© Chris Bainbridge/Alamy) | [![カメラに気付いたダマジカ](https://www.bing.com/th?id=OHR.BradgateFallow_JA-JP4632580137_320x240.jpg)](https://www.bing.com/th?id=OHR.BradgateFallow_JA-JP4632580137_UHD.jpg) |
+| 2023-08-22 | ローマ剣闘士の舞台 | エル・ジェムの円形闘技場, チュニジア (© Westend61/Getty Images) | [![ローマ剣闘士の舞台](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_JA-JP3594728371_320x240.jpg)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_JA-JP3594728371_UHD.jpg) |
+| 2023-10-13 | 白い家々が並ぶ海岸の町 | ガルガーノ半島のヴィエステ, イタリア プッリャ州 (© Pilat666/Getty Images) | [![白い家々が並ぶ海岸の町](https://www.bing.com/th?id=OHR.ViesteItaly_JA-JP5299332790_320x240.jpg)](https://www.bing.com/th?id=OHR.ViesteItaly_JA-JP5299332790_UHD.jpg) |
+| 2023-03-21 | 今日は春分の日 | 紫色のクロッカス (© Raimund Linke/Getty Images) | [![今日は春分の日](https://www.bing.com/th?id=OHR.PurpleCrocus_JA-JP3096811361_320x240.jpg)](https://www.bing.com/th?id=OHR.PurpleCrocus_JA-JP3096811361_UHD.jpg) |
 
 ## 🐉 [Vereinfachtes Chinesisch (China)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2023-04-08 | 从地下起源的传说 | 巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images) | [![从地下起源的传说](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_320x240.jpg)](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg) |
-| 2023-04-30 | 伟大的遗迹 | 塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock) | [![伟大的遗迹](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_320x240.jpg)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg) |
-| 2023-09-04 | 城市中心的绿色天堂 | 布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images) | [![城市中心的绿色天堂](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_320x240.jpg)](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg) |
+| 2023-10-15 | 该位置已被占领 | 躲在树皮中欧洲刺猬，苏塞克斯，英国 (© Jules Cox/Minden Pictures) | [![该位置已被占领](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg) |
+| 2023-03-20 | 春天的色彩 | 紫番红花 (© Raimund Linke/Getty Images) | [![春天的色彩](https://www.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_320x240.jpg)](https://www.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_UHD.jpg) |
+| 2023-11-23 | 从深海到天空 | 泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy) | [![从深海到天空](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_320x240.jpg)](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg) |
 
