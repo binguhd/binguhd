@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated: 2026-11-20 05:39:41 UTC
+> Last updated: 2026-11-21 05:33:44 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | Terracotta dreams | Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images) | [![Terracotta dreams](https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_EN-CA5974961332_UHD.jpg) |
 | 2026-11-21 | Feasting in the fjords | Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures) | [![Feasting in the fjords](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_320x240.jpg)](https://www.bing.com/th?id=OHR.Megaptera_EN-CA5111539661_UHD.jpg) |
 | 2026-11-20 | Where ideas take shape | The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock) | [![Where ideas take shape](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-CA4919138764_UHD.jpg) |
 | 2026-11-19 | Hunting from dusk till dawn | Pair of barn owls (© Zahoor Salmi/Getty Images) | [![Hunting from dusk till dawn](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-CA4667422481_UHD.jpg) |
