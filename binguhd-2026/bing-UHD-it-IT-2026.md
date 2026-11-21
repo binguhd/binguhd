@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-20 05:42:04 UTC
+> Ultimo aggiornamento: 2026-11-21 05:36:14 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-21 | Un sogno color terracotta | Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images) | [![Un sogno color terracotta](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_IT-IT2041247927_UHD.jpg) |
 | 2026-11-20 | A banchetto tra i fiordi | Megattera (Megaptera novaeangliae) in immersione, Kvaløya, Troms, Norvegia settentrionale (© Espen Bergersen/Minden Pictures) | [![A banchetto tra i fiordi](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_320x240.jpg)](https://www.bing.com/th?id=OHR.Megaptera_IT-IT1232088954_UHD.jpg) |
 | 2026-11-19 | Dove le idee prendono forma | "Body of Knowledge", scultura di Jaume Plensa, Università Goethe, Francoforte, Germania (© Todamo/Shutterstock) | [![Dove le idee prendono forma](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_IT-IT1368212298_UHD.jpg) |
 | 2026-11-18 | A caccia dal tramonto all’alba | Una coppia di barbagianni (© Zahoor Salmi/Getty Images) | [![A caccia dal tramonto all’alba](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_320x240.jpg)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_IT-IT5941580476_UHD.jpg) |
