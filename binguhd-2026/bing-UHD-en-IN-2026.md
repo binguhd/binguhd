@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-21 05:34:44 UTC
+> Last updated: 2026-11-22 04:59:43 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | Shelter among the waves | The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images) | [![Shelter among the waves](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg) |
 | 2026-11-21 | Terracotta dreams | Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images) | [![Terracotta dreams](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_UHD.jpg) |
 | 2026-11-20 | Feasting in the fjords | Diving humpback whale, Kvaløya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures) | [![Feasting in the fjords](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_320x240.jpg)](https://www.bing.com/th?id=OHR.Megaptera_EN-IN2800635615_UHD.jpg) |
 | 2026-11-19 | Where ideas take shape | The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock) | [![Where ideas take shape](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-IN5790560543_UHD.jpg) |
