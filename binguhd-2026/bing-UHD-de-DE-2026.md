@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-21 05:33:20 UTC
+> Zuletzt aktualisiert: 2026-11-22 04:58:21 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-22 | Kapelle im Fels | Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images) | [![Kapelle im Fels](https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg) |
 | 2026-11-21 | Ein Traum aus Terrakotta | Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images) | [![Ein Traum aus Terrakotta](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg) |
 | 2026-11-20 | Festmahl in den Fjorden | Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures) | [![Festmahl in den Fjorden](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_320x240.jpg)](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg) |
 | 2026-11-19 | Wo Ideen Gestalt annehmen | Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock) | [![Wo Ideen Gestalt annehmen](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_320x240.jpg)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg) |
