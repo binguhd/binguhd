@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-22 04:59:17 UTC
+> Last updated: 2026-11-23 05:41:20 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-24 | Geometry in nature | Fiddlehead fern (© Reza Saputra/Getty Images) | [![Geometry in nature](https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-GB6785963710_UHD.jpg) |
 | 2026-11-23 | Shelter among the waves | The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images) | [![Shelter among the waves](https://www.bing.com/th?id=OHR.JustaHermitage_EN-GB3758221368_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-GB3758221368_UHD.jpg) |
 | 2026-11-22 | Terracotta dreams | Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images) | [![Terracotta dreams](https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_UHD.jpg) |
 | 2026-11-21 | Feasting in the fjords | Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures) | [![Feasting in the fjords](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_320x240.jpg)](https://www.bing.com/th?id=OHR.Megaptera_EN-GB2786065203_UHD.jpg) |
