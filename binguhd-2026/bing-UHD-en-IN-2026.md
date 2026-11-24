@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-23 05:41:47 UTC
+> Last updated: 2026-11-24 08:20:00 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-24 | Autumnal camouflage | Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures) | [![Autumnal camouflage](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-IN7928513964_UHD.jpg) |
 | 2026-11-23 | Geometry in nature | Fiddlehead fern (© Reza Saputra/Getty Images) | [![Geometry in nature](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-IN6938090263_UHD.jpg) |
 | 2026-11-22 | Shelter among the waves | The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images) | [![Shelter among the waves](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-IN3031288581_UHD.jpg) |
 | 2026-11-21 | Terracotta dreams | Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images) | [![Terracotta dreams](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_EN-IN2901720503_UHD.jpg) |
