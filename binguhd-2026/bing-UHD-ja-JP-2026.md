@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-23 05:43:45 UTC
+> 最終更新: 2026-11-24 08:22:00 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-24 | 紅葉にまぎれて | キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures) | [![紅葉にまぎれて](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg) |
 | 2026-11-23 | 自然が描く幾何学模様 | シダの若芽 (© Reza Saputra/Getty Images) | [![自然が描く幾何学模様](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg) |
 | 2026-11-22 | 波間にたたずむ隠れ家 | サンタ・フスタ礼拝堂、カンタブリア州、スペイン (© Tramont_ana/Getty Images) | [![波間にたたずむ隠れ家](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg) |
 | 2026-11-21 | テラコッタ色に染まる街 | ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images) | [![テラコッタ色に染まる街](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_320x240.jpg)](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg) |
