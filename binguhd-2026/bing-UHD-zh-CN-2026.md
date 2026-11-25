@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-11-24 08:22:26 UTC
+> 最后更新: 2026-11-25 06:58:46 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-25 | 美国西南部的一场雪 | 日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy) | [![美国西南部的一场雪](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg) |
 | 2026-11-24 | 秋日的保护色 | 红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures) | [![秋日的保护色](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg) |
 | 2026-11-23 | 自然中的几何之美 | 蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images) | [![自然中的几何之美](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg) |
 | 2026-11-22 | 海浪间的庇护所 | 西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images) | [![海浪间的庇护所](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg) |
