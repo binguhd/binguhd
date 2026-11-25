@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-24 08:21:23 UTC
+> Ultimo aggiornamento: 2026-11-25 06:57:49 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-25 | Il canyon si veste di bianco | Sunset Point, Parco Nazionale del Bryce Canyon, Utah (© Colin D. Young/Alamy) | [![Il canyon si veste di bianco](https://www.bing.com/th?id=OHR.SunsetPoint_IT-IT9291683501_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_IT-IT9291683501_UHD.jpg) |
 | 2026-11-24 | Mimetismo d’autunno | Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures) | [![Mimetismo d’autunno](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg) |
 | 2026-11-23 | Geometria in natura | Germoglio di felce (© Reza Saputra/Getty Images) | [![Geometria in natura](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_UHD.jpg) |
 | 2026-11-22 | Un rifugio tra le onde | Cappella e Eremo di Santa Justa, Cantabria, Spagna (© Tramont_ana/Getty Images) | [![Un rifugio tra le onde](https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_320x240.jpg)](https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg) |
