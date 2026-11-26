@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-25 06:57:49 UTC
+> Ultimo aggiornamento: 2026-11-26 06:49:23 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-26 | Dove nascono gli arcobaleni | Rainbow Falls sul fiume Wailuku, Hilo, Hawaii, Stati Uniti (© Peter Unger/Getty Images) | [![Dove nascono gli arcobaleni](https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_IT-IT3377596162_UHD.jpg) |
 | 2026-11-25 | Il canyon si veste di bianco | Sunset Point, Parco Nazionale del Bryce Canyon, Utah (© Colin D. Young/Alamy) | [![Il canyon si veste di bianco](https://www.bing.com/th?id=OHR.SunsetPoint_IT-IT9291683501_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_IT-IT9291683501_UHD.jpg) |
 | 2026-11-24 | Mimetismo d’autunno | Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia (© Scotland: The Big Picture/Minden Pictures) | [![Mimetismo d’autunno](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg) |
 | 2026-11-23 | Geometria in natura | Germoglio di felce (© Reza Saputra/Getty Images) | [![Geometria in natura](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_UHD.jpg) |
