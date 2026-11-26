@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-25 06:57:19 UTC
+> Dernière mise à jour: 2026-11-26 06:48:55 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-26 | Là où tombent les arcs-en-ciel | Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images) | [![Là où tombent les arcs-en-ciel](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg) |
 | 2026-11-25 | Cheminées de fées enneigées | Sunset Point, parc national de Bryce Canyon, Utah, États-Unis (© Colin D. Young/Alamy) | [![Cheminées de fées enneigées](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg) |
 | 2026-11-24 | Camouflage d’automne | Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures) | [![Camouflage d’automne](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg) |
 | 2026-11-23 | Géométrie au naturel | Pousse de fougère (© Reza Saputra/Getty Images) | [![Géométrie au naturel](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg) |
