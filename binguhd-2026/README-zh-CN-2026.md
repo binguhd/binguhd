@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-25 09:55:39 UTC
+> 最后更新：2026-11-26 06:50:42 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-01-01 | Neues Jahr, neue Chancen | Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images) | [![Neues Jahr, neue Chancen](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_320x240.jpg)](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg) |
-| 2026-02-16 | Kölle Alaaf! | Rosenmontagszug in Köln, Nordrhein-Westfalen (© mauritius images GmbH/Alamy) | [![Kölle Alaaf!](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_UHD.jpg) |
-| 2026-09-03 | Frankfurts historische Mitte | Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images) | [![Frankfurts historische Mitte](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg) |
+| 2026-01-02 | Die Seele Venedigs | Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images) | [![Die Seele Venedigs](https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_UHD.jpg) |
+| 2026-02-17 | Fünfzehn Tage voller Licht | Rote Laternen zum chinesischen Neujahr (© Gins Wang/Getty Images) | [![Fünfzehn Tage voller Licht](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_320x240.jpg)](https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_UHD.jpg) |
+| 2026-09-04 | Bögen zum Horizont | Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images) | [![Bögen zum Horizont](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_320x240.jpg)](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-04-06 | Hello, Easter Sunday | Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images) | [![Hello, Easter Sunday](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-CA1968475301_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-CA1968475301_UHD.jpg) |
 | 2026-04-05 | The lek side story | Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library) | [![The lek side story](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_320x240.jpg)](https://www.bing.com/th?id=OHR.GrouseGuff_EN-CA6763957448_UHD.jpg) |
-| 2026-04-04 | Bridging the gap, one arm at a time | Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images) | [![Bridging the gap, one arm at a time](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_320x240.jpg)](https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-CA6719297675_UHD.jpg) |
-| 2026-10-05 | The universe is calling | Artemis I moon rocket at Launch Complex 39B, Kennedy Space Centre, Florida, USA, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images) | [![The universe is calling](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-CA8945669255_320x240.jpg)](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-CA8945669255_UHD.jpg) |
+| 2026-10-06 | Taking the plunge, one lesson at a time | Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures) | [![Taking the plunge, one lesson at a time](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_320x240.jpg)](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-CA9613439676_UHD.jpg) |
 
 ## 🌹 [英语（英国）](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-11 | Copenhagen in full colour | Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images) | [![Copenhagen in full colour](https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_320x240.jpg)](https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_UHD.jpg) |
-| 2026-05-01 | Hop on, it's a creative ride | A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock) | [![Hop on, it's a creative ride](https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_320x240.jpg)](https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_UHD.jpg) |
-| 2026-10-19 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_UHD.jpg) |
+| 2026-08-12 | Giants worth protecting | A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images) | [![Giants worth protecting](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantDay_EN-GB4622751774_UHD.jpg) |
+| 2026-05-02 | Light at the end of the isle | Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images) | [![Light at the end of the isle](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_320x240.jpg)](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg) |
+| 2026-10-20 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-06-07 | The last wall standing | Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images) | [![The last wall standing](https://www.bing.com/th?id=OHR.DunseverickCastle2026_EN-IN6819043109_320x240.jpg)](https://www.bing.com/th?id=OHR.DunseverickCastle2026_EN-IN6819043109_UHD.jpg) |
-| 2026-11-10 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_UHD.jpg) |
-| 2026-10-19 | When Shakti rises | Goddess Durga idol in a pandal (© shouvik mondal/iStock/Getty Images) | [![When Shakti rises](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_320x240.jpg)](https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg) |
+| 2026-06-08 | Drift with the current | Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock) | [![Drift with the current](https://www.bing.com/th?id=OHR.Cyanea_EN-IN6969006894_320x240.jpg)](https://www.bing.com/th?id=OHR.Cyanea_EN-IN6969006894_UHD.jpg) |
+| 2026-11-11 | A forest full of wonder | The Atlantic Forest, Brazil (© FG Trade/Getty Images) | [![A forest full of wonder](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg) |
+| 2026-10-20 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-IN7427775510_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-02-16 | Songs beneath the waves | Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images) | [![Songs beneath the waves](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_320x240.jpg)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg) |
-| 2026-03-03 | Floating legacies | Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock) | [![Floating legacies](https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_320x240.jpg)](https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg) |
-| 2026-09-30 | Born of glaciers | The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images) | [![Born of glaciers](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_320x240.jpg)](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg) |
+| 2026-02-17 | Legacies in view | Lincoln Memorial, Washington, DC (© Westend61/Getty Images) | [![Legacies in view](https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_320x240.jpg)](https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg) |
+| 2026-03-04 | Guardians of the wild | African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com) | [![Guardians of the wild](https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_320x240.jpg)](https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg) |
+| 2026-10-01 | A face you don't forget | Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock) | [![A face you don't forget](https://www.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_320x240.jpg)](https://www.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg) |
 
 ## 🐓 [法语（法国）](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-03-29 | Le calme en bord de mer | Phare de Peggy’s Cove, Nouvelle-Écosse, Canada (© Prashanth Bala/Shutterstock) | [![Le calme en bord de mer](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg) |
-| 2026-03-19 | Piquez votre curiosité | L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com) | [![Piquez votre curiosité](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg) |
-| 2026-11-03 | La paix parmi les sommets | Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images) | [![La paix parmi les sommets](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg) |
+| 2026-03-30 | Quel est ce drôle d’oiseau ? | Grues demoiselles, Inde (© Axel Gomille/Nature Picture Library) | [![Quel est ce drôle d’oiseau ?](https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_320x240.jpg)](https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg) |
+| 2026-03-20 | La diversité à l’unisson | Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy) | [![La diversité à l’unisson](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_320x240.jpg)](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg) |
+| 2026-11-04 | Glisser à travers une peinture | Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images) | [![Glisser à travers une peinture](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-04-12 | Rotazioni e riflessi | Luci della città scorrono sotto, immortalate dalla Stazione Spaziale  Internazionale (© NASA) | [![Rotazioni e riflessi](https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceTrails_IT-IT2393301171_UHD.jpg) |
-| 2026-06-18 | Pietre degli dèi | Rovine di Sacsayhuamán, Cusco, Perù (© Creative-Family/Getty Images Plus) | [![Pietre degli dèi](https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730_320x240.jpg)](https://www.bing.com/th?id=OHR.Saqsaywaman_IT-IT8503253730_UHD.jpg) |
-| 2026-04-15 | Oltre la cornice | Mostra dedicata a Vincent van Gogh alle Carrières des Lumières, Les Baux-de-Provence, Francia (© Patrick Aventurier/Getty Images) | [![Oltre la cornice](https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_320x240.jpg)](https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_UHD.jpg) |
+| 2026-04-13 | Brilla nella notte | La Via Lattea sopra l'Anza-Borrego Desert State Park, California, USA (© Kevin Key/Slworking/Getty Images) | [![Brilla nella notte](https://www.bing.com/th?id=OHR.BorregoStars_IT-IT3311374255_320x240.jpg)](https://www.bing.com/th?id=OHR.BorregoStars_IT-IT3311374255_UHD.jpg) |
+| 2026-06-19 | Sentinella del Tirreno | Faro di Piombino, provincia di Livorno, Toscana (© StevanZZ/Getty Images) | [![Sentinella del Tirreno](https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360_320x240.jpg)](https://www.bing.com/th?id=OHR.IsolaElba_IT-IT8863679360_UHD.jpg) |
+| 2026-04-16 | Onde bucoliche | Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images) | [![Onde bucoliche](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_320x240.jpg)](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-01-06 | グリーンランドの最大の都市 | ヌーク, デンマーク (© nevereverro/Getty Images) | [![グリーンランドの最大の都市](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_320x240.jpg)](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_UHD.jpg) |
-| 2026-08-22 | 花と蝶の紫色のハーモニー | イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library) | [![花と蝶の紫色のハーモニー](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg) |
-| 2026-05-05 | 今日はこどもの日 | 姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock) | [![今日はこどもの日](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_320x240.jpg)](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg) |
+| 2026-01-07 | ノース・ウィンドウの開口部から望むタレットアーチ | アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion) | [![ノース・ウィンドウの開口部から望むタレットアーチ](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_320x240.jpg)](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_UHD.jpg) |
+| 2026-08-23 | 今日は処暑 | 夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images) | [![今日は処暑](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_320x240.jpg)](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg) |
+| 2026-05-06 | 雷雨が迫るドラマチックな空 | 平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images) | [![雷雨が迫るドラマチックな空](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_320x240.jpg)](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_UHD.jpg) |
 
 ## 🐉 [简体中文（中国）](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-06-04 | 优雅羽饰 | 梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures) | [![优雅羽饰](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_320x240.jpg)](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg) |
-| 2026-09-04 | 地平线上的红与白 | 韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images) | [![地平线上的红与白](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_320x240.jpg)](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg) |
-| 2026-01-26 | 巴伐利亚的瑰宝 | 新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images) | [![巴伐利亚的瑰宝](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_320x240.jpg)](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg) |
+| 2026-06-05 | 无人问津之地的静默力量 | 从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images) | [![无人问津之地的静默力量](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_320x240.jpg)](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg) |
+| 2026-09-05 | 小小鸟儿，巨大影响 | 龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library) | [![小小鸟儿，巨大影响](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg) |
+| 2026-01-27 | 羽翼预告：前方有鹈鹕 | 卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com) | [![羽翼预告：前方有鹈鹕](https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_320x240.jpg)](https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg) |
 
