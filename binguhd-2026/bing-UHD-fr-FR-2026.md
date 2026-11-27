@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-26 06:48:55 UTC
+> Dernière mise à jour: 2026-11-27 06:41:21 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-27 | Rubans gris et or | Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden) | [![Rubans gris et or](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_320x240.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg) |
 | 2026-11-26 | Là où tombent les arcs-en-ciel | Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images) | [![Là où tombent les arcs-en-ciel](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg) |
 | 2026-11-25 | Cheminées de fées enneigées | Sunset Point, parc national de Bryce Canyon, Utah, États-Unis (© Colin D. Young/Alamy) | [![Cheminées de fées enneigées](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg) |
 | 2026-11-24 | Camouflage d’automne | Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures) | [![Camouflage d’automne](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg) |
