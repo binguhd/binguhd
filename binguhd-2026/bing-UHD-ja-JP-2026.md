@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-26 06:49:50 UTC
+> 最終更新: 2026-11-27 06:42:16 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-27 | 灰色と黄金色が織りなす風景 | 夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ (© Jeff Foott/Minden) | [![灰色と黄金色が織りなす風景](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_320x240.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg) |
 | 2026-11-26 | 虹が舞い降りる滝 | ワイルク川のレインボー・フォールズ、ヒロ、ハワイ州、アメリカ (© Peter Unger/Getty Images) | [![虹が舞い降りる滝](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg) |
 | 2026-11-25 | 赤い奇岩の雪化粧 | サンセット・ポイント、ブライスキャニオン国立公園、ユタ州 (© Colin D. Young/Alamy) | [![赤い奇岩の雪化粧](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg) |
 | 2026-11-24 | 紅葉にまぎれて | キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures) | [![紅葉にまぎれて](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg) |
