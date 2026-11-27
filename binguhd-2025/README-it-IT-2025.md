@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2025
 
-> Ultimo aggiornamento：2026-11-26 09:40:08 UTC
+> Ultimo aggiornamento：2026-11-27 06:43:06 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2025-06-30 | Die Edelsteine des Universums | Wolfe-Creek-Krater, Australien (© Abstract Aerial Art/Getty Images) | [![Die Edelsteine des Universums](https://www.bing.com/th?id=OHR.WolfeCrater_DE-DE8115529012_320x240.jpg)](https://www.bing.com/th?id=OHR.WolfeCrater_DE-DE8115529012_UHD.jpg) |
-| 2025-08-20 | Mächtige Mauern hoch über dem Meer | Die Zitadelle von Bonifacio, Südkorsika, Frankreich (© Marc Dozier/Getty Images) | [![Mächtige Mauern hoch über dem Meer](https://www.bing.com/th?id=OHR.CitadelBonifacio_DE-DE9194010566_320x240.jpg)](https://www.bing.com/th?id=OHR.CitadelBonifacio_DE-DE9194010566_UHD.jpg) |
-| 2025-11-21 | Ein Gruß mit Flosse | Seehunde im Robert Moses State Park, Long Island, New York, USA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images) | [![Ein Gruß mit Flosse](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_320x240.jpg)](https://www.bing.com/th?id=OHR.SealWaving_DE-DE3822094080_UHD.jpg) |
+| 2025-05-05 | Fossilien, Wasserfälle und Waldwege | Mount Burgess und Emerald Lake im Yoho-Nationalpark, British Columbia, Kanada (© Feng Wei Photography/Getty Images) | [![Fossilien, Wasserfälle und Waldwege](https://www.bing.com/th?id=OHR.YohoNP_DE-DE0247251687_320x240.jpg)](https://www.bing.com/th?id=OHR.YohoNP_DE-DE0247251687_UHD.jpg) |
+| 2025-11-22 | Wächter über Flüsse und Zeit | Großer Buddha von Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images) | [![Wächter über Flüsse und Zeit](https://www.bing.com/th?id=OHR.LeshanBuddha_DE-DE9705133589_320x240.jpg)](https://www.bing.com/th?id=OHR.LeshanBuddha_DE-DE9705133589_UHD.jpg) |
+| 2025-05-24 | Die wilde Seite des Nordens | Jotunheimen-Nationalpark in Norwegen (© Marisa Estivill/Shutterstock) | [![Die wilde Seite des Nordens](https://www.bing.com/th?id=OHR.JotunheimenPark_DE-DE8444693160_320x240.jpg)](https://www.bing.com/th?id=OHR.JotunheimenPark_DE-DE8444693160_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-08-23 | Nature's green quilt | Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images) | [![Nature's green quilt](https://www.bing.com/th?id=OHR.PalouseWA_EN-CA1378669276_320x240.jpg)](https://www.bing.com/th?id=OHR.PalouseWA_EN-CA1378669276_UHD.jpg) |
-| 2025-04-21 | The Easter Bunny is coming to town | Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images) | [![The Easter Bunny is coming to town](https://www.bing.com/th?id=OHR.BunnyLove_EN-CA7409244062_320x240.jpg)](https://www.bing.com/th?id=OHR.BunnyLove_EN-CA7409244062_UHD.jpg) |
-| 2025-12-29 | What remains wild | Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images) | [![What remains wild](https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065_320x240.jpg)](https://www.bing.com/th?id=OHR.RuffedLemur_EN-CA4162667065_UHD.jpg) |
+| 2025-11-07 | Sky full of wishes | Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images) | [![Sky full of wishes](https://www.bing.com/th?id=OHR.LanternsThailand_EN-CA5479422302_320x240.jpg)](https://www.bing.com/th?id=OHR.LanternsThailand_EN-CA5479422302_UHD.jpg) |
+| 2025-06-30 | Where history gets spicy | Blue lagoon of Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy Stock Photo) | [![Where history gets spicy](https://www.bing.com/th?id=OHR.BandaIsland_EN-CA1920506603_320x240.jpg)](https://www.bing.com/th?id=OHR.BandaIsland_EN-CA1920506603_UHD.jpg) |
+| 2025-08-20 | The edge of the Pacific | Aerial view of Vancouver Island, British Columbia (© edb3_16/Getty Images) | [![The edge of the Pacific](https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_320x240.jpg)](https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-08-02 | Sails up, spirits high | Spectators at Cowes Week 2013 in Cowes, Isle of Wight (© Alan Crowhurst/Getty Images) | [![Sails up, spirits high](https://www.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_320x240.jpg)](https://www.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_UHD.jpg) |
-| 2025-11-24 | Nature's secret code | Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock) | [![Nature's secret code](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-GB4141687555_320x240.jpg)](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-GB4141687555_UHD.jpg) |
-| 2025-06-28 | Sands of time | Mesquite Flat Sand Dunes in Death Valley National Park, California, United States (© Bryan Jolley/TANDEM Stills + Motion) | [![Sands of time](https://www.bing.com/th?id=OHR.MesquiteFlats_EN-GB1375623335_320x240.jpg)](https://www.bing.com/th?id=OHR.MesquiteFlats_EN-GB1375623335_UHD.jpg) |
+| 2025-11-21 | Sketched into history | Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock) | [![Sketched into history](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-GB3688069566_320x240.jpg)](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-GB3688069566_UHD.jpg) |
+| 2025-08-22 | Nature's green quilt | Rolling hills of the Palouse, Washington, United States (© svetlana57/Getty Images) | [![Nature's green quilt](https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034_320x240.jpg)](https://www.bing.com/th?id=OHR.PalouseWA_EN-GB8343692034_UHD.jpg) |
+| 2025-04-20 | The Easter Bunny is coming to town | Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images) | [![The Easter Bunny is coming to town](https://www.bing.com/th?id=OHR.BunnyLove_EN-GB7199953818_320x240.jpg)](https://www.bing.com/th?id=OHR.BunnyLove_EN-GB7199953818_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-10-09 | Universe in bloom | The Pillars of Creation viewed by the James Webb Space Telescope (© NASA) | [![Universe in bloom](https://www.bing.com/th?id=OHR.WebbPillars_EN-IN0244722774_320x240.jpg)](https://www.bing.com/th?id=OHR.WebbPillars_EN-IN0244722774_UHD.jpg) |
-| 2025-02-02 | Azure highlights | Alappuzha, Kerala (© Gautam Krishna/Getty Images) | [![Azure highlights](https://www.bing.com/th?id=OHR.AlappuzhaWaters_EN-IN6155439001_320x240.jpg)](https://www.bing.com/th?id=OHR.AlappuzhaWaters_EN-IN6155439001_UHD.jpg) |
-| 2025-04-09 | Before the stars take over | Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images) | [![Before the stars take over](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueNaxos_EN-IN8174628613_UHD.jpg) |
+| 2025-12-29 | The church that outlived a city | St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images) | [![The church that outlived a city](https://www.bing.com/th?id=OHR.AniTurkey_EN-IN9670620964_320x240.jpg)](https://www.bing.com/th?id=OHR.AniTurkey_EN-IN9670620964_UHD.jpg) |
+| 2025-08-03 | Hello yellow! | Sunflowers blooming in a field in summer (© Arsgera/Shutterstock) | [![Hello yellow!](https://www.bing.com/th?id=OHR.HappySunflower_EN-IN9216040655_320x240.jpg)](https://www.bing.com/th?id=OHR.HappySunflower_EN-IN9216040655_UHD.jpg) |
+| 2025-11-24 | Secrets in stone | Gwalior Fort, Madhya Pradesh (© ImagesofIndia/Shutterstock) | [![Secrets in stone](https://www.bing.com/th?id=OHR.GwailorFort_EN-IN5085312905_320x240.jpg)](https://www.bing.com/th?id=OHR.GwailorFort_EN-IN5085312905_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-02-10 | A point worth pondering | Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion) | [![A point worth pondering](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_320x240.jpg)](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg) |
-| 2025-10-02 | Echoes from the Clark Range | Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion) | [![Echoes from the Clark Range](https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_320x240.jpg)](https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg) |
-| 2025-06-08 | Taking the high road | Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion) | [![Taking the high road](https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_320x240.jpg)](https://www.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg) |
+| 2025-06-29 | Flying the flag for Pride | Rainbow flags at New York Pride (© Alan Schein/Getty Images) | [![Flying the flag for Pride](https://www.bing.com/th?id=OHR.PrideParade_EN-US9405333794_320x240.jpg)](https://www.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg) |
+| 2025-10-09 | Camouflage in motion | Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture) | [![Camouflage in motion](https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_320x240.jpg)](https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg) |
+| 2025-02-02 | Roots of freedom | National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock) | [![Roots of freedom](https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_320x240.jpg)](https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2025-10-05 | Un hommage aux alchimistes du savoir | Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy) | [![Un hommage aux alchimistes du savoir](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_320x240.jpg)](https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg) |
-| 2025-12-14 | Sous la neige, le chant du vivant | Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures) | [![Sous la neige, le chant du vivant](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_320x240.jpg)](https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_UHD.jpg) |
-| 2025-09-22 | Peupliers faux-trembles… mais pas de peur ! | Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images) | [![Peupliers faux-trembles… mais pas de peur !](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_320x240.jpg)](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg) |
+| 2025-04-09 | L’île aux mille saveurs méditerranéennes | Heure bleue à Naxos, Cyclades, Grèce (© Sizun Eye/Getty Images) | [![L’île aux mille saveurs méditerranéennes](https://www.bing.com/th?id=OHR.BlueNaxos_FR-FR7466920458_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueNaxos_FR-FR7466920458_UHD.jpg) |
+| 2025-02-10 | Un p’tit coin d’parapluie... | Installation artistique de parapluies, Borough Market, Londres, Angleterre (© Malcolm P Chapman/Getty Images) | [![Un p’tit coin d’parapluie...](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-FR6755683409_320x240.jpg)](https://www.bing.com/th?id=OHR.UmbrellaDay_FR-FR6755683409_UHD.jpg) |
+| 2025-10-02 | Grand Teton, grande émotion | Site naturel de Oxbow Bend, parc national du Grand Teton, Wyoming, États-Unis (© DanitaDelimont.com/AWL Images/SuperStock) | [![Grand Teton, grande émotion](https://www.bing.com/th?id=OHR.OxbowBend_FR-FR2570017898_320x240.jpg)](https://www.bing.com/th?id=OHR.OxbowBend_FR-FR2570017898_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2025-08-10 | Hic sunt leones | Leonessa nella Riserva Nazionale del Masai Mara, Kenya (© Tandem Stock/Adobe Stock) | [![Hic sunt leones](https://www.bing.com/th?id=OHR.LionessKenya_IT-IT2680402991_320x240.jpg)](https://www.bing.com/th?id=OHR.LionessKenya_IT-IT2680402991_UHD.jpg) |
-| 2025-12-30 | Danza del Sol Levante | Cigni selvatici, stagno di Kotoku, Giappone (© Martin Bailey/Shutterstock) | [![Danza del Sol Levante](https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_320x240.jpg)](https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_UHD.jpg) |
-| 2025-02-26 | Cartoline Scozzesi | Castello di Stalker sul Loch Laich, Argyll, Scozia (© WLDavies/Getty Images) | [![Cartoline Scozzesi](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_320x240.jpg)](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_UHD.jpg) |
+| 2025-06-08 | Tutti per uno, uno per tutti! | Leoni marini di Steller, Isola di Vancouver, British Columbia, Canada (© Steve Woods Photography/Getty Images) | [![Tutti per uno, uno per tutti!](https://www.bing.com/th?id=OHR.StellarSeaLions_IT-IT5341813083_320x240.jpg)](https://www.bing.com/th?id=OHR.StellarSeaLions_IT-IT5341813083_UHD.jpg) |
+| 2025-10-05 | Festeggiamo la saggezza | Civetta capogrosso in una foresta dell'Europa centrale (© Ondrej Prosicky/Alamy) | [![Festeggiamo la saggezza](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_320x240.jpg)](https://www.bing.com/th?id=OHR.TeacherOwl_IT-IT7269776472_UHD.jpg) |
+| 2025-12-14 | Spirito natalizio | Gnomi fatti a mano in un mercatino di Natale (© Veronika Seppanen/Shutterstock) | [![Spirito natalizio](https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_320x240.jpg)](https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2025-10-20 | 今日は国際ナマケモノの日 | ホフマンナマケモノ, エクアドル (© Murray Cooper/Minden Pictures) | [![今日は国際ナマケモノの日](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_320x240.jpg)](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg) |
-| 2025-03-08 | 今日は国際女性デー | 恐れを知らぬ少女, 米国 ニューヨーク州 (© JOHANNES EISELE/AFP via Getty Images) | [![今日は国際女性デー](https://www.bing.com/th?id=OHR.FearlessWomen_JA-JP3446140149_320x240.jpg)](https://www.bing.com/th?id=OHR.FearlessWomen_JA-JP3446140149_UHD.jpg) |
-| 2025-09-06 | 北米を翔ける小さな旅人 | アカフトオハチドリ, 米国 カリフォルニア州 (© jeremyborkat/Getty Images) | [![北米を翔ける小さな旅人](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_320x240.jpg)](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_UHD.jpg) |
+| 2025-09-22 | 色とりどりのくちばしを持つオオハシ | サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images) | [![色とりどりのくちばしを持つオオハシ](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_320x240.jpg)](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg) |
+| 2025-08-10 | 今日は世界ライオンの日 | マサイマラ国立保護区のライオン, ケニア (© Tandem Stock/Adobe Stock) | [![今日は世界ライオンの日](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_320x240.jpg)](https://www.bing.com/th?id=OHR.LionessKenya_JA-JP1487330341_UHD.jpg) |
+| 2025-12-30 | 夕陽に染まる空を舞う冬の使者 | 古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock) | [![夕陽に染まる空を舞う冬の使者](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_320x240.jpg)](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2025-03-15 | “朋友们，罗马人，同胞们…” | 罗马广场上的罗马萨图尔诺农神庙，罗马，意大利 (© Nico De Pasquale Photography/Getty Images) | [![“朋友们，罗马人，同胞们…”](https://www.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_320x240.jpg)](https://www.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg) |
-| 2025-05-07 | 岩石上的城堡 | 邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images) | [![岩石上的城堡](https://www.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_320x240.jpg)](https://www.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg) |
-| 2025-04-05 | 朝圣圣胡安·德·加兹特鲁加特 | 日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images) | [![朝圣圣胡安·德·加兹特鲁加特](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_320x240.jpg)](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg) |
+| 2025-02-26 | 苏格兰战略的最佳体现 | 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images) | [![苏格兰战略的最佳体现](https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_320x240.jpg)](https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg) |
+| 2025-10-20 | 慢节奏的生活 | 霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures) | [![慢节奏的生活](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_320x240.jpg)](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg) |
+| 2025-03-08 | 原始纯净的自然天堂 | 石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images) | [![原始纯净的自然天堂](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_320x240.jpg)](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg) |
 
