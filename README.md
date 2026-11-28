@@ -8,6 +8,10 @@
 
 🔗 [binguhd/binguhd](https://github.com/binguhd/binguhd)
 
+## 🛰️ 仅看中文
+
+🔗 [binguhd/binguhd-cn](https://github.com/binguhd/binguhd-cn)
+
 ## 😀 简介
 
 👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON，汇总表格。
