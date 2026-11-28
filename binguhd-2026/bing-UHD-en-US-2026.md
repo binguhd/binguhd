@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-27 06:40:52 UTC
+> Last updated: 2026-11-28 06:14:44 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-28 | Ribbons of gray and gold | Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden) | [![Ribbons of gray and gold](https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_320x240.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg) |
 | 2026-11-27 | Turkey twins | Two wild tom turkeys (© davidsdodd/Getty Images) | [![Turkey twins](https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_320x240.jpg)](https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg) |
 | 2026-11-26 | A southwestern snowfall | Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy) | [![A southwestern snowfall](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg) |
 | 2026-11-25 | Autumnal camouflage | Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures) | [![Autumnal camouflage](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_320x240.jpg)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg) |
