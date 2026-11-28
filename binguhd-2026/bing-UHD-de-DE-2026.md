@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-27 06:39:01 UTC
+> Zuletzt aktualisiert: 2026-11-28 06:12:48 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-28 | Brücken in die Vergangenheit | Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images) | [![Brücken in die Vergangenheit](https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_320x240.jpg)](https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg) |
 | 2026-11-27 | Streifen in Grau und Gold | Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden) | [![Streifen in Grau und Gold](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_320x240.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg) |
 | 2026-11-26 | Wo Regenbogen fallen | Rainbow Falls am Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images) | [![Wo Regenbogen fallen](https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_UHD.jpg) |
 | 2026-11-25 | Schneefall im Südwesten | Sunset Point, Bryce-Canyon-Nationalpark, Utah (© Colin D. Young/Alamy) | [![Schneefall im Südwesten](https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg) |
