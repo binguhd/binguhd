@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-27 06:39:53 UTC
+> Last updated: 2026-11-28 06:13:49 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-29 | Bridges through time | Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images) | [![Bridges through time](https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_320x240.jpg)](https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_UHD.jpg) |
 | 2026-11-28 | Ribbons of grey and gold | Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden) | [![Ribbons of grey and gold](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_320x240.jpg)](https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg) |
 | 2026-11-27 | Where rainbows fall | Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images) | [![Where rainbows fall](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_320x240.jpg)](https://www.bing.com/th?id=OHR.RFHilo_EN-GB7287228600_UHD.jpg) |
 | 2026-11-26 | When snow meets red rock | Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy) | [![When snow meets red rock](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-GB6418180336_UHD.jpg) |
